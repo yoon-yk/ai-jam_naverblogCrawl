@@ -20,15 +20,15 @@ def check_out_folder():
     return check_folder('out')
 
 def saveImage(url, path):       
-    try:    
-        link = urllib.parse.quote(url,safe=':/?-=') 
-        #print('link : ' + link)
-        urllib.request.urlretrieve(link, path)
-        #urllib.request.urlretrieve(url, path)
-        print(path) 
-    except Exception as e:
-        print(url + ' ' + str(e))
-        return False
+    # try:    
+    #     link = urllib.parse.quote(url,safe=':/?-=') 
+    #     #print('link : ' + link)
+    #     urllib.request.urlretrieve(link, path)
+    #     #urllib.request.urlretrieve(url, path)
+    #     print(path) 
+    # except Exception as e:
+    #     print(url + ' ' + str(e))
+    #     return False
     return True
 
 

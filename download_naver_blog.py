@@ -1,6 +1,11 @@
 # -*- coding: utf-8 -*- 
 
+"""
+https://github.com/chandong83/download-naver-blog
+"""
+
 import sys
+import csv
 import requests
 from bs4 import BeautifulSoup
 
@@ -11,6 +16,7 @@ import utils
 
 out_path = 'out'
 folder_path = ''
+
 def crawler(blog_url, path, file_name):
     parser = Parser(path, True)
     try:   
@@ -26,7 +32,13 @@ def crawler(blog_url, path, file_name):
             else:
                 for sub_content in soup.select('div.se-component'):
                     txt += parser.parsing(sub_content)
-            fp.write(txt)            
+            fp.write(txt)    
+
+        with open(path + '/' + file_name, 'r') as txtfile, open('summary.csv','a', encoding='utf-8') as csvfileout:
+            line = txtfile.read().replace("\n", " ")
+            writer = csv.DictWriter(csvfileout,fieldnames = ["num", "content"])
+            writer.writerow({'num' : file_name.rstrip('.txt') , 'content' : line})
+                
         return True
     except Exception as e:
          print(e)
