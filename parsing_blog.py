@@ -14,6 +14,7 @@ import utils
 class Parser(object):
     def __init__(self, _path='out', _markdown_mdoe=True, skip_sticker=True):
         self.counter = 0
+        self.stkcounter = 0
         self.markdown_mdoe = _markdown_mdoe
         self.folder_path = _path
         if self.markdown_mdoe:
@@ -187,12 +188,16 @@ class Parser(object):
             return txt       
         return None
 
+    def imgCount(self):
+        return self.counter
+
     # 스티커 이미지 링크
     def sticker(self, content):     
         txt = ''
         cont_text = str(content).replace('se_sticker', 'se-sticker')        
         if 'se-sticker' in str(cont_text):
             if self.skip_sticker:                
+                self.stkcounter += 1
                 return '[sticker]' + self.endline
             for sub_content in content.select('img'):
                 #fp.write(sub_content['src'])
@@ -200,7 +205,17 @@ class Parser(object):
                 txt += self.endline
             return txt   
         return None
-        
+
+    def stickerCnt(self):
+        return self.stkcounter
+
+    # # 공감
+    # def like(self, content):
+    #     txt = ''
+    #     result = re.search('<em class="u_cnt _count">(.*)</em>', content)
+    #     txt += result.group(1)
+    #     return txt
+
     # 구분선
     def hr(self, content): 
         txt = ''

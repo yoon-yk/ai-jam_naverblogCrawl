@@ -36,8 +36,10 @@ def crawler(blog_url, path, file_name):
 
         with open(path + '/' + file_name, 'r') as txtfile, open('summary.csv','a', encoding='utf-8') as csvfileout:
             line = txtfile.read().replace("\n", " ")
-            writer = csv.DictWriter(csvfileout,fieldnames = ["num", "content"])
-            writer.writerow({'num' : file_name.rstrip('.txt') , 'content' : line})
+            imgCnt = parser.imgCount()
+            stiCnt = parser.stickerCnt()
+            writer = csv.DictWriter(csvfileout,fieldnames = ["num", "content", "img", "sticker"])
+            writer.writerow({'num' : file_name.rstrip('.txt') , 'content' : line, 'img' : imgCnt, 'sticker' : stiCnt})
                 
         return True
     except Exception as e:
