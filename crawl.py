@@ -1,3 +1,4 @@
+  
 # 네이버 블로그 크롤링
 import parser
 import csv
@@ -16,7 +17,7 @@ import download_naver_blog
 driver = webdriver.Chrome("./chromedriver/chromedriver")
 
 #네이버 블로그 접속
-keyword = "코알라"
+keyword = "치즈케이크"
 
 # 키워드 설정하기 ( 각 단어를 띄워쓰기 !! )
 #정확하게 일치하는 단어
@@ -45,7 +46,7 @@ driver.get("https://search.naver.com/search.naver?where=post&sm=tab_jum&query="+
 怨듦컧 �� : em.u_cnt._count
 '''
 with open("summary.csv",  "w", encoding='utf-8', newline='') as csv_fp:
-    writer = csv.DictWriter(csv_fp, fieldnames = ["num", "content", "img", "sticker", "like", "allPosts"])
+    writer = csv.DictWriter(csv_fp, fieldnames = ["num", "content", "img", "sticker", "video", "allPosts", "tags", "widget", "isad"])
     writer.writeheader()
 
 bloglinklist = driver.find_elements_by_css_selector("li.sh_blog_top dt a")
@@ -56,4 +57,5 @@ for i in bloglinklist:
     k+=1
     download_naver_blog.run(link, filename) #download_naver_blog �덉쓽 run �⑥닔 �ъ슜!
 
-    
+
+driver.close()

@@ -18,11 +18,13 @@ import utils
 out_path = 'out'
 folder_path = ''
 
+# determine if dataset is ad or not
+isad = 0
+
 def crawler(blog_url, path, file_name):
     parser = Parser(path, True)
     try:   
         soup = BeautifulSoup(requests.get(blog_url).text, 'lxml') 
-        html = BeautifulSoup(requests.get(blog_url).text,'html.parser')
        
         with open(path + '/' + 'full_' + file_name,  "w", encoding='utf-8') as fp_full:
             fp_full.write(str(soup))
@@ -41,13 +43,17 @@ def crawler(blog_url, path, file_name):
             line = txtfile.read().replace("\n", " ")
             imgCnt = parser.imgCount()
             stiCnt = parser.stickerCnt()
+            taglist = parser.hashtags(soup)
+            widgets = parser.widget(soup)
+            videoCnt = parser.videoCnt(soup)
+            print(f"********{taglist}********")
 
             # fp_full = open(path + '/' + 'full_' + file_name,  "r", encoding='utf-8')
             # # 공감수를 fp_full에서 찾으려고 했는데 제거됐다 ...????
             # # likeCnt = ''
             # # result = re.findall('<em class="u_cnt _count">(.*)</em>', fp_full)
             # # likeCnt += result[0]
-            likeCnt = "hh"
+            # likeCnt = "hh"
 
             # 전체 글 수
             allPost = "zz"
@@ -56,8 +62,8 @@ def crawler(blog_url, path, file_name):
 
             # fp_full.close()
 
-            writer = csv.DictWriter(csvfileout,fieldnames = ["num", "content", "img", "sticker", "like", "allPosts"])
-            writer.writerow({'num' : file_name.rstrip('.txt') , 'content' : line, 'img' : imgCnt, 'sticker' : stiCnt, 'like' : likeCnt, 'allPosts' : allPost})
+            writer = csv.DictWriter(csvfileout,fieldnames = ["num", "content", "img", "sticker", "video", "allPosts", "tags", "widget", "isad"])
+            writer.writerow({'num' : file_name.rstrip('.txt') , 'content' : line, 'img' : imgCnt, 'sticker' : stiCnt, 'video' : videoCnt, 'allPosts' : allPost, 'tags' : taglist, 'widget' : widgets, 'isad' : isad })
                 
         return True
     except Exception as e:

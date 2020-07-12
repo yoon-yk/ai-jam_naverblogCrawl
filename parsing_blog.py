@@ -27,7 +27,7 @@ class Parser(object):
         self.subtitle3 = '####'
         self.skip_sticker = skip_sticker
         # 파싱 리스트
-        self.parsing_func_list = [self.img_group, self.link, self.text, self.code, self.img, self.sticker, self.hr, self.textarea, self.video, self.script, self.anniversary, self.unreliable_text]
+        self.parsing_func_list = [self.img_group, self.link, self.text, self.code, self.img, self.sticker, self.hr, self.textarea, self.video, self.script, self.anniversary, self.unreliable_text, self.hashtags]
 
 
     def is_exist_item(self):
@@ -133,6 +133,19 @@ class Parser(object):
             return txt
         '''
         return None
+
+    # 태그 존재 여부 
+    def hashtags(self, content):
+        tags ='0'
+        if 'se-hash-tag' in str(content):
+            ## 태그 존재 한다
+            tags = '1'
+            # for tag in content.select('se-hash-tag'):
+            #     print("*"*50,tag)
+            #     # tags = tag.text    
+            #     # tags += self.endline
+            # return tags
+        return tags
 
     # 코드
     def code(self, content): 
@@ -254,6 +267,15 @@ class Parser(object):
             return txt
         return None
 
+    # 비디오 영역
+    def videoCnt(self, content): 
+        videoCnt = 0 
+        if 'se_video' in str(content) or 'se-video' in str(content):
+            for sub_content in content.select('iframe'): 
+                #fp.write(sub_content['src'])
+                videoCnt += 1
+        return videoCnt
+
     # 스크립트 영역
     def script(self, content): 
         txt = ''
@@ -320,6 +342,15 @@ class Parser(object):
         </div>
         </div>
         '''
+
+    # 위젯 개수 
+    def widget(self, content):
+        if 'aWidget.push' in str(content):
+            widgets = str(content).count('aWidget.push')
+        # widgets = len(content.select('aWidget.push')) 
+        return widgets
+
+
     def parsing(self, content):
         txt = ''        
         for func in self.parsing_func_list:
