@@ -636,7 +636,7 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 		}
 	}
 </script>
-<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 20:35:13 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:10:53 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
     var doc = document.documentElement;
     doc.setAttribute('data-useragent',navigator.userAgent);
@@ -1499,7 +1499,7 @@ function splugin_oninitialize(nCount) {
 </div>
 </div>
 </div>
-<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-8598498b-6653-11ea-8fc7-d15b59900792", "data" : { "videoType" : "player", "vid" : "2B4F1CF4A58771A2D8E118D00D22679809A4", "inkey" : "V1256555a0bb1029b4f5cf3b821b88d2118b5f54cc622196dee3e5c62d9480be22f5ff3b821b88d2118b5", "originalWidth": "2224", "originalHeight": "1080", "width": "2224", "height": "1080", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"작은 무스링 치즈반죽","tags":[],"description":"질감 확인"} }}' type="text/data"></script>
+<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-8598498b-6653-11ea-8fc7-d15b59900792", "data" : { "videoType" : "player", "vid" : "2B4F1CF4A58771A2D8E118D00D22679809A4", "inkey" : "V122a10ad602049cb9db7f3b821b88d2118b5f54cc622196dee3e5c62d9480be22f5ff3b821b88d2118b5", "originalWidth": "2224", "originalHeight": "1080", "width": "2224", "height": "1080", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"작은 무스링 치즈반죽","tags":[],"description":"질감 확인"} }}' type="text/data"></script>
 </div> <div class="se-component se-image se-l-default" id="SE-0b847f1b-6654-11ea-8fc7-cf175c786bb6">
 <div class="se-component-content se-component-content-fit">
 <div class="se-section se-section-image se-l-default se-section-align-center">
@@ -2149,7 +2149,7 @@ $Fn(function() {
 	}
 </script>
 <div class="layer_style display_none" id="multime2Layer"></div>
-<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 20:35:13 KST 2020"></script>
+<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:10:53 KST 2020"></script>
 <script>
 	window.onload = function() {
         window.__splugin = SocialPlugIn_Core({
@@ -2202,7 +2202,7 @@ new InstallBlogAppPush();
 
     </script>
 <!-- 	<script Type="text/javascript" Src="http://openapi.map.naver.com/openapi/openapi_v23.js"></script> -->
-<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 20:35:13 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:10:53 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
 
 

@@ -1,0 +1,70 @@
+<h3 class="se_textarea">
+<!-- -->한스케익 :: 산딸기 치즈케이크 완전 맛있어!<!-- -->
+</h3>
+
+0<h4 class="se_textarea"><!-- SE3-TEXT { -->한스케익<!-- } SE3-TEXT --></h4>
+
+<p class="se_textarea"><!-- SE3-TEXT { --><span class="se_fs_T4 se_ff_nanummyeongjo" style="color:rgb(183,183,183);se_ff_nanummyeongjo"><b>산딸기 치즈케이크</b></span><br/><br/><!-- } SE3-TEXT --></p>
+
+0
+
+<p class="se_textarea"><!-- SE3-TEXT { --><br/><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">2015년 11월7일 결혼한 우리</span><br/><br/><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">벌써 3년차 부부로</span><br/><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">결혼한지 </span><span class="se_fs_T2 se_ff_nanummyeongjo" style="color:rgb(240,044,140);se_ff_nanummyeongjo"><b>900일</b></span><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">을 맞이하게 되었어요.</span><br/><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">벌써 시간이 이렇게 되었다니</span><br/><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">신기하기도 하고 기특하기도 하고 뿌듯하기도 해요!</span><br/><br/><br/><!-- } SE3-TEXT --></p>
+
+
+
+<p class="se_textarea"><!-- SE3-TEXT { --><br/><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">기념일은 거의 케이크 먹고싶은 핑계로 하는 나!</span><br/><br/><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">사실 그냥 넘어갈수도 있는 900일 기념일을</span><br/><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">전 한스케익 산딸기 치즈케이크 먹어보고 싶어서</span><br/><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">남편 졸라서 기념일 파티하자고했어요.</span><br/><br/><!-- } SE3-TEXT --></p>
+
+0<p class="se_textarea"><!-- SE3-TEXT { --><br/><br/><!-- } SE3-TEXT --></p>
+
+
+
+<p class="se_textarea"><!-- SE3-TEXT { --><br/><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">사이즈가 S사이즈와 L사이즈가 있었는데</span><br/><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">제가 산 건 S사이즈였고, 가격은 33,000원!</span><br/><br/><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">한스케익 박스가 넘 예뻐서</span><br/><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">선물용으로도 너무 좋을 것 같은거에요.</span><br/><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">다음에 부모님 생신이나 이럴 때 요걸로 사야지.</span><br/><span class="se_fs_T3 se_ff_nanummyeongjo" style="color:rgb(000,000,000);se_ff_nanummyeongjo">빠바보다 디자인이 훨씬 고급지다 :)</span><br/><br/><!-- } SE3-TEXT --></p>
+
+
+
+
+
+<p class="se_textarea"><!-- SE3-TEXT { --><br/><span class="se_ff_nanummyeongjo">S사이즈지만 크기가 엄청 커요!</span><br/><br/><span class="se_ff_nanummyeongjo">신랑이랑 저랑 둘이서 전부 다 먹기에는 너무나 커서</span><br/><span class="se_ff_nanummyeongjo">반은 회사에 가져가서 직원들이랑 냠냠하고</span><br/><span class="se_ff_nanummyeongjo">반은 저희집 냉장고에 보관해뒀다가</span><br/><span class="se_ff_nanummyeongjo">몇일동안 달달한거 땡길때마다 조금씩 꺼내서 냠냠했어요.</span><br/><br/><br/><!-- } SE3-TEXT --></p>
+
+
+
+<p class="se_textarea"><!-- SE3-TEXT { --><br/><span class="se_ff_nanummyeongjo">한스케익 산딸기 치즈케이크</span><br/><span class="se_ff_nanummyeongjo">위에 빨갛게 올려져 있는게 산딸기쨈이었어요.</span><br/><span class="se_ff_nanummyeongjo">산딸기 씨가 톡톡 씹히기도 하구요.</span><br/><span class="se_ff_nanummyeongjo">상큼한 맛에 매료되어서 계속 먹게 되더라구요.</span><br/><br/><span class="se_ff_nanummyeongjo">산딸기 쨈 위에는 화이트초콜릿이 토핑되어 있었는데</span><br/><span class="se_ff_nanummyeongjo">초콜릿 맛은 그냥저냥 수준이었던 것 같아요.</span><br/><br/><br/><!-- } SE3-TEXT --></p>
+
+
+
+<p class="se_textarea"><!-- SE3-TEXT { --><br/><span class="se_ff_nanummyeongjo">위에 컷팅선이 잘 안보이지만</span><br/><span class="se_ff_nanummyeongjo">잘 보면 커팅선이 실선으로 표시되어 있는 케이크에요.</span><br/><br/><span class="se_ff_nanummyeongjo">플라스틱 케이크 칼은 너무 두껍고 투박해서</span><br/><span class="se_ff_nanummyeongjo">집에있는 과도로 잘라봤더니 깨끗하게 잘 잘리네요.</span><br/><span class="se_ff_nanummyeongjo">치즈케이크에 치즈가 이 정도는 있어줘야지!</span><br/><span class="se_ff_nanummyeongjo">치즈가 가득가득하게 채워진 산딸기 치즈케이크에요.</span><br/><br/><br/><!-- } SE3-TEXT --></p>
+
+
+
+<p class="se_textarea"><!-- SE3-TEXT { --><br/><span class="se_ff_nanummyeongjo">한스케익 한조각 잘라서 접시에 담아봤는데</span><br/><span class="se_ff_nanummyeongjo">측면으로 보니 안쪽에도 산딸기 토핑이 되어 있더라구요.</span><br/><br/><span class="se_ff_nanummyeongjo">산딸기가 안쪽에 많이 들어있는 건 아니었구요.</span><br/><span class="se_ff_nanummyeongjo">전 먹다가 3~4개 정도 발견했던 것 같아요.</span><br/><span class="se_ff_nanummyeongjo">진짜 산딸기가 씹히니까 넘 맛있었구요.</span><br/><span class="se_ff_nanummyeongjo">아래는 쿠키로 토핑되어있어서 달달하니 좋더라구요.</span><br/><br/><br/><!-- } SE3-TEXT --></p>
+
+
+
+<p class="se_textarea"><!-- SE3-TEXT { --><br/><span class="se_ff_nanummyeongjo">케이크 접시가 예쁘지 않은게 마음에 걸린당...</span><br/><span class="se_ff_nanummyeongjo">요즘 덴비그릇 모으느라 다른 그릇은 못 사고 있는데</span><br/><span class="se_ff_nanummyeongjo">조만간 덴비그릇 모으기 클리어하면</span><br/><br/><span class="se_ff_nanummyeongjo">예쁜 케이크접시랑 커피잔이랑 꼭 사놔야겠어요.</span><br/><br/><span class="se_ff_nanummyeongjo">산딸기 치즈케이크 한조각에 흰우유 냠냠</span><br/><span class="se_ff_nanummyeongjo">진짜 달달하니 스트레스 확 풀어주는 맛이에요.</span><br/><span class="se_ff_nanummyeongjo">많이 달지도 않고 상큼함과 꾸덕한 치즈맛이 조화롭게 어우러진</span><br/><span class="se_ff_nanummyeongjo">제 인생케이크였어요. 너무 맛있어!!</span><br/><br/><br/><!-- } SE3-TEXT --></p>
+
+
+
+<p class="se_textarea"><!-- SE3-TEXT { --><br/><span class="se_ff_nanummyeongjo">뱃 속 아가 생각하면 이런 디저트 좀 줄여야 하는데</span><br/><span class="se_ff_nanummyeongjo">너무 맛있어서 포기할 수 없는 걸 어떡해유...</span><br/><br/><span class="se_ff_nanummyeongjo">특히 입덧때문에 입 안이 쓸 떄는 달달한 케이크만한 게 없더라구요.</span><br/><span class="se_ff_nanummyeongjo">케이크 한 조각 먹고나면 쓴입이 한결 괜찮아져서</span><br/><span class="se_ff_nanummyeongjo">입덧 핑계대고 합리화 시키며 맛있게 먹었어요!</span><br/><br/><!-- } SE3-TEXT --></p>
+
+
+
+<p class="se_textarea"><!-- SE3-TEXT { --><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo">한스케익 산딸기 치즈케이크 주문하면서<br/></span><span class="se_ff_nanummyeongjo">눈에 계속 아른아른거려 고민했었던 초코 딸기 생크림 케이크<br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo">홀케익은 너무 커가지고, 조각케이크로 겟 해왔어요.<br/></span><span class="se_ff_nanummyeongjo">안쪽까지 통째로 들어간 딸기가 마음에 들어서<br/></span><span class="se_ff_nanummyeongjo">골라봤는데, 비주얼이 넘 잘생긴 거 있죠.<br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo">요건 진짜 예쁘다기 보단 뭔가 자~알 생긴 케이크 비주얼이에요.<br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo"></span><!-- } SE3-TEXT --></p>
+
+
+
+<p class="se_textarea"><!-- SE3-TEXT { --><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo">위쪽에는 생크림이구요.<br/></span><span class="se_ff_nanummyeongjo">안쪽은 커스터드 크림으로 채워넣은 케이크에요.<br/></span><span class="se_ff_nanummyeongjo">생크림은 단 맛이 아예 없다고 보시면 되구요.<br/></span><span class="se_ff_nanummyeongjo">커스터드 크림은 살짝 달달한 정도!<br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo">그리고 초코시트는 생각보다 단 맛이 없어서<br/></span><span class="se_ff_nanummyeongjo">단 것 싫어하시는 분들에게 딸기 초코 생크림 케이크 최고일 것 같아요.<br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo"></span><!-- } SE3-TEXT --></p>
+
+
+
+<p class="se_textarea"><!-- SE3-TEXT { --><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo">케이크가 먹고 싶어서 한 결혼 900일 기념일이었지만<br/></span><span class="se_ff_nanummyeongjo">그래도 900일은 900일이니까 신랑한테<br/></span><span class="se_ff_nanummyeongjo">뭐 해줄 말 없냐고 물었더니,<br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo">신랑이 저보고 요즘 참 대견하고 기특하대요!<br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo"></span><!-- } SE3-TEXT --></p>
+
+0<p class="se_textarea"><!-- SE3-TEXT { --><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo"><u><b></b></u><br/></span><span class="se_ff_nanummyeongjo"><b><i>사랑한다는 말보다 대견하다는 말이 더 감동인건 뭐지?</i></b></span><span class="se_ff_nanummyeongjo"><u><b></b></u><br/></span><span class="se_ff_nanummyeongjo"><u><b></b></u><br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo"></span><!-- } SE3-TEXT --></p>
+
+
+
+<p class="se_textarea"><!-- SE3-TEXT { --><span class="se_ff_nanummyeongjo"><i><b></b></i><br/></span><span class="se_ff_nanummyeongjo">아기 품고나서 무거워진 몸으로 임신 8개월 째<br/></span><span class="se_ff_nanummyeongjo">꿋꿋히 직장생활하며 버텨주는 게 </span><span class="se_ff_nanummyeongjo">신랑 눈에는 참 대견해보이나봐요.<br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo">엄청 힘들고 지치다가도,<br/></span><span class="se_ff_nanummyeongjo">신랑이 이러게 제 마음 알아줄때면 다시 기운이 뿜뿜 솟네요!<br/></span><span class="se_ff_nanummyeongjo">한스케익 산딸기 치즈케이크 그냥 먹어도 맛있지만<br/></span><span class="se_ff_nanummyeongjo">기념일날 먹으면 더 맛있지롱요.<br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo">저는 요거 재구매의사 완전 있어요.<br/></span><span class="se_ff_nanummyeongjo">한스케익 맛있다는 얘기만 듣다가 처음 먹어봤는데<br/></span><span class="se_ff_nanummyeongjo">진짜 맛있어서 만족스러웠어요!<br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo">요거 드시면 후회 없으실거에요.<br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo"><br/></span><span class="se_ff_nanummyeongjo"></span><!-- } SE3-TEXT --></p>
+
+
+
+<p class="se_textarea"><!-- SE3-TEXT { --><span class="se_ff_nanummyeongjo"></span><span class="se_ff_nanummyeongjo"></span><br/><br/><!-- } SE3-TEXT --></p>
+

@@ -1,0 +1,2295 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ko">
+<head>
+<meta content="no-cache" http-equiv="Pragma"/>
+<meta content="-1" http-equiv="Expires"/>
+<meta content="always" name="referrer"/>
+<!--[if ie]>
+<style type="text/css">
+html {overflow: scroll; overflow-x: auto;}
+</style>
+<![endif]-->
+<link charset="UTF-8" href="http://t.static.blog.naver.net/mylog/versioning/LayoutTopCommon-468772215.css" rel="stylesheet" type="text/css"/>
+<link href="http://t.static.blog.naver.net/mylog/versioning//common/css/music/player-d3fc09e.css" rel="stylesheet" type="text/css"/>
+<link href="/favicon.ico?2" rel="shortcut icon" type="image/x-icon"/>
+<meta content="부평 카페에서 디저트 냠 ♡ 딸기샹그리아 &amp; 치즈케이크, 브라우니" property="og:title"/>
+<meta content="http://blogthumb2.naver.net/MjAxOTA0MjJfMzEg/MDAxNTU1OTQwNDk0MTc3.A_VCjt2eieFH0CzOwqBOiQyWSfS3zJ8vb3XWMmEtuBsg.axpHnB4gYrLzVAx2H40V8sDScM23XlF5KWHf0uyNLiog.JPEG.polar2795/%BA%CE%C6%F2_%BF%B9%BB%DB_%C4%AB%C6%E4_%C0%A7%B4%EB%C7%D1%C4%AB%C6%E4_%281%29.jpg?type=w2" property="og:image"/>
+<meta content="부평 카페 위대한카페에서 또! 디저트 냠냠딸기샹그리아, 라떼, 커피 그리고 디저트들​​안녕하세요. 백곰..." property="og:description"/>
+<meta content="http://blog.naver.com/polar2795/221520206241" property="og:url"/>
+<meta content="blog" property="me:feed:serviceId"/>
+<style type="text/css">
+/*<![CDATA[*/
+
+
+body {background-color:rgb(255, 255, 255);background-image:none;}
+#head-skin {background-image:url(https://blogfiles.pstatic.net/MjAyMDAyMDZfODMg/MDAxNTgwOTE3OTk5NTA1.CKQpU-Lebo0zUd3_cho9rhTSYm_DsMLsNhmHXPwKEfwg.UD045VYH3RadtyA2Js-DY-mcyi_07Lt-oRrzHHAkDIYg.PNG.polar2795/backtop?type=w3000);}
+
+
+#whole-border {border-width:0px;border-color:rgb(0, 0, 0);border-style:solid;background:transparent;}
+#whole-head {height:0px;background:none;}
+#whole-body {background:none;}
+#whole-footer {height:0px;background:none;}
+
+
+#wrapper .side-border {border-width:0;border-color:transparent;border-style:0;}
+#wrapper .side-head {height:0;background:transparent;}
+#wrapper .side-body {padding:0;background:transparent;}
+#wrapper .side-footer {height:0;background:transparent;}
+
+
+#wrapper .cm-col1 {color:#8A837E;}
+#wrapper .cm-arw {background:#FC3245;}
+#wrapper div.line {border-top-color:#8A837E;}
+#wrapper .cm-border {border-width:0px;border-style:solid;border-color:#000000;}
+#wrapper .cm-head {height:30px;background:url(https://blogimgs.pstatic.net/nblog/skins/infobox/0149_head.gif);}
+#wrapper .cm-body {background:url(https://blogimgs.pstatic.net/nblog/skins/infobox/0149_body.gif);}
+#wrapper .cm-footer {height:6px;background:url(https://blogimgs.pstatic.net/nblog/skins/infobox/0149_footer.gif);}
+#wrapper .cm-icol {color:#f802ac;}
+#wrapper h3 {margin-left:14px;bottom:3px;}
+#wrapper .cmore {bottom:3px;}
+#blog-category .listimage {background-image:url(https://blogimgs.pstatic.net/nblog/skins/infobox/0149_arw.gif);}
+#wrapper .buddyup {background-image:url(https://blogimgs.pstatic.net/nblog/skins/infobox/0149_icon_up.gif);}
+#wrapper .buddydw {background-image:url(https://blogimgs.pstatic.net/nblog/skins/infobox/0149_icon_down.gif);}
+#blog-category .f_icoclosed {background-image:url(https://blogimgs.pstatic.net/nblog/skins/infobox/ico_f_closed_l.gif) !important;}
+#blog-category .f_icoopen {background-image:url(https://blogimgs.pstatic.net/nblog/skins/infobox/ico_f_open_l.gif) !important;}
+#blog-category ul li.depth2 {background-image:url(https://blogimgs.pstatic.net/nblog/skins/infobox/ico_depth2_l.gif) !important;}
+
+
+#blog-gnb .link {color:rgb(0, 0, 0);}
+#blog-gnb .gnb_name {color:rgb(0, 0, 0);}
+#blog-gnb .bar {background:rgb(153, 153, 153);}
+#blog-gnb .btn_blog_login {background:url(https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_login.png) no-repeat 0 0;}
+#blog-gnb .gnb_icon {background:url(https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_menu.png) no-repeat 0 0 !important;}
+#blog-gnb .go-down {background:url(https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_down.png);}
+#blog-gnb .gnb_my_namebox {background:url(https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_down.png) no-repeat 100% 50% !important;}
+#blog-gnb .go-up {background:url(https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_up.png);}
+#blog-gnb .gnb_lyr_opened .gnb_my_namebox {background:url(https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_up.png) no-repeat 100% 50% !important;}
+
+* html #blog-gnb .btn_blog_login { background:transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_login.png,sizingMethod=crop); }
+* html #blog-gnb .gnb_icon { background:transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_menu.png,sizingMethod=crop); }
+* html #blog-gnb .go-down { background:transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_down.png,sizingMethod=crop); }
+* html #blog-gnb .gnb_my_namebox { background:transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_down.png,sizingMethod=crop); }
+* html #blog-gnb .go-up { background:transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_up.png,sizingMethod=crop); }
+* html #blog-gnb .gnb_lyr_opened .gnb_my_namebox { background:transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_up.png,sizingMethod=crop); }
+
+#foldset .go-left {background:url(https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_left.png)}
+#foldset .go-right {background:url(https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_right.png)}
+
+* html #foldset .go-left { background:transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_left.png,sizingMethod=crop); }
+* html #foldset .go-right { background:transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://blogimgs.pstatic.net/nblog/skins/gnb2014/1007_right.png,sizingMethod=crop); }
+
+#body {width:982px; margin:0 auto; padding:0;}
+body, #head-skin, #bottom-skin {background-position:50% 0;}
+#wrapper {width:966px; padding-top:8px;}
+#content-area {width:966px;}
+
+
+
+.itemfont, a.itemfont:link, a.itemfont:visited, a.itemfont:hover, a.itemfont:active {font-size:9pt;font-family:돋움, 굴림, seoul, verdana, arial;}
+a.itemTagfont:link, a.itemTagfont:visited {font-size:9pt;font-family:돋움, 굴림, seoul, verdana, arial;}
+a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, 굴림, seoul, verdana, arial; color:#418F21;}
+.itemSubjectfont   {font-size:9pt;font-family:돋움, 굴림, seoul, verdana, arial;}
+#post-area .post_adpost .itemSubjectfont {font-size:10pt !important;font-family:돋움, 굴림, seoul, verdana, arial;}
+
+
+
+
+#blog-rss {height:27px;background-image:url(http://blogimgs.naver.com/nblog/skins/rss/0104_image_1.gif);}
+#blog-rss .rss1 {width:42px;height:14px;margin:8px 0 0 30px;}
+#blog-rss .rss2 {width:42px;height:14px;margin:8px 0 0 72px;}
+#blog-rss .rss3 {width:48px;height:14px;margin:8px 0 0 114px;}
+
+#blog-profile .border {border-width:0px;border-style:solid;border-color:#FFFFFF;}
+#blog-profile .bg-head {height:5px;background:url(http://blogimgs.naver.com/nblog/skins/profile/0101_head_1.gif);}
+#blog-profile .bg-body {padding:0px;background:url(http://blogimgs.naver.com/nblog/skins/profile/0101_body_1.gif);}
+#blog-profile .bg-footer {height:5px;background:url(http://blogimgs.naver.com/nblog/skins/profile/0101_footer_1.gif);}
+#blog-profile .col {color:#333333;}
+#blog-profile .icon {background-image:url(http://blogimgs.naver.com/nblog/skins/profile/0101_icon.gif);}
+#blog-profile .image {display:none;}
+#blog-profile .image img {width:161px;}
+#blog-profile .align {text-align:left;}
+
+
+#blog-menu .border {height:36px;border-width:0px;border-style:none;border-color:rgb(0, 0, 0);}
+#blog-menu table {height:36px;background:transparent;}
+#blog-menu .on {color:rgb(169, 21, 21);}
+#blog-menu .off {color:rgb(198, 170, 170);}
+#blog-menu .bar {background:rgb(198, 170, 170);}
+
+
+
+#post-area .post {border-width:0px;border-style:solid;border-color:rgb(0, 0, 0);}
+#post-area .post-back {background:transparent;}
+#post-area .pcol1 {color:rgb(227, 111, 148);font-size:14px;}
+#post-area .pcol2 {color:rgb(0, 0, 0);}
+#post-area .pcol2b {background:rgb(0, 0, 0);}
+#post-area .cline {border-bottom-color:rgb(0, 0, 0);}
+#post-area .pcol3 {color:rgb(227, 111, 148);}
+#post-area .dline {border-top-width:1px;border-top-style:dotted;border-top-color:rgb(227, 111, 148);}
+#post-area .htl {background:transparent;width:15px;height:15px;}
+#post-area .htc {background:transparent;height:15px;}
+#post-area .htr {background:transparent;width:15px;height:15px;}
+#post-area .ftl {background:transparent;width:15px;height:15px;}
+#post-area .ftc {background:transparent;height:15px;}
+#post-area .ftr {background:transparent;width:15px;height:15px;}
+#post-area .bcl {background:transparent;width:15px;}
+#post-area .bcc {background:transparent;}
+#post-area .bcr {background:transparent;width:15px;}
+#post-area .ico1 {background:url(http://blogimgs.naver.com/nblog/skins/poststyle/0115_ico1_up.gif);}
+#post-area .ico2 {background:url(http://blogimgs.naver.com/nblog/skins/poststyle/0115_ico1_down.gif);}
+#post-area .ico3 {background:url(http://blogimgs.naver.com/nblog/skins/poststyle/0115_ico2.gif);}
+#post-area .comment {background:rgb(241, 241, 241);}
+#post-area .btn {background:url(http://blogimgs.naver.com/nblog/skins/poststyle/0115_input.gif);}
+#post-area .btn-sympathy {background:url(http://blogimgs.naver.com/nblog/skins/poststyle/btn_sympathy_19.gif);}
+#post-area .btn_r {background:url(http://blogimgs.naver.com/nblog/skins/poststyle/btn_reply_0115.gif);}
+
+.post-back {background:transparent;}
+.pcol1 {color:rgb(227, 111, 148);font-size:14px;}
+.pcol2 {color:rgb(0, 0, 0);}
+.pcol2b {background:rgb(0, 0, 0);}
+.pcol3 {color:rgb(227, 111, 148);}
+.bcc {background:transparent;}
+#post-area .sline {border-bottom-color:rgb(227, 111, 148);}
+
+
+	
+	
+/*]]>*/
+</style>
+<script src="http://t.static.blog.naver.net/mylog/versioning//common/js/global/RemoveSubDomain-dea9950.js" type="text/javascript"></script>
+<script>
+
+
+
+
+
+var mylogURL = 'http://blog.naver.com';
+var adminURL = 'http://admin.blog.naver.com';
+var noteURL = 'https://note.naver.com';
+var itemURL = 'http://item.naver.com';
+var cafeURL = 'http://cafe.naver.com';
+var profileURL = 'http://blog.naver.com';
+var blogURL = 'http://blog.naver.com';
+var blogURLHttp = 'http://blog.naver.com';
+var prologueURL = 'http://blog.naver.com';
+var sectionURL = 'http://section.blog.naver.com';
+var memologURL = 'http://blog.naver.com';
+var lifeURL = 'http://lifelog.blog.naver.com';
+var uploadURL = 'http://upload.blog.naver.com';
+var imageURL = 'http://blogimgs.naver.net';
+var attachURL = 'http://blogfiles.naver.net';
+var thumbnailURL = 'http://blogthumb2.naver.net';
+var nonCachedThumbnailURL = 'http://blogthumb4.naver.net';
+var filetransURL = 'http://filetrans.blog.naver.com';
+var item2_bridgeURL = 'http://bridge.item2.naver.com';
+var idURL = 'http://nid.naver.com';
+var idURLSecret = 'https://nid.naver.com';
+var mapviewURL = 'http://mapview.naver.com';
+var exifURL = 'http://exif.blog.phinf.naver.net';
+var viewerImageUrl = imageURL + "/blog20/blog/layout_photo/viewer/";
+var domainURL = "";
+var greenReviewCampaignURL = 'http://campaign.naver.com';
+var writeURL = 'http://blog.naver.com';
+var spiURL = 'http://spi.naver.net';
+var blogProfileThumbnailUrl='http://blogpfthumb.phinf.naver.net';
+var naverCommentStaticURL = 'http://static.cbox.naver.net';
+var naverCommentApiURL = 'http://apis.naver.com/commentBox/cbox9';
+var itemImagesURL = 'http://itemimgs.naver.net';
+
+var sCssUrlForPhotoLayer = 'http://t.static.blog.naver.net/mylog/versioning//common/css/storyphoto_original_viewer-adf5d27.css';
+var commonStatDailyURL = 'http://blog.stat.naver.com';
+var lcs_SerName = 'https://lcs.naver.com';
+
+
+
+
+
+var blogId = 'polar2795' || 'polar2795';  
+var userId = ''; 
+var userNo = ''; 
+
+
+var isWritingBlocked = false;
+var isWritingBlockedBySpamIP = false;
+var isWritingBlockedBySpamIPManually = false;
+var isLoggedIn = false;
+var isShortestContentAreaWidth = false;
+
+var blogOwner = false; 
+
+var blogNo = '53248268';
+var nickName = '백곰';
+var isInitializingBlog = false;
+var rightClickOpenYn = true;
+var isMylogBlocked = false;
+var isBlogBlock = false;
+var blockOrWriteBlock = false;
+var autoSourcingYn = true;
+
+
+var isMemolog = false;
+var isMemologList = false;
+var isPrologue = false;
+
+
+var isBlogMe = false;
+
+var isUsingUrl = false;
+
+
+var isRequestFromIPad = false;
+
+
+var isOverIOS5_0Version = false;
+var isOverAndroidJellybeanVersion = false;
+var isCommingNaverApp = false;
+var isUsingNaverKitkatEngine = false;
+var isAndroidKitkatVersion = false;
+
+var defaultSmartEditorVersion = 2;
+
+var adContentLocation = "0";
+
+
+
+
+
+
+var readOnlyStatus = false;
+var readOnlyStatusAll = false;
+var readOnlyLinkErrorMsg = '죄송합니다. 블로그 서비스 점검 중입니다. \n점검 시간 동안은 기능 이용이 제한됩니다. \n자세한 내용은 블로그 홈 공지사항을 참고해주세요.';
+var readOnlyCommentMsg = '12월 17일(월) 오전 0시~8시 서비스 점검으로 댓글 작성이 제한됩니다. \n더욱 안정적인 서비스로 찾아뵙겠습니다. 불편하시더라도 조금만 기다려주세요.';
+var sIsTagReadOnly = '';
+var sTagSorryText = '죄송합니다. 태그 서비스 점검 중입니다.\n점검 시간 동안은 일부 서비스 이용이 제한됩니다.\n자세한 내용은 공지사항을 참조하세요.';
+var blogQuickPostingUseType = "NOT_SET"; 
+
+
+
+
+var isCommentReadOnly = false;
+var sCommentReadOnlyBlockSubmit = '죄송합니다. 블로그 댓글, 답글 서비스 점검 중에는 이용이 제한됩니다.';
+var sCommentReadOnlyWriteMsg = '서비스 점검으로 댓글 작성이 제한됩니다.\n더욱 안정적인 서비스로 찾아뵙겠습니다. 불편하시더라도 조금만 기다려주세요.';
+ 
+
+
+
+
+
+
+var isJeagleDebug = false;
+
+
+
+
+
+var skinId = "0";
+var skinType = "C";
+
+var isEnglish = "true";
+
+var areaCode = "11B10101";
+var weatherType = "0";
+
+var currencySign = "ALL";
+
+var listNumVisitor = '5';
+var isVisitorOpen = false;
+var isCategoryOpen = true;
+var writingMaterialListType = '1'
+var previewCalType = '';
+
+
+
+var oExternalWidget = [{'teminationMessageHtml':'','blockYn':false,'blogId':'polar2795','reversedWidgetCode':'E3%elbatF2%C3%E3%ydobtF2%C3%E3%rtF2%C3%E3%F2%+dtC3%E3%rtC3%E3%ydobtC3%E3%22%08422%D3%thgieh+22%07122%D3%htdiw+elbatC3%','serviceTerminated':false,'seq':1386191},{'teminationMessageHtml':'','blockYn':false,'blogId':'polar2795','reversedWidgetCode':'E3%elbatF2%C3%E3%ydobtF2%C3%E3%rtF2%C3%E3%F2%+dtC3%E3%rtC3%E3%ydobtC3%E3%22%08422%D3%thgieh+22%07122%D3%htdiw+elbatC3%','serviceTerminated':false,'seq':1386192}];
+
+
+var calType = "";
+
+
+var curLog = 'http://blog.naver.com';
+var playerType = '0';
+var playerDesign = '1';
+
+
+var isCommentOpen = false;
+var listNumComment = 5;
+
+
+var isBuddyOpen = false;
+
+
+
+var userSelectMenu = '';
+
+
+var visitorgpData = '1';
+var vigitorSetUrl = '/versioning//common/swf/Widget/visitorGP/VisitorGP-31a7b63.swf';
+var vigitorPropUrl = '/versioning//common/swf/Widget/visitorGP/VisitorGP-50a2c61.xml';
+var visitorgp_vars = {
+	setUrl    : vigitorSetUrl,
+	req_url   : '/NVisitorgp4Ajax.nhn?blogId=' + blogId,
+	prop_url  : vigitorPropUrl,
+	graphType : visitorgpData,
+	flashvars : function(){
+		return "req_url=" + this.req_url +"&prop_url=" + this.prop_url +"&graphType=" + this.graphType;
+	},
+	height    : 121
+};
+
+
+
+var watchData = '';
+var watch_design = {
+	name    : watchData.split('|')[0],
+	font    : watchData.split('|')[1],
+	color   : watchData.split('|')[2],
+	bgcolor : watchData.split('|')[3]
+}
+var watch_vars = {
+	blogId : blogId,
+	skinType : skinType,
+	skinId : skinId
+}
+
+
+var serviceId = '';
+var naverId = '';
+var happyBeanApiURL = '';
+var reqparam = '';
+var HAPPYBEAN_API_URL = "";
+var HAPPYBEAN_FUND_URL = "";
+//var HAPPYBEAN_MY_URL   = "";
+var HAPPYBEAN_DONATION_URL = "";
+
+
+
+
+var selectCategoryNo = "34";
+
+
+var aNonWidget = ['rss', 'powered','adpost','buddyconnect','greenreview'];
+<!-- var aWidget = ['gnb', 'externalwidget','music'];  -->
+var aWidget = [];
+
+
+aWidget.push('search');
+
+aWidget.push('category');
+
+aWidget.push('visitorgp');
+
+aWidget.push('rss');
+
+aWidget.push('profile');
+
+aWidget.push('challengeMasterTrack_7');
+
+aWidget.push('menu');
+
+aWidget.push('1386191');
+
+aWidget.push('1386192');
+
+aWidget.push('content');
+
+aWidget.push('gnb');
+
+aWidget.push('externalwidget');
+
+aWidget.push('music');
+
+var bIsRemocon = false;
+var bIsPreview = document.location.href.indexOf("PostPreview.nhn") > -1 || document.location.href.indexOf("MemologMemoPreview.nhn") > -1;
+
+var isTopLayoutEmpty = false;
+
+var openSideType = "1";
+var foldSideType = "2";
+
+var g_ContentShareObject = {
+	adPostPreview : false,
+	adPostPreviewSide : false,
+	adPostPreviewContent : false,
+	adPostAlign : "",
+	adPostCount : ""
+};
+
+var blogDomainUrl = "";
+var sAjaxFlashUrl = '/versioning//common/lib/ajax.flash/ajax-885363e.swf';
+var isHappyBeanLeverage = false;
+
+
+var doc = document.documentElement;
+doc.setAttribute('data-useragent',navigator.userAgent);
+
+</script>
+<script charset="utf-8" src="http://t.static.blog.naver.net/mylog/versioning/Jindo152-313837964.js" type="text/javascript"></script>
+<script charset="UTF-8" src="http://t.static.blog.naver.net/mylog/versioning/LayoutTopCommon-1058598685.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://t.static.blog.naver.net/mylog/versioning/JindoComponent-190469086.js" type="text/javascript"></script>
+<meta content="index,follow" name="robots"/>
+<meta content="no" http-equiv="imagetoolbar"/>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+<meta content="article" property="og:type"/>
+<meta content="네이버 블로그 | 백곰의 빼꼼 내다보기" property="og:article:author"/>
+<meta content="네이버 블로그 | 백곰의 빼꼼 내다보기" property="og:site_name"/>
+<meta content="백곰" property="naverblog:nickname"/>
+<meta content="http://blogpfthumb.phinf.naver.net/MjAxNzExMTNfMTg0/MDAxNTEwNTgwNzc1NDM0.5WX_jSQ74DzAlp56IXmoT-v7DkHrRya6eR5ir4Rnr_Ig.OkxzoOr6o_0qX6pbl9R8YpG_Z0CEv31dTG-XE9dhq_4g.JPEG.polar2795/IMG_20140415_210117.jpg" property="naverblog:profile_image"/>
+<meta content='"부평 카페에서 디저트 냠 ♡ 딸기샹그리아 &amp; 치즈케이크, 브라우니":http://blog.naver.com/polar2795/221520206241' property="me2:post_body"/>
+<meta content="네이버블로그 백곰의 빼꼼 내다보기" property="me2:post_tag"/>
+<meta content="blog" property="me:feed:serviceId"/>
+<title>부평 카페에서 디저트 냠 ♡ 딸기샹그리아 &amp; 치즈케이크, 브라우니 : 네이버 블로그</title>
+<link charset="UTF-8" href="http://t.static.blog.naver.net/mylog/versioning/PostView-732994090.css" rel="stylesheet" type="text/css"/>
+<link href="https://editor-static.pstatic.net//v/blog/css/se.viewer.desktop.css?v=1.4.5-20200623140312" rel="stylesheet"/>
+<style type="text/css">
+/*<![CDATA[*/
+
+#post-area .post {border-width:0px;border-style:solid;border-color:rgb(0, 0, 0);}
+#post-area .post-back {background:transparent;}
+#post-area .pcol1 {color:rgb(227, 111, 148);font-size:14px;}
+#post-area .pcol2 {color:rgb(0, 0, 0);}
+#post-area .pcol2b {background:rgb(0, 0, 0);}
+#post-area .cline {border-bottom-color:rgb(0, 0, 0);}
+#post-area .pcol3 {color:rgb(227, 111, 148);}
+#post-area .dline {border-top-width:1px;border-top-style:dotted;border-top-color:rgb(227, 111, 148);}
+#post-area .htl {background:transparent;width:15px;height:15px;}
+#post-area .htc {background:transparent;height:15px;}
+#post-area .htr {background:transparent;width:15px;height:15px;}
+#post-area .ftl {background:transparent;width:15px;height:15px;}
+#post-area .ftc {background:transparent;height:15px;}
+#post-area .ftr {background:transparent;width:15px;height:15px;}
+#post-area .bcl {background:transparent;width:15px;}
+#post-area .bcc {background:transparent;}
+#post-area .bcr {background:transparent;width:15px;}
+#post-area .ico1 {background:url(http://blogimgs.naver.com/nblog/skins/poststyle/0115_ico1_up.gif);}
+#post-area .ico2 {background:url(http://blogimgs.naver.com/nblog/skins/poststyle/0115_ico1_down.gif);}
+#post-area .ico3 {background:url(http://blogimgs.naver.com/nblog/skins/poststyle/0115_ico2.gif);}
+#post-area .comment {background:rgb(241, 241, 241);}
+#post-area .btn {background:url(http://blogimgs.naver.com/nblog/skins/poststyle/0115_input.gif);}
+#post-area .btn-sympathy {background:url(http://blogimgs.naver.com/nblog/skins/poststyle/btn_sympathy_19.gif);}
+#post-area .btn_r {background:url(http://blogimgs.naver.com/nblog/skins/poststyle/btn_reply_0115.gif);}
+ 
+@font-face { font-family:'957317_10'; font-style:normal; font-weight:normal;src:local('Helvetica Neue'),local('Apple SD Gothic Neo'),local(Dotum),local(돋움);}@font-face { font-family:'957317_10'; font-style:normal; font-weight:normal; src:url(http://itemimgs.naver.net/outlinefont/17/73/957317_10.eot);}
+#post-area .itemSubjectBoldfont   {font-weight:bold;font-size:10pt;font-family:'957317_10';}
+ 
+.itemfont, a.itemfont:link, a.itemfont:visited, a.itemfont:hover, a.itemfont:active {font-size:9pt;font-family:돋움, 굴림, seoul, verdana, arial;}
+a.itemTagfont:link, a.itemTagfont:visited {font-size:9pt;font-family:돋움, 굴림, seoul, verdana, arial;}
+a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, 굴림, seoul, verdana, arial; color:#418F21;}
+.itemSubjectfont   {font-size:9pt;font-family:돋움, 굴림, seoul, verdana, arial;}
+#post-area .post_adpost .itemSubjectfont {font-size:10pt !important;font-family:돋움, 굴림, seoul, verdana, arial;}
+ 
+/*]]>*/
+</style>
+<style></style>
+</head>
+<body class="contw-966">
+<script type="text/javascript">JEagleEyeClient.setEnable(isJeagleDebug);</script>
+<script type="text/javascript">$Ajax.SWFRequest.write(sAjaxFlashUrl);</script>
+<div class="floating_header" id="floating_area_header">
+<div class="inner">
+<div class="area_logo">
+<a class="link_naver sp_blog" href="http://www.naver.com" onclick="clickcr(this,'flt.naver','','',event);" target="_blank">NAVER</a>
+<a class="link_blog sp_blog" href="http://blog.naver.com" onclick="clickcr(this,'flt.blog','','',event);" target="_top">블로그</a>
+<i class="icon_bar"></i>
+</div>
+<div class="area_blog_name">
+<a class="link_user_blog" href="http://blog.naver.com/prologue/PrologueList.nhn?blogId=polar2795" onclick="clickcr(this,'flt.blogname','','',event);">
+<strong class="user_blog_name">백곰의 빼꼼 내다보기</strong>
+</a>
+</div>
+<div class="area_search" role="search">
+<form action="http://blog.naver.com/PostSearchList.nhn" id="floatingSearchForm">
+<fieldset>
+<legend class="blind">블로그 검색</legend>
+<div class="search_box">
+<input autocomplete="off" class="text_box" id="this_blog_search" name="SearchText" onclick="clickcr(this,'flt.search','','',event);" title="이 블로그에서 검색" type="text"/>
+<label class="label_text_box" for="this_blog_search" id="this_blog_search_placeholder">이 블로그에서 검색</label>
+<div class="autocomplete_layer" id="autocomplete_layer" style="display: none">
+<ul class="list_autocomplete">
+</ul>
+</div>
+<input name="blogId" type="hidden" value="polar2795"/>
+<a aria-label="검색" class="btn_search" href="#" id="this_blog_floating_search_btn" onclick="clickcr(this,'flt.searchbtn','','',event); return false;" role="button" tabindex="0"><i class="icon_search sp_blog"></i></a>
+</div>
+</fieldset>
+</form>
+</div>
+<div class="area_category floating_area_btn_category_parent">
+<a aria-label="카테고리 열기" class="btn_category floating_area_btn_category" href="#" onclick="return false;" role="button">
+<span class="icon_category_group">
+<i class="line"></i>
+<i class="line"></i>
+<i class="line"></i>
+</span>
+<i class="icon_category sp_blog"></i>
+</a>
+</div>
+</div>
+</div>
+<div class="floating_category" id="floating_side_area_info">
+</div>
+<script src="http://t.static.blog.naver.net/mylog/versioning//common/js/mylog/floating/FloatingBarSearch-772760a.js" type="text/javascript"></script>
+<div id="head-skin">
+<div id="body">
+<a class="skip" href="#blog-menu" onclick="var t=document.getElementById('blog-menu');t.tabIndex=-1;t.focus();return false;">메뉴 바로가기</a>
+<a class="skip" href="#post_1" id="goContentsAreaLink">본문 바로가기</a>
+<div id="blog-gnb">
+<div class="gnb" id="gnb-area">
+<ul>
+<li class="i3"><a class="link" href="http://blog.naver.com/MyBlog.nhn" onclick="clickcr(this,'gnb_oth.my','','',event);" target="_top">내 블로그</a> <img alt="" class="bar" height="11" src="http://blogimgs.naver.net/nblog/spc.gif" width="1"/></li>
+<li class="i4">
+<a class="link" href="https://nid.naver.com/nidlogin.login?mode=form&amp;url=http://blog.naver.com/polar2795" onclick="clickcr(this,'gnb_oth.other','','',event);" target="_top">이웃블로그</a>
+<img alt="" class="bar" height="11" src="http://blogimgs.naver.net/nblog/spc.gif" width="1"/>
+<div id="buddydiv" style="display:none">
+<div class="buddylist_bg"></div>
+<span class="ico_arrow"></span>
+<div id="buddylist"></div>
+</div>
+</li>
+<li class="i2"><a class="link" href="http://section.blog.naver.com" onclick="clickcr(this,'gnb_oth.all','','',event)" target="_top">블로그 홈</a> <img alt="" class="bar" height="11" src="http://blogimgs.naver.net/nblog/spc.gif" width="1"/></li>
+<li class="i1 login">
+<a class="btn_blog_login" href="https://nid.naver.com/nidlogin.login?mode=form&amp;url=http://blog.naver.com/polar2795/221520206241" onclick="clickcr(this,'gnb_oth.login','','',event);" target="_top"><span class="blind">로그인</span></a>
+</li>
+<li class="i1 blog_gnb_wrap">
+<div id="gnb"></div>
+</li>
+</ul>
+</div>
+</div>
+<!-- blog_gnb -->
+<!-- <div id="highlight_turn_on" class="highlight_off _hightlightOpen" style="display:none;">
+	<button type="button" class="btn_op _hightlightOpen">검색어 켜기</button>
+</div> -->
+<hr/>
+<script type="text/javascript">
+	var gnb_service="blog";
+	var gnb_template="gnb_utf8";
+	var gnb_brightness=1;
+	var gnb_url='http://blog.naver.com/polar2795/221520206241';
+	var gnb_logout = gnb_url;
+	var gnb_login = gnb_url;
+	var gnb_login_on_top = true;
+	var gnb_item_hide_option= 1|4|8|16;
+	var isGetGnbCalled = false;
+	
+	window.onload = function() {
+		if (!isGetGnbCalled) {
+			getGNB();
+			isGetGnbCalled = true;
+		}
+		setSkipNavigationInfo();
+	};
+	
+	//웹접근성 스킵네비게이션 설정
+	function setSkipNavigationInfo() {
+		var contentsId;
+		if ($("postListBody")) {
+			contentsId = "postListBody";
+		} else {
+			contentsId = "post-area";
+		}
+
+		if (contentsId) {
+			$("goContentsAreaLink").href = "#" + contentsId;
+
+			if (document.getElementById("goContentsAreaLink").addEventListener) {
+				document.getElementById("goContentsAreaLink").addEventListener(
+						'click', onClickChangeFocus, false);
+			} else if (document.getElementById("goContentsAreaLink").attachEvent) {	//IE8을 위한 이벤트 등록 리스너
+				document.getElementById("goContentsAreaLink").attachEvent(
+						'click', onClickChangeFocus);
+			}
+
+			function onClickChangeFocus() {
+				var t = document.getElementById(contentsId);
+				t.tabIndex = -1;
+				t.focus();
+				return false;
+			};
+		}
+	}
+</script>
+<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:07:46 KST 2020" type="text/javascript"></script>
+<script type="text/javascript">
+    var doc = document.documentElement;
+    doc.setAttribute('data-useragent',navigator.userAgent);
+setTimeout(function() {
+	if (!isGetGnbCalled) {
+		getGNB();
+		isGetGnbCalled = true;
+	}
+}, 1500);
+</script><hr/>
+<div id="whole-border"><div id="whole-head"></div><div id="whole-body">
+<div id="top-area">
+<div id="blog-menu">
+<div class="border">
+<table>
+<caption>
+<span class="blind">블로그 메뉴</span>
+</caption>
+<tr><td class="menu1" nowrap="nowrap">
+<ul>
+<li>
+<img alt="" class="bar" height="11" src="http://blogimgs.naver.net/nblog/spc.gif" width="1"/>
+<a class="off itemfont _doNclick _param(false|prologue|)" href="http://blog.naver.com/prologue/PrologueList.nhn?blogId=polar2795&amp;skinType=&amp;skinId=&amp;from=menu">prologue</a>
+</li>
+<li>
+<img alt="" class="bar" height="11" src="http://blogimgs.naver.net/nblog/spc.gif" width="1"/>
+<a class="on itemfont _doNclick _param(false|blog|)" href="http://blog.naver.com/PostList.nhn?blogId=polar2795&amp;skinType=&amp;skinId=&amp;from=menu">blog</a>
+</li>
+<li>
+<img alt="" class="bar" height="11" src="http://blogimgs.naver.net/nblog/spc.gif" width="1"/>
+<a class="off itemfont _doNclick _param(false|category|36|1)" href="http://blog.naver.com/PostList.nhn?blogId=polar2795&amp;categoryNo=36&amp;parentCategoryNo=36&amp;skinType=&amp;skinId=&amp;from=menu">　백곰</a>
+</li>
+<li>
+<img alt="" class="bar" height="11" src="http://blogimgs.naver.net/nblog/spc.gif" width="1"/>
+<a class="off itemfont _doNclick _param(false|category|86|2)" href="http://blog.naver.com/PostList.nhn?blogId=polar2795&amp;categoryNo=86&amp;skinType=&amp;skinId=&amp;from=menu">　뷰티</a>
+</li>
+<li>
+<img alt="" class="bar" height="11" src="http://blogimgs.naver.net/nblog/spc.gif" width="1"/>
+<a class="off itemfont _doNclick _param(false|category|76|3)" href="http://blog.naver.com/PostList.nhn?blogId=polar2795&amp;categoryNo=76&amp;parentCategoryNo=76&amp;skinType=&amp;skinId=&amp;from=menu">　여행 </a>
+</li>
+<li>
+<img alt="" class="bar" height="11" src="http://blogimgs.naver.net/nblog/spc.gif" width="1"/>
+<a class="off itemfont _doNclick _param(false|category|78|4)" href="http://blog.naver.com/PostList.nhn?blogId=polar2795&amp;categoryNo=78&amp;parentCategoryNo=78&amp;skinType=&amp;skinId=&amp;from=menu">　공부</a>
+</li>
+</ul></td><td class="menu2" nowrap="nowrap">
+<ul>
+<li>
+<img alt="" class="bar" height="11" src="http://blogimgs.naver.net/nblog/spc.gif" width="1"/>
+<a class="off itemfont _doNclick _param(false|tag)" href="http://blog.naver.com/BlogPrivateTagCloud.nhn?blogId=polar2795&amp;Redirect=Dtagcloud&amp;skinType=&amp;skinId=&amp;from=menu">tag</a>
+</li>
+<li>
+<img alt="" class="bar" height="11" src="http://blogimgs.naver.net/nblog/spc.gif" width="1"/>
+<a class="off itemfont _doNclick _param(false|guestbook)" href="http://guestbook.blog.naver.com/guestbook/GuestBookList.nhn?blogId=polar2795&amp;skinType=&amp;skinId=&amp;from=menu">guest</a>
+</li>
+</ul>
+</td></tr></table>
+</div>
+</div><hr/>
+</div>
+<div class="clearfix" id="wrapper">
+<div class="side-width" id="top-tight-area"><div class="side-border"><div class="side-head"></div>
+<div class="side-body onestyle">
+<div class="widget" id="externalwidget_1386191" style="height:480px">
+<iframe allowtransparency="true" frameborder="0" id="ExternalWidgetIframe_1386191" name="ExternalWidgetIframe_1386191" scrolling="no" style="width:170px;display:none;" title="외부위젯"></iframe>
+</div>
+<div class="division-line-x"></div>
+<div class="widget" id="externalwidget_1386192" style="height:480px">
+<iframe allowtransparency="true" frameborder="0" id="ExternalWidgetIframe_1386192" name="ExternalWidgetIframe_1386192" scrolling="no" style="width:170px;display:none;" title="외부위젯"></iframe>
+</div>
+<div class="division-line-x"></div><div class="clear"></div></div><!-- side-body -->
+<div class="side-footer"></div></div></div><!-- left-area -->
+<div class="clearfix" id="twocols">
+<div class="" id="content-area">
+<div class="post-area" id="post-area">
+<h2 class="blind" id="selectedMenu">blog</h2>
+<div class="_naver_comment_skin_property" style="position:absolute;z-index:-100;visibility:hidden">
+<span class="pcol2"></span>
+<span class="cline"></span>
+<span class="pcol3"></span>
+<span class="comment"></span>
+<span class="btn"></span>
+<span class="pcol2b"></span>
+</div>
+<link href="http://t.static.blog.naver.net/mylog/versioning//css/navercomment/naver_comment_blog_base-61fa3cc.css" rel="stylesheet" type="text/css"/>
+<script id="naverCommentCustomCssTpl" type="text/template">
+#post-area .commentbox_header,
+#post-area .u_cbox \{background:{=comment} !important;\}
+
+#post-area .u_cbox .u_cbox_name_area,
+#post-area .u_cbox .u_cbox_target_name,
+#post-area .u_cbox .u_cbox_comment .u_cbox_text_wrap,
+#post-area .u_cbox .u_cbox_date,
+#post-area .u_cbox .u_cbox_btn_report,
+#post-area .u_cbox .u_cbox_btn_unhide,
+#post-area .u_cbox .u_cbox_tool .u_cbox_btn_reply,
+#post-area .u_cbox .u_cbox_paginate .u_cbox_cnt_page,
+#post-area .u_cbox .u_cbox_paginate .u_cbox_num_page,
+#post-area .commentbox_header .btn_write_comment,
+#post-area .commentbox_header .commentbox_pagination .num,
+#post-area .commentbox_header .btn_pagination .icon,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_ico_recomm:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_cnt_recomm,
+#post-area .u_cbox .u_cbox_ico_stat_secret,
+#post-area .u_cbox .u_cbox_work_sub .u_cbox_ico_open \{color:{=pcol2} !important;\}
+
+#post-area .u_cbox .u_cbox_info_base .u_cbox_ico_bar \{background-color:{=pcol2} !important;\}
+
+#post-area .u_cbox .u_cbox_tool .u_cbox_btn_reply:before,
+#post-area .u_cbox .u_cbox_work_sub .u_cbox_work_box:before,
+#post-area .u_cbox .u_cbox_comment_box:before,
+#post-area .u_cbox .u_cbox_ico_reply,
+#post-area .u_cbox .u_cbox_paginate strong.u_cbox_page:before,
+#post-area .commentbox_header:before,
+#post-area .commentbox_header .btn_pagination a:before,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm:before \{border-color:{=pcol2} !important;\}
+
+#post-area .u_cbox .u_cbox_mine .u_cbox_name_area,
+#post-area .u_cbox .u_cbox_paginate strong.u_cbox_page .u_cbox_num_page,
+#post-area .commentbox_header .commentbox_pagination .num strong,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn.on,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm_on .u_cbox_ico_recomm:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm_on .u_cbox_cnt_recomm,
+#post-area .u_cbox .u_cbox_ico_editor .u_cbox_txt_editor \{color:{=pcol3} !important;\}
+
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn.on:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm_on:before,
+#post-area .u_cbox .u_cbox_ico_editor \{border-color:{=pcol3} !important;\}
+
+#post-area .u_cbox .u_cbox_content_wrap:before,
+#post-area .u_cbox .u_cbox_comment_box:before,
+#post-area .u_cbox .u_cbox_comment .u_cbox_write_wrap:before,
+#post-area .u_cbox .u_cbox_tool .u_cbox_btn_reply:before,
+#post-area .u_cbox .u_cbox_work_sub .u_cbox_work_box:before,
+#post-area .u_cbox .u_cbox_ico_reply,
+#post-area .u_cbox .u_cbox_paginate strong.u_cbox_page:before,
+#post-area .commentbox_header:before,
+#post-area .commentbox_header .btn_pagination a:before,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm:before
+\{border-color:{=pcol2};\}
+</script>
+<script src="http://t.static.blog.naver.net/mylog/versioning//common/js/global/RemoveSubDomain-dea9950.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+
+
+
+
+
+var isAutoPlayYN = false;
+
+
+var tagOpenModeType = '1';
+var tagMarkDisplayIfPostTagEmpty = false;
+
+var categoryNo = '34';
+var parentCategoryNo = '0';
+var categoryParentCategoryNo = '36';
+var currentCategoryNo;
+if(categoryNo=="" && parentCategoryNo == ""){ 
+	currentCategoryNo = 0;
+}else if((categoryNo=="" || categoryNo=="0") && parentCategoryNo != ""){  
+	currentCategoryNo = parentCategoryNo;
+}else if(categoryNo!=""){  
+	currentCategoryNo = categoryNo;
+}
+
+var viewDate = '' || ''; 
+
+
+
+var isFromSearch = true;	
+var isFromSection = false;	
+
+var forFocusingTargetId = "";
+
+var isFirstPage = false;	
+var from = 'search';	
+var search_logNo = "221520206241";
+
+var postListTopCurrentPage = '1';
+var categoryName = "%EC%99%B8%EC%8B%9D";
+
+var gsGfMarketUrl = 'http://m.gfmarket.naver.com';
+
+
+var userTopListCurrentPage = "";
+var userTopListCount = "";
+var userTopListOpen = false; 
+var userTopListManageOpen = false; 
+var isTopListOpen = true; 
+var topListPostCount = "5"; 
+
+var isTopListCategoryEmpty = false;
+if (!isTopListCategoryEmpty) {
+	isTopListOpen = false; 
+	topListPostCount = "5"; 
+}
+
+var isThumbnailList = false;
+var isThumbnailView = true;
+
+var aPostSendInfo = [];
+var aPostBaseInfo = [];
+var aPostFiles = [];
+var aPostVideoInfo = [];
+var aPostImageFileSizeInfo = [];
+var aPostAutoSourcingHtmlView = [];
+var aQueuePost = []; 
+var htInitData = [];
+
+var paramLogNo = '221520206241';
+var isAfterWrite = false;
+
+
+var isRecommendedBlog = false;
+
+var gdidTag = [];
+var nsc = "blog.post";
+var nFirstLogNo = "";
+var pagePerPostCount = 1;
+
+
+var sCommentNoPosition = '';	
+var isCommentAreaOpen = false;
+var postBottomOptionalAreaType = '0';
+var commentAreaOpenType = '1';
+var isRelayAreaOpen = false;
+var isSympathyAreaOpen = false;
+var relayAreaOpenType = '2';
+var firstPostLogNo = "221520206241";
+var firstPostIsAllOpenPost = true;
+var searchImg = '';
+var searchVid = '';
+
+
+var currentPage = '1';
+var tagParam = '' || '&logNo=221520206241';
+
+
+var imageWidth = '' || '936';
+
+
+var maxNoticePostCount = '5';
+var gbIsPostCommentOpen = false;
+
+
+var isDoPostAggregate = false;
+
+
+var apiGwUrl = 'http://apis.naver.com/';
+var likeItVideoEnable = true;
+var likeItVideoIdListJson = '["366CABA340836E2EDC2AFC07FC18104AB52B"]';
+var likeItVideoContentsIdMapJson = '{"366CABA340836E2EDC2AFC07FC18104AB52B":"polar2795_221520206241_366CABA340836E2EDC2AFC07FC18104AB52B"}';
+
+var videoPlayerUrl = "http://static-rmcnmv.naver.net/js/webplayer_4.18.38.all.c937a901.min.js";
+var isDevPhase = "false";
+var isStagePhase = "false";
+var isNotHasSe3AndSeOne = false;
+
+var postAdvertiseEnableYN = true;
+
+
+
+
+
+
+
+	gUserId = "";
+	gBlogId = "polar2795";
+	gSE3Url = "https://blog.editor.naver.com/";
+    gsSesseionId = "";
+    gsSearchKeyword = "";
+    gsBlogOwnerYn = false? "Y" : "N";
+    
+    gIsRabbitWriterOn = 'true';
+	gsSaInfo = "";
+
+	
+	
+		nFirstLogNo = "221520206241";		
+        gnFirstLogNo = "221520206241";
+        gsFirstCategoryName = "\uC678\uC2DD";
+
+	
+	
+	gdidTag[1] = "90000003_000000000000003393A219A1";
+	aPostAutoSourcingHtmlView[1] = "<p style='margin:11px 0 7px 0;padding:0;font-size:12px;font-family:Dotum;font-style:normal;font-weight: normal;'><strong style='padding:0 7px 0 0;'>[출처]</strong> <a href='http://blog.naver.com/polar2795/221520206241' target='_blank'>부평 카페에서 디저트 냠 ♡ 딸기샹그리아 & 치즈케이크, 브라우니</a><span style='padding:0 7px 0 5px;'>|</span><strong style='padding:0 7px 0 0;'>작성자</strong> <a href='http://blog.naver.com/polar2795' target='_blank'>백곰</a></p>";
+	
+	
+		aPostFiles[1] = JSON.parse('[]'.replace(/'/g, '"'));
+	
+	aPostVideoInfo[1] = [ {"vid" : "366CABA340836E2EDC2AFC07FC18104AB52B" ,"hasLink": true }];
+	
+	aPostImageFileSizeInfo[1] = '{\'\/MjAxOTA0MjJfMTAz\/MDAxNTU1OTQxMjI5ODU2.TtL3hcMvh9rMzVBtVz1Q8jOFkOgO0JHOojjqjvmChpQg.cG4hLwthR_lAh7FoHQF6fc-DfgA4RkRm5_HfhRijhLkg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2813%29_%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\': \'522,847|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2813%29_%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\' , \'\/MjAxOTA0MjJfMzEg\/MDAxNTU1OTQwNDk0MTc3.A_VCjt2eieFH0CzOwqBOiQyWSfS3zJ8vb3XWMmEtuBsg.axpHnB4gYrLzVAx2H40V8sDScM23XlF5KWHf0uyNLiog.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%281%29.jpg\': \'280,276|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%281%29.jpg\' , \'\/MjAxOTA0MjJfOTkg\/MDAxNTU1OTQwNDk1NDMx.oZlAGHRUeMyEPlaQ5T2X4jexPsdCYpN_DGo4oLcWQU8g.W6-lQAtNhgDiYvzsIbCEKHrndhHPYv_rVyWV3cVR6bsg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%282%29.jpg\': \'745,432|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%282%29.jpg\' , \'\/MjAxOTA0MjJfNDQg\/MDAxNTU1OTQwNDk2MzQw.RoQIKB68ox6HMhkSBEukCM9Hojv4o5B60SZbto6qetcg.dalv4LcaqVu1jnLqeCqYURjoEzxKNwYh2uxP48rAIxkg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%283%29.jpg\': \'772,471|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%283%29.jpg\' , \'\/MjAxOTA0MjJfMjg1\/MDAxNTU1OTQwNDk2NjY0.9Ckw2cMgzXwRVAXbACk57e6DvLjnlmrLWL_TqeR7YjMg.sw9ggX5SZrP95zu7kM9Sentum15nMGjcdD9qFkSE9WEg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%284%29.jpg\': \'551,761|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%284%29.jpg\' , \'\/MjAxOTA0MjJfMjE0\/MDAxNTU1OTQwNDk2NTkx.pgDxxVVA7m3Kf_f6qR-2lTn_eU3o1Qhl-I2A5vWT4X8g.sEHOmpJjRRJDWRtC-k1dOMMx_Z1M7Ffkpie1MZq3aw8g.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%285%29.jpg\': \'790,152|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%285%29.jpg\' , \'\/MjAxOTA0MjJfNyAg\/MDAxNTU1OTQwNDk2OTM4.OCnIJuYGf6pBrG-HPm2x9gsv4XdIb_N_J9vOLZrxAQ4g.R6CEEQWZVHk3TOaYjjdkty9LJtvMCMMRSHbRmrBQ-cUg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%286%29.jpg\': \'537,899|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%286%29.jpg\' , \'\/MjAxOTA0MjJfNTUg\/MDAxNTU1OTQwNDk3OTk1.kyAUpuXJRWSMivd9_zf16V3ePc58i-Jqr-iWx_q5Ox4g.iZJTv9prR0CcgRyVcdnRvcmwz69q_MknsScH_iF1LOgg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%287%29.jpg\': \'707,206|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%287%29.jpg\' , \'\/MjAxOTA0MjJfMjAz\/MDAxNTU1OTQwNDk4MTgx.ZEPylDOW3vjhKDi0Hw0Rkl17h9vSG8qhXhZwsuvCissg.N8X5tjil-IrSvA1bTe58CaqvPvYOdI-2Ro11ieMa8fsg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%288%29_%EB%94%B8%EA%B8%B0%EC%83%B9%EA%B7%B8%EB%A6%AC%EC%95%84.jpg\': \'519,254|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%288%29_%EB%94%B8%EA%B8%B0%EC%83%B9%EA%B7%B8%EB%A6%AC%EC%95%84.jpg\' , \'\/MjAxOTA0MjJfOTgg\/MDAxNTU1OTQwNDk4NTEz.q6Gi1GLXPGE-Z_PZjnR7OshuDkvYykPN2gdm-rehcQUg.HdoEFhdqIjFR8zGtSoAztc8Oy88RMheyYRjxpfHnYrwg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%289%29_%EB%94%B8%EA%B8%B0%EC%83%B9%EA%B7%B8%EB%A6%AC%EC%95%84.jpg\': \'655,716|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%289%29_%EB%94%B8%EA%B8%B0%EC%83%B9%EA%B7%B8%EB%A6%AC%EC%95%84.jpg\' , \'\/MjAxOTA0MjJfNzQg\/MDAxNTU1OTQwNDk4NTA5.MT1WA5B74mC2zQZZcfk95aRLxxs9hHgc5ZlKZxLshM0g.s9z4NBrFH50lPgfUw7ZYfomxFxA0K92i-iBNqw8LxzEg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2810%29.jpg\': \'614,166|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2810%29.jpg\' , \'\/MjAxOTA0MjJfNTYg\/MDAxNTU1OTQwNDk5NDI4.ZiZO4YkHCFPu28v67xsC1oqB5OpnilLmOQSfMxm0_Vsg.4TDpd8mjrgFZ5t6-yt-6NddgsPj5kpqCis23tWwxb4Eg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2811%29.jpg\': \'831,544|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2811%29.jpg\' , \'\/MjAxOTA0MjJfMjQ0\/MDAxNTU1OTQwNDk5NDE1.ddRvRsrvlbP4JeZyPyEavSw75SOwBwOkpSXgA68olIAg.S1Edc1GygReqmZIRe_Z0quQ95yrUXxmE7591NdtS45Mg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2812%29_%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\': \'588,718|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2812%29_%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\' , \'\/MjAxOTA0MjJfMjg5\/MDAxNTU1OTQwNDk5NTMx.QAoRtOMCiGutD1jcBTUjZYIGFHi60l0F47Tf7Vs2avsg.n8h1Z09MGCfA2y-olx2fX9Q0cdorrW70YaX-MCh2kcwg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2813%29_%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\': \'522,847|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2813%29_%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\' , \'\/MjAxOTA0MjJfMTI3\/MDAxNTU1OTQwNDk5ODE3.G_c860a2nQliHkQF1LKf9LNAW1PHhNNvIrWB91dY3Ycg.sdpx4vqixUlDWhBn_R2Wt2x9smxwHAB41q-77Qlupq8g.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2814%29_%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\': \'509,081|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2814%29_%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\' , \'\/MjAxOTA0MjJfNTIg\/MDAxNTU1OTQwNTAwMDA0.kA5NGfh_UfGXujg3a1yOlGfV2eKvOi3uReW7UHYWCZkg.8SzOpP58D6ipqr8wsameZ5TyjOBSeTsgXCsAJzPu8Ucg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2815%29_%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\': \'481,994|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2815%29_%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\' , \'\/MjAxOTA0MjJfMjM1\/MDAxNTU1OTQwNTAwNjc5.19ukjLlIMhakZ3izc44KmdkhPTL4hs447XKWQNTz6f0g.C667ekytmVKFLpKH53bOHCVMADasP_VvNB-tl2AOfxQg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2816%29_%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\': \'574,448|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2816%29_%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\' , \'\/MjAxOTA0MjJfNDYg\/MDAxNTU1OTQwNTAwOTc1.7o7szqEjtXq3O1NNDqdGv2b08Gbf5NzrVDmQkO_bADkg.LR84jmo9t5VNvy5RxPbRbZop1aoik8KYgWmtAdxGHC0g.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2817%29_%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\': \'474,877|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2817%29_%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\' , \'\/MjAxOTA0MjJfMjI1\/MDAxNTU1OTQwNTAxMDgz.6K2sS1xnXO6QvEeIapJf3IDXXHbmUOqNzhQQ8s6D_W8g.qq07CZ6lWWIqbnk4t3d4dRNj-eWvOeojxSil1VnTQZAg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2818%29_%EC%B4%88%EC%BD%94%EB%B8%8C%EB%9D%BC%EC%9A%B0%EB%8B%88.jpg\': \'501,518|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2818%29_%EC%B4%88%EC%BD%94%EB%B8%8C%EB%9D%BC%EC%9A%B0%EB%8B%88.jpg\' , \'\/MjAxOTA0MjJfMTMy\/MDAxNTU1OTQwNTAxMzM1.-4O332p1kg9w6ON84a2PfhjODKjzi3xwRc3et6sDS0Ag.JFTB4kFTZyJdDhtWgOr9eq8GYIN6kf3CQ2a_Y0xTzqIg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2819%29_%EC%B4%88%EC%BD%94%EB%B8%8C%EB%9D%BC%EC%9A%B0%EB%8B%88.jpg\': \'555,978|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2819%29_%EC%B4%88%EC%BD%94%EB%B8%8C%EB%9D%BC%EC%9A%B0%EB%8B%88.jpg\' , \'\/MjAxOTA0MjJfMjkx\/MDAxNTU1OTQwNTAxNjc3.Dy-h-Q8hEXBmmDoe7wK0x5ViogntlxAY6mR_OwrlFvog._DRKOCFOgG6qyfTGb6oOjQQSDbwXin1pp4iscp8rVfIg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2820%29_%EC%B4%88%EC%BD%94%EB%B8%8C%EB%9D%BC%EC%9A%B0%EB%8B%88.jpg\': \'545,354|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2820%29_%EC%B4%88%EC%BD%94%EB%B8%8C%EB%9D%BC%EC%9A%B0%EB%8B%88.jpg\' , \'\/MjAxOTA0MjJfOTYg\/MDAxNTU1OTQwNTAyNDg3.iKn66_I0tmV12AiOqY0HZ-RsSQ8wjstSzuPyTlh89mgg.p22Nmum3wH2Gz8gP8v7JmifGXamdnfsL7k-LvmflTCwg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2821%29_%EB%A0%88%EB%AA%AC%ED%8C%8C%EC%9A%B4%EB%93%9C.jpg\': \'464,623|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2821%29_%EB%A0%88%EB%AA%AC%ED%8C%8C%EC%9A%B4%EB%93%9C.jpg\' , \'\/MjAxOTA0MjJfMTA3\/MDAxNTU1OTQwNTAxODU4.15AMl3gwvb4C8sxA-uQleku48ASbgTHb_sy_h7BQp9og.OePy_m9vindA3NNOFHne2Q52D7tKffpK-7LPoxTgU4cg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2822%29_%ED%8C%8C%EC%9A%B4%EB%93%9C%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\': \'441,186|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2822%29_%ED%8C%8C%EC%9A%B4%EB%93%9C%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\' , \'\/MjAxOTA0MjJfMjE1\/MDAxNTU1OTQwNTAyNjg5.ZgqQn3KnsxHMHPOXjY0hvUNv1m8QeNcyEhB8aJBVwIgg.Jd3sSE1D2kB_2mmBzi1rrrFrcYdh697yEWY0y8Nvp-Mg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2823%29_%ED%8C%8C%EC%9A%B4%EB%93%9C%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\': \'436,623|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2823%29_%ED%8C%8C%EC%9A%B4%EB%93%9C%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\' , \'\/MjAxOTA0MjJfMjIx\/MDAxNTU1OTQwNTAyMjQ5.WNnOkkT4g0lC0xCxt-Bars72QoCtavXSaE0PK3Ggticg.OIksNivuvcQuB3NF0CzfMeY6HPJ6CklfhuZBHrNbuFYg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2824%29_%ED%8C%8C%EC%9A%B4%EB%93%9C%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\': \'473,132|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2824%29_%ED%8C%8C%EC%9A%B4%EB%93%9C%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\' , \'\/MjAxOTA0MjJfOTEg\/MDAxNTU1OTQwNTAyMzIw.ZAGvrUV55rS6fmJLmxHFuTDDDHu7wgn0QgIqKVVTC6wg._jqG_ACwdi4smdELOKjXEEbqImLi7jk2KbCfu6YwlZAg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2825%29_%ED%8C%8C%EC%9A%B4%EB%93%9C%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\': \'446,633|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2825%29_%ED%8C%8C%EC%9A%B4%EB%93%9C%EC%BC%80%EC%9D%B4%ED%81%AC.jpg\' , \'\/MjAxOTA0MjJfNTMg\/MDAxNTU1OTQwNTAyNjIz.AabuaFAbpLQIARTlG-jTxHUe59hJj4ab91kjsUcaVhwg.0qcCV1QviZztBg5Hq9pYxHV0zNMqdQ-7dCR7n2zmggYg.JPEG.polar2795\/%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2826%29_%EB%94%94%EC%A0%80%ED%8A%B8.jpg\': \'514,769|%EB%B6%80%ED%8F%89_%EC%98%88%EC%81%9C_%EC%B9%B4%ED%8E%98_%EC%9C%84%EB%8C%80%ED%95%9C%EC%B9%B4%ED%8E%98_%2826%29_%EB%94%94%EC%A0%80%ED%8A%B8.jpg\'}';
+	aPostSendInfo[1] = [];
+	aPostBaseInfo[1] = "221520206241|0|1|1|34|0|false|4|MYLOG";
+	aQueuePost.push({logNo : '221520206241',tagNames : ''}); 	
+
+
+
+
+
+
+
+
+//<!--
+	htInitData[0] = {
+		
+		
+		style  : "text",
+		
+		textClass : "pcol2",
+		barClass : "fil3 pcol2b",
+		align : "right",
+		onLoginRedirect : function() {window.open("https://nid.naver.com/nidlogin.login?svctype=16448&url=" + encodeURIComponent(blogURL + "/post/common/reloadOpenerParentAndClose.jsp"), "", 'width=400px, height=500px, scrollbars=yes, resizable=yes');},
+
+		evkey  : "blog",
+		servicename : "블로그",
+		title  : "\uBD80\uD3C9 \uCE74\uD398\uC5D0\uC11C \uB514\uC800\uD2B8 \uB0E0 \u2661 \uB538\uAE30\uC0F9\uADF8\uB9AC\uC544 & \uCE58\uC988\uCF00\uC774\uD06C, \uBE0C\uB77C\uC6B0\uB2C8",
+		source : "http://blog.naver.com/polar2795/221520206241",
+		me2key : "",
+		tags   : ["네이버블로그", "\uBC31\uACF0\uC758 \uBE7C\uAF3C \uB0B4\uB2E4\uBCF4\uAE30"],
+
+
+		me : {
+			
+			feedInfo : "블로거의 글이",
+			popupType : "C",
+			targetUrl : "/subscribe/blog/applyFeedRelation.nhn",
+			serviceId : "blog",
+			feedGroupId : "neighbor",
+			feedId : ["polar2795"],
+			feedName : ["\uBC31\uACF0\uC758 \uBE7C\uAF3C \uB0B4\uB2E4\uBCF4\uAE30"],
+			feedUrl : ["http://blog.naver.com/polar2795" ],
+			selected : ['Y']
+		},
+		
+
+		
+		
+		me2post : {display:"off"},
+		me2day : {display:"off"},
+		
+		
+		
+
+		
+		
+		band : {display:"off"},
+		facebook : {display:"off"},
+		twitter : {display:"off"},
+		yozm : {display:"off"},
+		mail : {display:"off"},
+		post : { display:"off" },
+		pholar : { display:"off" },
+		
+		
+		
+
+		cafe : {
+			proxyUrl : "/ScrapToCafe.nhn?blogId=polar2795&logNo=221520206241&inAppNavigation=true" 
+			
+		},
+		blog : {
+			
+			proxyUrl : "/ScrapToBlog.nhn?blogId=polar2795&logNo=221520206241&loadOnModalView=true&template=modal&isShowingGnb=false"
+		}
+	};
+
+
+// 스크립트 오류를 방지하지 위해서 막아논 부분.
+//-->
+function splugin_oninitialize(nCount) {
+	return htInitData[nCount - 1];
+}
+</script>
+<script charset="UTF-8" src="http://t.static.blog.naver.net/mylog/versioning/PostTopCommon-462369321.js" type="text/javascript"></script>
+<script type="text/javascript">$Ajax.SWFRequest.write(sAjaxFlashUrl);</script>
+<div class="division-line-x" id="quickPostTopLine" style="display:none"></div>
+<div class="qk_wrap" id="quickPostBanner" onclick="clickcr(this,'qed.open','','',event);" style="display:none">
+<div class="qk_post">
+<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">오늘 있었던 일을 퀵에디터로 기록해보세요.</p>
+<button class="qkb_post _postSize _rosRestrictAll" type="button"><span>글쓰기</span></button>
+</div>
+</div>
+<div class="qk_layer2" id="quickPostPromotion" style="display: none">
+<div class="qk_layer2_inner">
+<span class="blind">가벼운 글쓰기툴 퀵에디터가 오픈했어요!</span>
+<a href="http://admin.blog.naver.com//config/quickposting" style="top:8px;left:187px" target="_top"><img alt="사용설정하기" height="14" src="http://blogimgs.naver.net/nblog/quickeditor/btn_qk_set.gif" width="65"/></a>
+<a href="http://section.blog.naver.com/Notice.nhn?docId=10000000000020964978" style="top:8px;right:32px" target="_blank"><img alt="퀵에디터란?" height="14" src="http://blogimgs.naver.net/nblog/quickeditor/btn_what2.gif" width="57"/></a>
+<a class="clse _returnFalse _closeQuickPostPromotion" href="#"><img alt="설정 닫기" height="15" src="http://blogimgs.naver.net/nblog/quickeditor/btn_clse_ly2.gif" width="15"/></a>
+</div>
+</div>
+<div class="division-line-x" id="quickPostBottomLine" style="display:none"></div>
+<div class="post post_top_title_aggregate_expose post_top_title_aggregate_click" id="category-name">
+<div class="post-back">
+<table cellpadding="0" cellspacing="0" class="post-head" role="presentation">
+<tbody><tr>
+<td class="htl" nowrap="nowrap"></td><td class="htc"></td><td class="htr" nowrap="nowrap"></td>
+</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" class="post-body" role="presentation">
+<tbody><tr>
+<td class="bcl" nowrap="nowrap"></td>
+<td class="bcc">
+<div class="wrap_blog2_list wrap_blog2_categorylist">
+<h4 class="category_title pcol2">
+<a class="pcol2 _toggleTopList _returnFalse" href="#" id="categoryTitle" role="button" title="외식 목록 닫고 열기"><strong>외식</strong></a> 119개의 글
+						</h4>
+<a class="btn_openlist pcol2 _toggleTopList _returnFalse" href="#" role="button"><span class="blind">외식</span><span class="txt" id="toplistSpanBlind">목록열기</span></a>
+<div area-hidden="false" class="wrap_list" id="toplistWrapper" style="display:none;"></div>
+</div>
+</td>
+<td class="bcr" nowrap="nowrap"></td>
+</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" class="post-footer" role="presentation">
+<tbody><tr><td class="ftl" nowrap="nowrap"></td><td class="ftc"></td><td class="ftr" nowrap="nowrap"></td></tr>
+</tbody></table>
+</div>
+</div>
+<div class="division-line-x plile"></div>
+<div id="postListBody">
+<div class="post _post_wrap _param(1)" data-post-editor-version="4" id="post_1">
+<div class="post-back">
+<table cellpadding="0" cellspacing="0" class="post-head"><tr><td class="htl" nowrap="nowrap"></td><td class="htc"></td><td class="htr" nowrap="nowrap"></td></tr></table>
+<table cellpadding="0" cellspacing="0" class="post-body" id="printPost1" role="presentation">
+<tr>
+<td class="bcl" nowrap="nowrap"></td>
+<td class="bcc">
+<div class="wrap_rabbit pcol2 _param(1) _postViewArea221520206241" id="post-view221520206241">
+<!-- Rabbit HTML --><div class="se-viewer se-theme-default" lang="ko-KR">
+<!-- SE_DOC_HEADER_START -->
+<div class="se-component se-documentTitle se-l-default se-documentTitle-cover-image" id="SE-432bf3e7-58a5-409f-ba10-da1e5bdf6d9c">
+<div class="se-title-cover" style="background-image:url('http://postfiles9.naver.net/MjAxOTA0MjJfMTAz/MDAxNTU1OTQxMjI5ODU2.TtL3hcMvh9rMzVBtVz1Q8jOFkOgO0JHOojjqjvmChpQg.cG4hLwthR_lAh7FoHQF6fc-DfgA4RkRm5_HfhRijhLkg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(13)_치즈케이크.jpg?type=w966'); background-position: 50.0% 50.0%;">
+<img alt="" class="se-title-cover-exception-image" src="http://postfiles9.naver.net/MjAxOTA0MjJfMTAz/MDAxNTU1OTQxMjI5ODU2.TtL3hcMvh9rMzVBtVz1Q8jOFkOgO0JHOojjqjvmChpQg.cG4hLwthR_lAh7FoHQF6fc-DfgA4RkRm5_HfhRijhLkg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(13)_치즈케이크.jpg?type=w966"/>
+</div>
+<div class="se-component-content">
+<div class="se-section se-section-documentTitle se-l-default se-section-align-center">
+<!-- -->
+<div class="blog2_series">
+<a class="pcol2" href="/PostList.nhn?blogId=polar2795&amp;categoryNo=34&amp;from=postList" onclick="clickcr(this,'pst.category','','',event);">외식</a>
+</div>
+<div class="pcol1">
+<!-- -->
+<div class="se-module se-module-text se-title-text">
+<p class="se-text-paragraph se-text-paragraph-align-center" id="SE-83037097-cad5-48dd-8bd3-9204e26d2915" style=""><span class="se-fs-fs26 se-ff-" id="SE-a62f7098-775a-407f-997b-5a8399b70d25" style=""><!-- -->부평 카페에서 디저트 냠 ♡ 딸기샹그리아 &amp; 치즈케이크, 브라우니<!-- --></span></p> </div>
+<!-- -->
+</div>
+<div class="blog2_container">
+<span class="writer">
+<span class="area_profile"><a class="link" href="http://blog.naver.com/polar2795" onclick="clickcr(this,'pst.profile','','',event);" target="_top"><img alt="프로파일" class="img" src="http://blogpfthumb.phinf.naver.net/MjAxNzExMTNfMTg0/MDAxNTEwNTgwNzc1NDM0.5WX_jSQ74DzAlp56IXmoT-v7DkHrRya6eR5ir4Rnr_Ig.OkxzoOr6o_0qX6pbl9R8YpG_Z0CEv31dTG-XE9dhq_4g.JPEG.polar2795/IMG_20140415_210117.jpg?type=s1"/></a></span>
+<span class="nick"><a class="link pcol2" href="http://blog.naver.com/polar2795" onclick="clickcr(this,'pst.username','','',event);" target="_top">백곰</a></span>
+</span>
+<i class="dot"> ・ </i>
+<span class="se_publishDate pcol2">2019. 4. 23. 6:00</span>
+</div>
+<div class="blog2_post_function">
+<a class="url pcol2 _setClipboard _returnFalse _se3copybtn _transPosition" href="#" id="copyBtn_221520206241" style="cursor:pointer;" title="http://blog.naver.com/polar2795/221520206241">URL 복사</a>
+<a class="btn_buddy btn_addbuddy pcol2 _buddy_popup_btn _returnFalse" href="#" onclick="clickcr(this,'pst.addnei','','',event);"><i class="ico"></i> 이웃추가<i class="aline"></i></a>
+<div class="overflow_menu">
+<a area-expanded="false" area-haspopup="true" class="btn_overflow_menu _open_overflowmenu pcol2 _param(221520206241) _returnFalse" href="#" role="button"><span class="blind">본문 기타 기능</span></a>
+<div area-hidden="true" class="lyr_overflow_menu" id="overflowmenu-221520206241">
+<a class="_open_mapview _param(221520206241|37.493|126.723) _returnFalse" href="#">지도로 보기 <span class="ico_map"></span></a>
+<div class="blog_map mini" id="postmapview-221520206241" style="display:none">
+<div class="ly_map">
+<div class="map_container">
+<div class="map_area">
+<div height="400" id="postmapview-canvas-221520206241" width="574"></div><a class="ext_map _goto_mapview _returnFalse" href="#">전체지도</a><a class="ly_clse _close_mapview _returnFalse" href="#">지도닫기</a></div>
+</div>
+</div>
+</div>
+<a class="naverTranslateNavigationBox _goTran _param(221520206241) _returnFalse" href="#">번역보기<span class="ico_translation _goTran _param(221520206241)"></span></a>
+</div>
+</div>
+<input alt="url" class="copyTargetUrl" style="display:none;" title="URL 복사" type="text" value="http://blog.naver.com/polar2795/221520206241"/>
+</div>
+<!-- -->
+</div>
+</div>
+</div>
+<div class="location_component">
+<div class="location">
+</div>
+</div>
+<!-- {{{$SE3-CONTENTS_HEADER}}} -->
+<!-- SE_DOC_HEADER_END -->
+<div class="se-main-container">
+<div class="se-component se-image se-l-default" id="SE-346162d6-f284-4251-ab2d-088169db8770">
+<div class="se-component-content se-component-content-normal">
+<div class="se-section se-section-image se-l-default se-section-align-center" style="max-width:500px;">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-346162d6-f284-4251-ab2d-088169db8770", "src" : "http://postfiles16.naver.net/MjAxOTA0MjJfMzEg/MDAxNTU1OTQwNDk0MTc3.A_VCjt2eieFH0CzOwqBOiQyWSfS3zJ8vb3XWMmEtuBsg.axpHnB4gYrLzVAx2H40V8sDScM23XlF5KWHf0uyNLiog.JPEG.polar2795/부평_예쁜_카페_위대한카페_(1).jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="500" data-lazy-src="http://postfiles16.naver.net/MjAxOTA0MjJfMzEg/MDAxNTU1OTQwNDk0MTc3.A_VCjt2eieFH0CzOwqBOiQyWSfS3zJ8vb3XWMmEtuBsg.axpHnB4gYrLzVAx2H40V8sDScM23XlF5KWHf0uyNLiog.JPEG.polar2795/부평_예쁜_카페_위대한카페_(1).jpg?type=w966" data-width="500" src="http://postfiles16.naver.net/MjAxOTA0MjJfMzEg/MDAxNTU1OTQwNDk0MTc3.A_VCjt2eieFH0CzOwqBOiQyWSfS3zJ8vb3XWMmEtuBsg.axpHnB4gYrLzVAx2H40V8sDScM23XlF5KWHf0uyNLiog.JPEG.polar2795/부평_예쁜_카페_위대한카페_(1).jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-670994d6-d2fd-4f01-ab07-74c4c25240ca">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-84be2a0a-3ff9-432c-b47c-b1273155cd66" style=""><span class="se-fs-fs13 se-ff-" id="SE-28855cd7-cea7-4eee-a14a-b1a5a7a28af8" style="color:#ff5f45;"><b>부평 카페 위대한카페에서 또! 디저트 냠냠</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-a0989f23-bfa9-4aa9-ab15-1bd0553ef091" style=""><span class="se-fs-fs13 se-ff-" id="SE-d3fbc391-9cfe-4df6-a236-03e96b4b28c9" style="color:#ff5f45;"><i><b>딸기샹그리아, 라떼, 커피 그리고 디저트들</b></i></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-872eed0a-c096-406d-b1e8-13f654b0cbc0" style=""><span class="se-fs-fs13 se-ff-" id="SE-5858707f-efb1-4309-a22f-98b714f0bdc6" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-7c23dd9d-8496-481b-adda-1bbe7f4d6b0b" style=""><span class="se-fs-fs13 se-ff-" id="SE-6b6e31f5-9e67-4bb5-bdc1-cd837cecbe5c" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-8f513662-4f1e-4309-8d79-6fe37e04e4a0" style=""><span class="se-fs-fs13 se-ff-" id="SE-cfad0eaa-f7ce-484b-a637-dab5394dbba6" style="">안녕하세요. 백곰입니다. 4월 주말에는</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-975b30d7-e04b-4b0a-ae8d-da365b0b2b84" style=""><span class="se-fs-fs13 se-ff-" id="SE-d6f9c2ad-95b9-4d2a-8440-5509ce4ba1b7" style="">위대한 카페를 정말 자주 갔네요 ;-)</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-67dc83de-1a47-4d12-8da2-d09f2775dd5d" style=""><span class="se-fs-fs13 se-ff-" id="SE-78c390ce-691c-4c24-9131-3f6e3a3ceabf" style="">아직 포스팅으로 남기지 않은 날도 있으니까</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-88659ce4-6973-4bf1-9019-408db3a4a806" style=""><span class="se-fs-fs13 se-ff-" id="SE-b38e32f1-686d-48de-9ac6-b526b32d4913" style="">사실상 매주 간 셈이예요. 요새는 왠지 머쓱해서</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-1109b531-ef2b-4b7f-8ee8-c1501a426d60" style=""><span class="se-fs-fs13 se-ff-" id="SE-11f9f8e6-7dc9-4855-a104-52cdd7034ce7" style="">다른 부평 카페도 찾아보려고 하고 있지만요 ㅋㅋㅋ</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-9633aa6b-c383-4820-8ac9-5a83e62e87a7" style=""><span class="se-fs-fs13 se-ff-" id="SE-2513bde9-f3a5-45b8-b67c-9df9a585cf02" style="">혹시 예쁘고 맛있는 부평 카페 아시는 분 있으시면</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-a50bc0be-ca29-4d1c-97f0-e504290158fd" style=""><span class="se-fs-fs13 se-ff-" id="SE-1fe0166e-cf4c-491c-a49f-77e80fb85224" style="">모쪼록 살짝 귀띔 꼭 부탁드립니당 ♡</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-dd2caa41-d81e-4e31-987e-1223f51a62fc" style=""><span class="se-fs-fs13 se-ff-" id="SE-c9a3d1c8-502a-4aad-a994-9933790bcc66" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-802d9342-6143-4ad2-983e-1f706fb75bfd" style=""><span class="se-fs-fs13 se-ff-" id="SE-4b051a23-d6fa-4ed1-bd6b-7fae8be0b370" style=""><a class="se-link" href="https://blog.naver.com/polar2795/221507435850" target="_blank">▶주말 부평 위대한카페에서 1인 1음료+1케이크</a></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-3e3d11f2-2385-4bc4-8f2d-603c7e672d7b" style=""><span class="se-fs-fs13 se-ff-" id="SE-c7992725-3681-4ace-8f51-e41f280186d2" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-67bd1c13-aff5-4ad9-bca4-3d18d269bd98" style=""><span class="se-fs-fs13 se-ff-" id="SE-8cf59342-4669-44b1-8d1a-d58a61ce0dfd" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-f86da729-32e9-4468-8fd6-ee7ad25c93bd">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-f86da729-32e9-4468-8fd6-ee7ad25c93bd", "src" : "http://postfiles8.naver.net/MjAxOTA0MjJfOTkg/MDAxNTU1OTQwNDk1NDMx.oZlAGHRUeMyEPlaQ5T2X4jexPsdCYpN_DGo4oLcWQU8g.W6-lQAtNhgDiYvzsIbCEKHrndhHPYv_rVyWV3cVR6bsg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(2).jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles8.naver.net/MjAxOTA0MjJfOTkg/MDAxNTU1OTQwNDk1NDMx.oZlAGHRUeMyEPlaQ5T2X4jexPsdCYpN_DGo4oLcWQU8g.W6-lQAtNhgDiYvzsIbCEKHrndhHPYv_rVyWV3cVR6bsg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(2).jpg?type=w966" data-width="886" src="http://postfiles8.naver.net/MjAxOTA0MjJfOTkg/MDAxNTU1OTQwNDk1NDMx.oZlAGHRUeMyEPlaQ5T2X4jexPsdCYpN_DGo4oLcWQU8g.W6-lQAtNhgDiYvzsIbCEKHrndhHPYv_rVyWV3cVR6bsg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(2).jpg?type=w80_blur"/>
+</a> <div class="se-module se-module-text se-caption"><p class="se-text-paragraph se-text-paragraph-align-" id="SE-1d14d9fd-451a-4ecf-87b6-2297b072898e" style=""><span class="se-fs- se-ff-" id="SE-14c35766-bbff-48e7-981b-40e9c0133ba4" style="">@부평 위대한카페 음료4 + 치즈케이크</span></p></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-d3e6b4b2-1226-4865-8905-e4ba42310cb0">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-d3e6b4b2-1226-4865-8905-e4ba42310cb0", "src" : "http://postfiles8.naver.net/MjAxOTA0MjJfNDQg/MDAxNTU1OTQwNDk2MzQw.RoQIKB68ox6HMhkSBEukCM9Hojv4o5B60SZbto6qetcg.dalv4LcaqVu1jnLqeCqYURjoEzxKNwYh2uxP48rAIxkg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(3).jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="886" data-lazy-src="http://postfiles8.naver.net/MjAxOTA0MjJfNDQg/MDAxNTU1OTQwNDk2MzQw.RoQIKB68ox6HMhkSBEukCM9Hojv4o5B60SZbto6qetcg.dalv4LcaqVu1jnLqeCqYURjoEzxKNwYh2uxP48rAIxkg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(3).jpg?type=w966" data-width="886" src="http://postfiles8.naver.net/MjAxOTA0MjJfNDQg/MDAxNTU1OTQwNDk2MzQw.RoQIKB68ox6HMhkSBEukCM9Hojv4o5B60SZbto6qetcg.dalv4LcaqVu1jnLqeCqYURjoEzxKNwYh2uxP48rAIxkg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(3).jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-45c73748-ad3e-4c3e-a79f-bffd84befba6">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-aeaeccde-5992-4972-9c72-51f1619c250d" style=""><span class="se-fs-fs13 se-ff-" id="SE-4dac7c74-2f87-49d0-88de-6d5455d2137f" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-41800855-770c-4ba1-9c8b-f6c17e1460df" style=""><span class="se-fs-fs13 se-ff-" id="SE-dbe284e3-2b30-48a5-baa3-5669a6bc756b" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-016f17f8-7632-4fd5-84c1-74cf8c3235b7" style=""><span class="se-fs-fs13 se-ff-" id="SE-979d60d0-625d-44ef-8b8e-0de58ddb7c0c" style="">4월 초까지는 아직 시즌 온이었지만</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-832ee733-b25d-4522-bf15-f90de9312c10" style=""><span class="se-fs-fs13 se-ff-" id="SE-8d27c2d7-0ffe-4685-a2d4-6dfe711ba4b9" style="">왠지 이번주쯤엔 시즌 오프일 것 같은</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-420488a9-cc51-4649-8f6e-1c249c6b9020" style=""><span class="se-fs-fs13 se-ff-" id="SE-de53cc2f-4aef-4cd7-8174-af0dc01e8b35" style="">딸기샹그리아, 딸기라떼를 주문했던 날이예요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-1b7fe7b5-e36c-4cea-a03a-a1a712c9be7d" style=""><span class="se-fs-fs13 se-ff-" id="SE-23a3864b-27e2-4383-baca-41dfa97a19b3" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-dd27f4f7-f461-4a42-b6bb-ea3278582f73" style=""><span class="se-fs-fs13 se-ff-" id="SE-70ca7dbe-1fd4-4a2c-bbcd-4368a990b10e" style="">시즌 지나면 언제 돌아올지 모르기때문에 ㅠ_ㅠ</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-139ee810-a4e9-4820-b1ba-4abab72a4da3" style=""><span class="se-fs-fs13 se-ff-" id="SE-8f30dc42-1a6e-49ac-b5b8-9379273c9325" style="">아쉽지 않게 미리미리 먹어줘야 합니다.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-431d98e5-1507-45f1-a94e-890da3e35d56" style=""><span class="se-fs-fs13 se-ff-" id="SE-405adbb4-4694-41da-bc17-5cd72e1b56c1" style="">보통 요런 갬성있는 부평 카페는 메뉴같은 게</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-a9aace61-3526-41a8-9d94-b53a7f25a8af" style=""><span class="se-fs-fs13 se-ff-" id="SE-cc89aab7-667c-4880-b252-fe2be7e4941a" style="">인스타 공지로 올라온다는데. 그런거 잘 챙기는</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-442ae413-9130-4fe1-94e8-075779647dfc" style=""><span class="se-fs-fs13 se-ff-" id="SE-e709fc92-737a-404f-9e8d-b657ea4be84b" style="">성격이 아니라 늘 소식이 늦어요. 흑흑.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-74beaebe-f5c8-4bf2-bd8e-891971242534" style=""><span class="se-fs-fs13 se-ff-" id="SE-7e00ceac-5236-4393-9640-3cfc34f9214f" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-0099e13c-e56f-4f49-a9b0-cfe911b185de" style=""><span class="se-fs-fs13 se-ff-" id="SE-640475ec-8ddf-4f82-b4f7-ab17950e03ba" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-755ef6e8-7637-468a-946c-ae42fd015388">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-755ef6e8-7637-468a-946c-ae42fd015388", "src" : "http://postfiles9.naver.net/MjAxOTA0MjJfMjg1/MDAxNTU1OTQwNDk2NjY0.9Ckw2cMgzXwRVAXbACk57e6DvLjnlmrLWL_TqeR7YjMg.sw9ggX5SZrP95zu7kM9Sentum15nMGjcdD9qFkSE9WEg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(4).jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles9.naver.net/MjAxOTA0MjJfMjg1/MDAxNTU1OTQwNDk2NjY0.9Ckw2cMgzXwRVAXbACk57e6DvLjnlmrLWL_TqeR7YjMg.sw9ggX5SZrP95zu7kM9Sentum15nMGjcdD9qFkSE9WEg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(4).jpg?type=w966" data-width="886" src="http://postfiles9.naver.net/MjAxOTA0MjJfMjg1/MDAxNTU1OTQwNDk2NjY0.9Ckw2cMgzXwRVAXbACk57e6DvLjnlmrLWL_TqeR7YjMg.sw9ggX5SZrP95zu7kM9Sentum15nMGjcdD9qFkSE9WEg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(4).jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-3543b095-2a07-4a4d-9742-20ca56b6e5a9">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-a8be98fc-3048-4468-bb29-c0e89a52ef72" style=""><span class="se-fs-fs13 se-ff-" id="SE-0cf1b4f7-7eb2-445f-a1f4-afc43aadab39" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-b8eb942d-ef1e-4456-9393-b2d9dd07707d" style=""><span class="se-fs-fs13 se-ff-" id="SE-209a501b-93fe-4b65-ac20-7cdb9350e6b4" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-96979d62-b6c7-4787-8640-412514e57f6f" style=""><span class="se-fs-fs13 se-ff-" id="SE-5ddde68e-3a10-47f0-a49a-5e2f4d799024" style="">뭐 여튼, 이날의 데코는 말린 장미꽃이었어요 :-)</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-24ebf890-c9e3-4040-bb92-30ed93283f0c" style=""><span class="se-fs-fs13 se-ff-" id="SE-d1b34099-ff4a-4fd6-aece-12c356c5da97" style="">그러고보니 이전엔 귀여운 곰 피규어라던지</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-2af40494-958d-469b-8ca6-5183e6037745" style=""><span class="se-fs-fs13 se-ff-" id="SE-ea394bde-5659-4572-9028-dcae9cb3c731" style="">자그마한 인형 데코도 같이 나오곤했는데</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-51f890df-e20a-4cd6-8d81-f16d61e2a63a" style=""><span class="se-fs-fs13 se-ff-" id="SE-e73f2fe8-3d80-4bb6-88ce-2cfbaf718c02" style="">요즘은 딱 꽃으로 고정이 된 것 같네요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-e1855afa-d994-4d42-be86-69ca086a4f4e" style=""><span class="se-fs-fs13 se-ff-" id="SE-8f15eef2-f856-481a-a424-4cf5ac734ca6" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-a6de666a-6f97-4674-b172-9874e987f703" style=""><span class="se-fs-fs13 se-ff-" id="SE-515f7dc3-6b14-48f3-ab9f-af5534f53034" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-7903946f-1528-4a96-b387-a8becc5b4e82">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-7903946f-1528-4a96-b387-a8becc5b4e82", "src" : "http://postfiles13.naver.net/MjAxOTA0MjJfMjE0/MDAxNTU1OTQwNDk2NTkx.pgDxxVVA7m3Kf_f6qR-2lTn_eU3o1Qhl-I2A5vWT4X8g.sEHOmpJjRRJDWRtC-k1dOMMx_Z1M7Ffkpie1MZq3aw8g.JPEG.polar2795/부평_예쁜_카페_위대한카페_(5).jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="1108" data-lazy-src="http://postfiles13.naver.net/MjAxOTA0MjJfMjE0/MDAxNTU1OTQwNDk2NTkx.pgDxxVVA7m3Kf_f6qR-2lTn_eU3o1Qhl-I2A5vWT4X8g.sEHOmpJjRRJDWRtC-k1dOMMx_Z1M7Ffkpie1MZq3aw8g.JPEG.polar2795/부평_예쁜_카페_위대한카페_(5).jpg?type=w966" data-width="886" src="http://postfiles13.naver.net/MjAxOTA0MjJfMjE0/MDAxNTU1OTQwNDk2NTkx.pgDxxVVA7m3Kf_f6qR-2lTn_eU3o1Qhl-I2A5vWT4X8g.sEHOmpJjRRJDWRtC-k1dOMMx_Z1M7Ffkpie1MZq3aw8g.JPEG.polar2795/부평_예쁜_카페_위대한카페_(5).jpg?type=w80_blur"/>
+</a> <div class="se-module se-module-text se-caption"><p class="se-text-paragraph se-text-paragraph-align-" id="SE-0227cfc6-58ad-417f-93b7-b2c3ea23667b" style=""><span class="se-fs- se-ff-" id="SE-f7eb6dcf-deaa-48a7-ba03-ccc93be5a8f7" style="">@부평 위대한카페 딸기샹그리아</span></p></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-f64f782d-c424-46fb-9482-02cd186adf31">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-f64f782d-c424-46fb-9482-02cd186adf31", "src" : "http://postfiles12.naver.net/MjAxOTA0MjJfNyAg/MDAxNTU1OTQwNDk2OTM4.OCnIJuYGf6pBrG-HPm2x9gsv4XdIb_N_J9vOLZrxAQ4g.R6CEEQWZVHk3TOaYjjdkty9LJtvMCMMRSHbRmrBQ-cUg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(6).jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles12.naver.net/MjAxOTA0MjJfNyAg/MDAxNTU1OTQwNDk2OTM4.OCnIJuYGf6pBrG-HPm2x9gsv4XdIb_N_J9vOLZrxAQ4g.R6CEEQWZVHk3TOaYjjdkty9LJtvMCMMRSHbRmrBQ-cUg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(6).jpg?type=w966" data-width="886" src="http://postfiles12.naver.net/MjAxOTA0MjJfNyAg/MDAxNTU1OTQwNDk2OTM4.OCnIJuYGf6pBrG-HPm2x9gsv4XdIb_N_J9vOLZrxAQ4g.R6CEEQWZVHk3TOaYjjdkty9LJtvMCMMRSHbRmrBQ-cUg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(6).jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-03d73061-9e40-4388-87cc-4c63d1ab4368">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-2614cef2-8b38-4e30-8eaa-4b4aae39c1d4" style=""><span class="se-fs-fs13 se-ff-" id="SE-253fd481-9960-49c3-8932-c9bfef1710d1" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-17cb77ef-0dde-4b63-a880-d0fe1f3725a4" style=""><span class="se-fs-fs13 se-ff-" id="SE-0aec01a5-cc37-4d4f-b3b3-4884a862d8c5" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-76475dfa-cec0-4502-8927-904c9522a773" style=""><span class="se-fs-fs13 se-ff-" id="SE-8dc1a12f-cf3d-4913-be31-4461811b59cc" style="">부평 위대한카페 딸기 샹그리아는 사실 논알콜이고</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-cd6814fd-ce52-484e-87a6-e41cfc06afb3" style=""><span class="se-fs-fs13 se-ff-" id="SE-b94f4487-55ed-4f19-92e6-7af621af02d0" style="">탄산이 들어간거라, 음, 샹그리아보다는</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-10d6481a-b162-45f2-a4de-9fecc420601c" style=""><span class="se-fs-fs13 se-ff-" id="SE-5c317387-d5be-4390-bfac-f9be5cc47c49" style="">딸기에이드란 말이 더 어울릴 것 같아요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-dec06811-f8c0-4112-bac4-8882f5cc131c" style=""><span class="se-fs-fs13 se-ff-" id="SE-6ee84a79-3c0d-485a-8810-3969942baba4" style="">뭔가 이름은 샹그리아가 로맨틱하지만 ㅋㅋㅋ</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-84acf8c0-b671-48b4-a899-fc308cc17963" style=""><span class="se-fs-fs13 se-ff-" id="SE-e1d350a4-245e-48e1-a3fa-379ed2c7f7e1" style="">와인은 아니니까요! 상큼달달합니당.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-af59468f-a51f-47cf-b689-8bf5450a776e" style=""><span class="se-fs-fs13 se-ff-" id="SE-58fba6a8-aee9-4283-af45-d8e4f7d89660" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-a1d1a898-5461-44a2-856d-a1e05cbf294c" style=""><span class="se-fs-fs13 se-ff-" id="SE-fa117f44-334e-498f-bc30-5c6c00202a60" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-9401a49e-9f0a-467a-a16c-0bdf146da9d0">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-9401a49e-9f0a-467a-a16c-0bdf146da9d0", "src" : "http://postfiles3.naver.net/MjAxOTA0MjJfNTUg/MDAxNTU1OTQwNDk3OTk1.kyAUpuXJRWSMivd9_zf16V3ePc58i-Jqr-iWx_q5Ox4g.iZJTv9prR0CcgRyVcdnRvcmwz69q_MknsScH_iF1LOgg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(7).jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles3.naver.net/MjAxOTA0MjJfNTUg/MDAxNTU1OTQwNDk3OTk1.kyAUpuXJRWSMivd9_zf16V3ePc58i-Jqr-iWx_q5Ox4g.iZJTv9prR0CcgRyVcdnRvcmwz69q_MknsScH_iF1LOgg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(7).jpg?type=w966" data-width="886" src="http://postfiles3.naver.net/MjAxOTA0MjJfNTUg/MDAxNTU1OTQwNDk3OTk1.kyAUpuXJRWSMivd9_zf16V3ePc58i-Jqr-iWx_q5Ox4g.iZJTv9prR0CcgRyVcdnRvcmwz69q_MknsScH_iF1LOgg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(7).jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-acd16faf-af8e-4f2a-9118-34ef4f631a1e">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-154338ab-d185-44a0-b4a6-6fb3a7bedc28" style=""><span class="se-fs-fs13 se-ff-" id="SE-40edee3b-3178-4e6b-abf9-eba256c996d5" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-0f341df7-10b4-4e4c-9122-8188045736f4" style=""><span class="se-fs-fs13 se-ff-" id="SE-e894b39c-f334-4040-9b27-eec9b79fc03a" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-a4388f99-3346-48ae-8485-623bec066144" style=""><span class="se-fs-fs13 se-ff-" id="SE-970cebfb-d2f2-48ef-9096-412bf3c434b5" style="">그리고 정말 좋아하는 *_* 치즈케이크!</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-993d0ff4-a995-4da6-82e2-7e4c68e274f8" style=""><span class="se-fs-fs13 se-ff-" id="SE-42258471-ad6b-44c2-b146-7ba05f77c596" style="">맘 같아선 레드벨벳도 주문하고 싶었는데요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-3f67d974-d87d-4bdf-b3aa-890924f1b09b" style=""><span class="se-fs-fs13 se-ff-" id="SE-2dfca60d-831f-4134-b523-990833344651" style="">이 날은 방탈출에 에너지를 별로 안 써서</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-e2d262e0-c155-4b91-bfdf-6fac1e373d6b" style=""><span class="se-fs-fs13 se-ff-" id="SE-c0ababb0-d364-49ac-8763-27d310dcc706" style="">디저트를 일단 하나만 시켜보자, 했었어요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-91454778-4779-47c1-93ee-640cf5a977a1" style=""><span class="se-fs-fs13 se-ff-" id="SE-a9c85614-9e74-4c67-a9ec-a8b37cbda0dd" style="">물론 결국 추가 주문하고야 말았지만요 ㅋㅋㅋ</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-cf6a43a0-ba74-4627-afa6-155b3afcceb8" style=""><span class="se-fs-fs13 se-ff-" id="SE-66202e29-eacd-46c9-9cfa-ec484d210806" style="">역시 디저트를 하나만 시키는 건 불가능한 걸로!</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-64d46a36-1312-4bd1-9d95-c3c904d39e8e" style=""><span class="se-fs-fs13 se-ff-" id="SE-32f9a7e2-39b4-4cb4-ac0e-35227cca1e8f" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-8c00f430-ff3c-40f6-89a2-d6556920dc48" style=""><span class="se-fs-fs13 se-ff-" id="SE-ad694da7-1c7d-4033-8ce0-8a3251168c76" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-14892972-a7ec-43a4-a7e3-0935bc934d44">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-14892972-a7ec-43a4-a7e3-0935bc934d44", "src" : "http://postfiles14.naver.net/MjAxOTA0MjJfMjAz/MDAxNTU1OTQwNDk4MTgx.ZEPylDOW3vjhKDi0Hw0Rkl17h9vSG8qhXhZwsuvCissg.N8X5tjil-IrSvA1bTe58CaqvPvYOdI-2Ro11ieMa8fsg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(8)_딸기샹그리아.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles14.naver.net/MjAxOTA0MjJfMjAz/MDAxNTU1OTQwNDk4MTgx.ZEPylDOW3vjhKDi0Hw0Rkl17h9vSG8qhXhZwsuvCissg.N8X5tjil-IrSvA1bTe58CaqvPvYOdI-2Ro11ieMa8fsg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(8)_딸기샹그리아.jpg?type=w966" data-width="886" src="http://postfiles14.naver.net/MjAxOTA0MjJfMjAz/MDAxNTU1OTQwNDk4MTgx.ZEPylDOW3vjhKDi0Hw0Rkl17h9vSG8qhXhZwsuvCissg.N8X5tjil-IrSvA1bTe58CaqvPvYOdI-2Ro11ieMa8fsg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(8)_딸기샹그리아.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-9f109b70-8f65-4a10-ac17-285ae6fab45e">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-d39b8bbb-3ebc-451c-acee-9d970367154b" style=""><span class="se-fs-fs13 se-ff-" id="SE-479e5e28-e949-4436-a44f-9186eac06fb0" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-1b2aea65-bf3c-4086-ac9b-cb904c46c58c" style=""><span class="se-fs-fs13 se-ff-" id="SE-d0348b7e-3941-4dda-9c8c-4896c7be31bf" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-ae507b80-6308-4c51-bfc1-1ae3ec57c830" style=""><span class="se-fs-fs13 se-ff-" id="SE-c8c466f7-aac2-451b-b17d-bd1848ae8c51" style="">그리고 늘 친구 한명의 고정픽인 딸기라떼.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-1dc12a14-84ec-402e-9ccd-b6ba77ab013b" style=""><span class="se-fs-fs13 se-ff-" id="SE-d62e442b-3233-4248-9ca5-732d8de9f1c9" style="">딸기시즌 끝나면 이 친구가 뭘 시킬지 궁금하네요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-dbf009cd-ef08-4cc9-b818-76b0488d0543" style=""><span class="se-fs-fs13 se-ff-" id="SE-66455596-df2f-4268-b2c6-0a09934c722f" style="">뭔가 다들 반복적으로 주문하는 고정픽이</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-575dd560-b7eb-4b45-9baa-23c123090dd6" style=""><span class="se-fs-fs13 se-ff-" id="SE-882ff965-1b48-45ae-9629-3991dfea2b6c" style="">계절마다 하나씩 정해져 있는 것 같아요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-572992e7-c785-4ccb-87ee-20a1eb64d74e" style=""><span class="se-fs-fs13 se-ff-" id="SE-449eb9f4-4218-479c-ad75-729760e72fc1" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-d5bbac01-bd77-473c-b898-c40ba3a528a7" style=""><span class="se-fs-fs13 se-ff-" id="SE-4325eaff-742e-45f7-ace4-a3a857d0946a" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-d8f0e2e8-bbc4-43c8-80d5-f8d7004fdc8e">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-d8f0e2e8-bbc4-43c8-80d5-f8d7004fdc8e", "src" : "http://postfiles8.naver.net/MjAxOTA0MjJfOTgg/MDAxNTU1OTQwNDk4NTEz.q6Gi1GLXPGE-Z_PZjnR7OshuDkvYykPN2gdm-rehcQUg.HdoEFhdqIjFR8zGtSoAztc8Oy88RMheyYRjxpfHnYrwg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(9)_딸기샹그리아.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles8.naver.net/MjAxOTA0MjJfOTgg/MDAxNTU1OTQwNDk4NTEz.q6Gi1GLXPGE-Z_PZjnR7OshuDkvYykPN2gdm-rehcQUg.HdoEFhdqIjFR8zGtSoAztc8Oy88RMheyYRjxpfHnYrwg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(9)_딸기샹그리아.jpg?type=w966" data-width="886" src="http://postfiles8.naver.net/MjAxOTA0MjJfOTgg/MDAxNTU1OTQwNDk4NTEz.q6Gi1GLXPGE-Z_PZjnR7OshuDkvYykPN2gdm-rehcQUg.HdoEFhdqIjFR8zGtSoAztc8Oy88RMheyYRjxpfHnYrwg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(9)_딸기샹그리아.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-27ec21f4-1b6b-42b1-8d88-4f320ac7bc9d">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-27ec21f4-1b6b-42b1-8d88-4f320ac7bc9d", "src" : "http://postfiles1.naver.net/MjAxOTA0MjJfNzQg/MDAxNTU1OTQwNDk4NTA5.MT1WA5B74mC2zQZZcfk95aRLxxs9hHgc5ZlKZxLshM0g.s9z4NBrFH50lPgfUw7ZYfomxFxA0K92i-iBNqw8LxzEg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(10).jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles1.naver.net/MjAxOTA0MjJfNzQg/MDAxNTU1OTQwNDk4NTA5.MT1WA5B74mC2zQZZcfk95aRLxxs9hHgc5ZlKZxLshM0g.s9z4NBrFH50lPgfUw7ZYfomxFxA0K92i-iBNqw8LxzEg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(10).jpg?type=w966" data-width="886" src="http://postfiles1.naver.net/MjAxOTA0MjJfNzQg/MDAxNTU1OTQwNDk4NTA5.MT1WA5B74mC2zQZZcfk95aRLxxs9hHgc5ZlKZxLshM0g.s9z4NBrFH50lPgfUw7ZYfomxFxA0K92i-iBNqw8LxzEg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(10).jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-ba72c3e9-22f4-45a3-8157-82c783390736">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-9bf237c0-36e6-41bf-9fb3-764e4e293b23" style=""><span class="se-fs-fs13 se-ff-" id="SE-dc4c5a96-3ab3-4298-9bc8-f604771b2c39" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-5736ef3f-09c5-407d-9324-e15db2999bea" style=""><span class="se-fs-fs13 se-ff-" id="SE-3b92c379-7943-4c3f-ab33-b5c892b83a52" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-e0ab25fe-45ef-447d-8d48-aa67c84d6e2b" style=""><span class="se-fs-fs13 se-ff-" id="SE-94d38965-a166-4bd3-8c23-91cf56d66d7b" style="">이 와중에도 저는 꿋꿋한 아메리카노 외길.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-06ecda78-e333-4d5a-a009-a37abf6b3622" style=""><span class="se-fs-fs13 se-ff-" id="SE-c557b559-1a2e-4556-9419-c59a3dc49ba6" style="">디저트를 안 시킨다면, 저도 달달 음료파인데요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-af54912d-c169-4758-9be4-293b6e35dcf3" style=""><span class="se-fs-fs13 se-ff-" id="SE-e6d83d8b-13fa-4d21-993d-bd5737e9bd7a" style="">디저트를 시킬 땐, 높은 확률로 아메리카노예요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-0f7dd84e-dc18-4300-9708-49bb8d12d224" style=""><span class="se-fs-fs13 se-ff-" id="SE-12ffcb5c-a245-42b7-a1be-48e0fec79944" style="">그리고 아직까지도 따듯한 아메를 먹고요 :-)</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-0207227c-717d-4b13-9715-ffe9cec3905f" style=""><span class="se-fs-fs13 se-ff-" id="SE-1f20ae05-7906-4a15-b776-38902bbb7211" style="">아마 한여름이 오기 전까진 쭉 -</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-2c37360e-5a63-4f64-8638-6d06552c3293" style=""><span class="se-fs-fs13 se-ff-" id="SE-92c09c69-c4da-4219-a905-bb7ed80750b2" style="">따듯한 아메리카노의 길을 걸을 것 같네요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-2dca23df-e2c3-4508-b199-08223e40d4ff" style=""><span class="se-fs-fs13 se-ff-" id="SE-0f5bcfe9-2267-4a89-b9c2-098a073a7a1d" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-f989e805-69a4-4da5-9374-cef0f02d7a22" style=""><span class="se-fs-fs13 se-ff-" id="SE-1a08c0f6-38fb-43c6-b95d-3b9107b6d212" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-b854fe70-704a-4a2c-9be2-4cea9010a891" style=""><span class="se-fs-fs13 se-ff-" id="SE-4ae50fdf-2508-4479-b7fc-42e9831e0290" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-ae05a4ce-f8ea-4a4c-b4ca-7f228e4cb0ca">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-ae05a4ce-f8ea-4a4c-b4ca-7f228e4cb0ca", "src" : "http://postfiles3.naver.net/MjAxOTA0MjJfNTYg/MDAxNTU1OTQwNDk5NDI4.ZiZO4YkHCFPu28v67xsC1oqB5OpnilLmOQSfMxm0_Vsg.4TDpd8mjrgFZ5t6-yt-6NddgsPj5kpqCis23tWwxb4Eg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(11).jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="1107" data-lazy-src="http://postfiles3.naver.net/MjAxOTA0MjJfNTYg/MDAxNTU1OTQwNDk5NDI4.ZiZO4YkHCFPu28v67xsC1oqB5OpnilLmOQSfMxm0_Vsg.4TDpd8mjrgFZ5t6-yt-6NddgsPj5kpqCis23tWwxb4Eg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(11).jpg?type=w966" data-width="886" src="http://postfiles3.naver.net/MjAxOTA0MjJfNTYg/MDAxNTU1OTQwNDk5NDI4.ZiZO4YkHCFPu28v67xsC1oqB5OpnilLmOQSfMxm0_Vsg.4TDpd8mjrgFZ5t6-yt-6NddgsPj5kpqCis23tWwxb4Eg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(11).jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-8d0ab85c-54c5-4351-8a3c-2de1581d3f95">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-12bb9153-9567-43fc-b23b-2b7fe704a559" style=""><span class="se-fs-fs13 se-ff-" id="SE-32c027e8-2bd9-44b2-9071-b572fa80c4d1" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-1d4c4dd1-8862-43b4-8fe6-a8d92f71d8b3" style=""><span class="se-fs-fs13 se-ff-" id="SE-1130d885-bc9a-4710-a389-91eeae7a6a72" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-91da09fc-7d47-4486-85ef-7b2dbcaba19c" style=""><span class="se-fs-fs13 se-ff-" id="SE-12aa831f-cf94-4224-9797-c83227928431" style="">없어지면 슬플 것 같은 메뉴, 치즈케이크.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-c0149a6c-2b40-4742-ab33-af063ce0628b" style=""><span class="se-fs-fs13 se-ff-" id="SE-1de3994e-70d8-47fe-92cc-0cf7ea6a85a5" style="">예전에도 맛있긴 했는데 이렇게까지 촉촉하고</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-cbaea4c5-5a47-404f-994b-70030ff57234" style=""><span class="se-fs-fs13 se-ff-" id="SE-a277a30b-a410-4a30-8f89-7ae182474970" style="">부드럽지 않았던 것 같거든요..?</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-68693b47-0902-4119-8e43-0fdf8d1c49c2" style=""><span class="se-fs-fs13 se-ff-" id="SE-7553c11d-b851-4813-bf8f-f578673af833" style="">그런데 어느순간 너무너무 맛있어졌어요 :-)</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-b1b6f1c9-3e9b-46ab-921b-4fa4102b9dfd" style=""><span class="se-fs-fs13 se-ff-" id="SE-79858cc8-4d8b-4a90-9dfd-a8d2913e2f41" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-1352e0ca-4977-4490-8ba3-c44948b2a441" style=""><span class="se-fs-fs13 se-ff-" id="SE-4675f67d-63d3-4a0d-8901-a85b32ff9fd0" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-31cac5df-2779-48cb-8c25-cb38cd1c4695">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-31cac5df-2779-48cb-8c25-cb38cd1c4695", "src" : "http://postfiles7.naver.net/MjAxOTA0MjJfMjQ0/MDAxNTU1OTQwNDk5NDE1.ddRvRsrvlbP4JeZyPyEavSw75SOwBwOkpSXgA68olIAg.S1Edc1GygReqmZIRe_Z0quQ95yrUXxmE7591NdtS45Mg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(12)_치즈케이크.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles7.naver.net/MjAxOTA0MjJfMjQ0/MDAxNTU1OTQwNDk5NDE1.ddRvRsrvlbP4JeZyPyEavSw75SOwBwOkpSXgA68olIAg.S1Edc1GygReqmZIRe_Z0quQ95yrUXxmE7591NdtS45Mg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(12)_치즈케이크.jpg?type=w966" data-width="886" src="http://postfiles7.naver.net/MjAxOTA0MjJfMjQ0/MDAxNTU1OTQwNDk5NDE1.ddRvRsrvlbP4JeZyPyEavSw75SOwBwOkpSXgA68olIAg.S1Edc1GygReqmZIRe_Z0quQ95yrUXxmE7591NdtS45Mg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(12)_치즈케이크.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-75a05d58-7148-46b4-89c2-a54dcfb1156b">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-75a05d58-7148-46b4-89c2-a54dcfb1156b", "src" : "http://postfiles16.naver.net/MjAxOTA0MjJfMjg5/MDAxNTU1OTQwNDk5NTMx.QAoRtOMCiGutD1jcBTUjZYIGFHi60l0F47Tf7Vs2avsg.n8h1Z09MGCfA2y-olx2fX9Q0cdorrW70YaX-MCh2kcwg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(13)_치즈케이크.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles16.naver.net/MjAxOTA0MjJfMjg5/MDAxNTU1OTQwNDk5NTMx.QAoRtOMCiGutD1jcBTUjZYIGFHi60l0F47Tf7Vs2avsg.n8h1Z09MGCfA2y-olx2fX9Q0cdorrW70YaX-MCh2kcwg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(13)_치즈케이크.jpg?type=w966" data-width="886" src="http://postfiles16.naver.net/MjAxOTA0MjJfMjg5/MDAxNTU1OTQwNDk5NTMx.QAoRtOMCiGutD1jcBTUjZYIGFHi60l0F47Tf7Vs2avsg.n8h1Z09MGCfA2y-olx2fX9Q0cdorrW70YaX-MCh2kcwg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(13)_치즈케이크.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-b8e6096c-a4ab-401a-aedb-847febc95b5c">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-7879c77d-ea23-477b-919b-1b005b9cc36b" style=""><span class="se-fs-fs13 se-ff-" id="SE-91c3818f-40b8-4cb5-8a57-7906b4a9eafd" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-072b005e-3dbe-4480-8716-c8f053c6d47a" style=""><span class="se-fs-fs13 se-ff-" id="SE-e7f734b4-c2a4-4329-b272-e0bf8a79f6f0" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-eba06535-80fb-4924-a2cf-a354aedbc67f" style=""><span class="se-fs-fs13 se-ff-" id="SE-87228f37-4938-43d8-8ad9-892be7db595f" style="">그 예전이 거의 일년 이상 된 것 같긴 한데 ㅋㅋㅋ</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-3f085d7f-808a-49c9-abd1-09f8296897d5" style=""><span class="se-fs-fs13 se-ff-" id="SE-8792fb3e-87eb-4f74-a1d1-36bd0cc38407" style="">분명 옛날엔 좀더 빵 식감이 강했던 것 같거든요!</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-9efb413b-d3e6-4373-8fe0-2e8cdcb246ac" style=""><span class="se-fs-fs13 se-ff-" id="SE-9300aec7-0bd9-4ccd-96be-f2f855cf924c" style="">그런데 어느 순간 입에서 살살 녹더라고요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-5dbb120b-e920-46a3-b5a9-46a14d49e598" style=""><span class="se-fs-fs13 se-ff-" id="SE-a918d6a5-a969-42b2-bea9-fd1190f9c500" style="">빵보다 크리미한 치즈 비중이 높아진 느낌?</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-2acd6867-653a-4a5f-afb9-afe70f3a7e6d" style=""><span class="se-fs-fs13 se-ff-" id="SE-9cc5b1ec-628e-4c74-8696-cc417d095608" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-883fc6eb-ddfd-4710-aed5-3ec0511810fd" style=""><span class="se-fs-fs13 se-ff-" id="SE-a6edeb50-1d8c-4174-a5fd-6733a48babdd" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-42c4e9e5-f40f-430c-9b24-61e65a450054">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-42c4e9e5-f40f-430c-9b24-61e65a450054", "src" : "http://postfiles14.naver.net/MjAxOTA0MjJfMTI3/MDAxNTU1OTQwNDk5ODE3.G_c860a2nQliHkQF1LKf9LNAW1PHhNNvIrWB91dY3Ycg.sdpx4vqixUlDWhBn_R2Wt2x9smxwHAB41q-77Qlupq8g.JPEG.polar2795/부평_예쁜_카페_위대한카페_(14)_치즈케이크.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles14.naver.net/MjAxOTA0MjJfMTI3/MDAxNTU1OTQwNDk5ODE3.G_c860a2nQliHkQF1LKf9LNAW1PHhNNvIrWB91dY3Ycg.sdpx4vqixUlDWhBn_R2Wt2x9smxwHAB41q-77Qlupq8g.JPEG.polar2795/부평_예쁜_카페_위대한카페_(14)_치즈케이크.jpg?type=w966" data-width="886" src="http://postfiles14.naver.net/MjAxOTA0MjJfMTI3/MDAxNTU1OTQwNDk5ODE3.G_c860a2nQliHkQF1LKf9LNAW1PHhNNvIrWB91dY3Ycg.sdpx4vqixUlDWhBn_R2Wt2x9smxwHAB41q-77Qlupq8g.JPEG.polar2795/부평_예쁜_카페_위대한카페_(14)_치즈케이크.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-cbb159c9-9561-4185-b68c-715e1d082d7e">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-cbb159c9-9561-4185-b68c-715e1d082d7e", "src" : "http://postfiles7.naver.net/MjAxOTA0MjJfNTIg/MDAxNTU1OTQwNTAwMDA0.kA5NGfh_UfGXujg3a1yOlGfV2eKvOi3uReW7UHYWCZkg.8SzOpP58D6ipqr8wsameZ5TyjOBSeTsgXCsAJzPu8Ucg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(15)_치즈케이크.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles7.naver.net/MjAxOTA0MjJfNTIg/MDAxNTU1OTQwNTAwMDA0.kA5NGfh_UfGXujg3a1yOlGfV2eKvOi3uReW7UHYWCZkg.8SzOpP58D6ipqr8wsameZ5TyjOBSeTsgXCsAJzPu8Ucg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(15)_치즈케이크.jpg?type=w966" data-width="886" src="http://postfiles7.naver.net/MjAxOTA0MjJfNTIg/MDAxNTU1OTQwNTAwMDA0.kA5NGfh_UfGXujg3a1yOlGfV2eKvOi3uReW7UHYWCZkg.8SzOpP58D6ipqr8wsameZ5TyjOBSeTsgXCsAJzPu8Ucg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(15)_치즈케이크.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-87f57945-21a1-4c6b-ac71-7516b58bfa49">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-5346ad77-5e11-421c-a166-9fb4c6671419" style=""><span class="se-fs-fs13 se-ff-" id="SE-5a725e55-b169-4489-ba80-2c7687062e63" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-59d3c0a3-04b4-4730-87ee-ee9753699dea" style=""><span class="se-fs-fs13 se-ff-" id="SE-59388958-2aa8-46b6-bf7f-ff590ad4255f" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-0ebc7232-ec1b-4073-9b68-f30620208365" style=""><span class="se-fs-fs13 se-ff-" id="SE-1eb59cb0-a19f-4a1a-b59d-feabbc98cc6c" style="">포토타임 끝나고 나면 쟈갑게 쳐내는</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-9b684ed2-3b0d-4927-8715-bd8b5d249108" style=""><span class="se-fs-fs13 se-ff-" id="SE-23623963-c8ae-433a-8c02-e2dbf40bbfe9" style="">로즈마리잎 데코도 넘 예쁜 것 :-)</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-baf2c0a7-1d5a-4e40-9232-df796f1c4633" style=""><span class="se-fs-fs13 se-ff-" id="SE-dfb20fba-c3d3-4f1d-8a92-06cb2b5961c6" style="">맛도 맛이지만 디저트는 눈으로도 먹으니까요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-3c7790d2-e405-479f-9da5-65a890deb1d7" style=""><span class="se-fs-fs13 se-ff-" id="SE-91354e41-dc82-4aa6-8d15-e6102ddbbb6b" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-2117b95b-e832-4e5d-9ff7-8d727e7e9006" style=""><span class="se-fs-fs13 se-ff-" id="SE-d72366ed-8bbf-4f8a-8ef6-aaab9b1baf18" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-9fa3a397-5791-4b09-b299-b455b5804683">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-9fa3a397-5791-4b09-b299-b455b5804683", "src" : "http://postfiles11.naver.net/MjAxOTA0MjJfMjM1/MDAxNTU1OTQwNTAwNjc5.19ukjLlIMhakZ3izc44KmdkhPTL4hs447XKWQNTz6f0g.C667ekytmVKFLpKH53bOHCVMADasP_VvNB-tl2AOfxQg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(16)_치즈케이크.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles11.naver.net/MjAxOTA0MjJfMjM1/MDAxNTU1OTQwNTAwNjc5.19ukjLlIMhakZ3izc44KmdkhPTL4hs447XKWQNTz6f0g.C667ekytmVKFLpKH53bOHCVMADasP_VvNB-tl2AOfxQg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(16)_치즈케이크.jpg?type=w966" data-width="886" src="http://postfiles11.naver.net/MjAxOTA0MjJfMjM1/MDAxNTU1OTQwNTAwNjc5.19ukjLlIMhakZ3izc44KmdkhPTL4hs447XKWQNTz6f0g.C667ekytmVKFLpKH53bOHCVMADasP_VvNB-tl2AOfxQg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(16)_치즈케이크.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-5540ab55-e56c-42b3-8f59-c7b9a99c3db4">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-5540ab55-e56c-42b3-8f59-c7b9a99c3db4", "src" : "http://postfiles15.naver.net/MjAxOTA0MjJfNDYg/MDAxNTU1OTQwNTAwOTc1.7o7szqEjtXq3O1NNDqdGv2b08Gbf5NzrVDmQkO_bADkg.LR84jmo9t5VNvy5RxPbRbZop1aoik8KYgWmtAdxGHC0g.JPEG.polar2795/부평_예쁜_카페_위대한카페_(17)_치즈케이크.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles15.naver.net/MjAxOTA0MjJfNDYg/MDAxNTU1OTQwNTAwOTc1.7o7szqEjtXq3O1NNDqdGv2b08Gbf5NzrVDmQkO_bADkg.LR84jmo9t5VNvy5RxPbRbZop1aoik8KYgWmtAdxGHC0g.JPEG.polar2795/부평_예쁜_카페_위대한카페_(17)_치즈케이크.jpg?type=w966" data-width="886" src="http://postfiles15.naver.net/MjAxOTA0MjJfNDYg/MDAxNTU1OTQwNTAwOTc1.7o7szqEjtXq3O1NNDqdGv2b08Gbf5NzrVDmQkO_bADkg.LR84jmo9t5VNvy5RxPbRbZop1aoik8KYgWmtAdxGHC0g.JPEG.polar2795/부평_예쁜_카페_위대한카페_(17)_치즈케이크.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-f1f0c719-76ae-4c34-9be9-300ab33f1155">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-16e2e0c1-88c0-4aaf-a2b8-15fb2011ce02" style=""><span class="se-fs-fs13 se-ff-" id="SE-e76d2d8c-3cc8-43a2-ac59-c47efefa3157" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-3685830d-2fa3-47e8-93d1-eb0d6b24df68" style=""><span class="se-fs-fs13 se-ff-" id="SE-474a27a4-692b-4e60-8f0a-82307e30f73c" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-747d75cd-bd18-4ab9-987e-8a011194b8af" style=""><span class="se-fs-fs13 se-ff-" id="SE-0ce4089a-2177-4ede-b0a6-4f049302a9f6" style="">요로케 포크가 숙 들어가는 ㅠㅠ 달달 치즈케이크.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-f1737532-7984-4061-90eb-16b489f9f8e1" style=""><span class="se-fs-fs13 se-ff-" id="SE-9689a6c5-0aaf-43fd-bce8-5402b6f79c42" style="">누가 치즈케이크 하나만 일단 시키자고 했는지</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-61e9efb1-ef12-44ae-9fbd-6cfd9df68440" style=""><span class="se-fs-fs13 se-ff-" id="SE-fb4d4754-5875-4b21-a605-65e28875ef07" style="">다음 타자로는 브라우니를 주문했습니당.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-d227818a-3151-4632-9eff-40bd19e2c2a8" style=""><span class="se-fs-fs13 se-ff-" id="SE-939bffef-1d5b-4659-bc34-e5b5c9113b74" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-79f66a3f-e7d7-40b0-8777-83f49430cf1e" style=""><span class="se-fs-fs13 se-ff-" id="SE-09d2d776-95b6-4894-82b1-86212767a68b" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-50f720e7-9887-4b6b-a0f1-39c2acbc3416">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-50f720e7-9887-4b6b-a0f1-39c2acbc3416", "src" : "http://postfiles16.naver.net/MjAxOTA0MjJfMjI1/MDAxNTU1OTQwNTAxMDgz.6K2sS1xnXO6QvEeIapJf3IDXXHbmUOqNzhQQ8s6D_W8g.qq07CZ6lWWIqbnk4t3d4dRNj-eWvOeojxSil1VnTQZAg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(18)_초코브라우니.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles16.naver.net/MjAxOTA0MjJfMjI1/MDAxNTU1OTQwNTAxMDgz.6K2sS1xnXO6QvEeIapJf3IDXXHbmUOqNzhQQ8s6D_W8g.qq07CZ6lWWIqbnk4t3d4dRNj-eWvOeojxSil1VnTQZAg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(18)_초코브라우니.jpg?type=w966" data-width="886" src="http://postfiles16.naver.net/MjAxOTA0MjJfMjI1/MDAxNTU1OTQwNTAxMDgz.6K2sS1xnXO6QvEeIapJf3IDXXHbmUOqNzhQQ8s6D_W8g.qq07CZ6lWWIqbnk4t3d4dRNj-eWvOeojxSil1VnTQZAg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(18)_초코브라우니.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-cfbf87cd-cdc3-4a8d-8e90-1ecd94e812fd">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-cfbf87cd-cdc3-4a8d-8e90-1ecd94e812fd", "src" : "http://postfiles15.naver.net/MjAxOTA0MjJfMTMy/MDAxNTU1OTQwNTAxMzM1.-4O332p1kg9w6ON84a2PfhjODKjzi3xwRc3et6sDS0Ag.JFTB4kFTZyJdDhtWgOr9eq8GYIN6kf3CQ2a_Y0xTzqIg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(19)_초코브라우니.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles15.naver.net/MjAxOTA0MjJfMTMy/MDAxNTU1OTQwNTAxMzM1.-4O332p1kg9w6ON84a2PfhjODKjzi3xwRc3et6sDS0Ag.JFTB4kFTZyJdDhtWgOr9eq8GYIN6kf3CQ2a_Y0xTzqIg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(19)_초코브라우니.jpg?type=w966" data-width="886" src="http://postfiles15.naver.net/MjAxOTA0MjJfMTMy/MDAxNTU1OTQwNTAxMzM1.-4O332p1kg9w6ON84a2PfhjODKjzi3xwRc3et6sDS0Ag.JFTB4kFTZyJdDhtWgOr9eq8GYIN6kf3CQ2a_Y0xTzqIg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(19)_초코브라우니.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-787ba327-7b40-49de-91eb-42f672bfcbe8">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-6d511bef-950a-474f-90cf-92e215a6f6de" style=""><span class="se-fs-fs13 se-ff-" id="SE-12397453-5c05-4606-995d-669cdf0a1213" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-e9f33f2a-8bf7-4465-b033-3c5567df2266" style=""><span class="se-fs-fs13 se-ff-" id="SE-ef982c0d-10ce-4f9a-b5e3-7db8f80e65f4" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-0298207d-2db0-4508-86dd-d0d552b65477" style=""><span class="se-fs-fs13 se-ff-" id="SE-609b1ed4-e733-4ca1-98e5-e52e3655cc0a" style="">부평 위대한카페 브라우니는</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-8555a160-bad1-4511-b3d0-a67129990cfc" style=""><span class="se-fs-fs13 se-ff-" id="SE-5e49936a-7336-46ea-be0f-20dffc997f2f" style="">뭐랄까 약간 겉바속촉이라고 할까요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-3b08527a-512e-4ce5-9206-ebee7e70da15" style=""><span class="se-fs-fs13 se-ff-" id="SE-716ef4f3-dee4-4965-8503-7218e30e7020" style="">꾸덕꾸덕 찐득한 느낌의 브라우니는 아니예요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-94f15d5a-cd5a-4998-9b2a-113953163512" style=""><span class="se-fs-fs13 se-ff-" id="SE-6d1eb27a-c4c5-4906-adb1-6088a1097113" style="">겉은 가볍고 바삭한 느낌에, 안쪽은</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-b0a6acb6-1f05-485a-870f-d7b047d20564" style=""><span class="se-fs-fs13 se-ff-" id="SE-abca562e-4b14-464f-a806-9a1710fc9450" style="">촉촉한 초코칩 과자같은 식감이랍니다.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-85886e77-6035-4e9f-960f-e59b0e584954" style=""><span class="se-fs-fs13 se-ff-" id="SE-de7bfe75-f70b-4b16-bf94-4001737e1b29" style="">제가 제일 좋아하는 브라우니 식감은 아니지만</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-458e65a2-37f1-4789-9424-c039a21bec74" style=""><span class="se-fs-fs13 se-ff-" id="SE-0424e500-837d-4d7d-96b9-aafc31385221" style="">단맛이 진해서 요것도 나름 좋아요 *_*</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-95a5c1fe-82cf-4621-8ea1-a3fa9cbc94a2" style=""><span class="se-fs-fs13 se-ff-" id="SE-cd622922-c194-4469-a3dd-7b092b542a55" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-1de9c8ed-99bf-4c5a-8a13-819f2213819e" style=""><span class="se-fs-fs13 se-ff-" id="SE-3702556c-29ef-400d-811e-3ffea6a44bfe" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-e128e62d-01e1-4836-9827-7837eaf4dc38">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-e128e62d-01e1-4836-9827-7837eaf4dc38", "src" : "http://postfiles3.naver.net/MjAxOTA0MjJfMjkx/MDAxNTU1OTQwNTAxNjc3.Dy-h-Q8hEXBmmDoe7wK0x5ViogntlxAY6mR_OwrlFvog._DRKOCFOgG6qyfTGb6oOjQQSDbwXin1pp4iscp8rVfIg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(20)_초코브라우니.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles3.naver.net/MjAxOTA0MjJfMjkx/MDAxNTU1OTQwNTAxNjc3.Dy-h-Q8hEXBmmDoe7wK0x5ViogntlxAY6mR_OwrlFvog._DRKOCFOgG6qyfTGb6oOjQQSDbwXin1pp4iscp8rVfIg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(20)_초코브라우니.jpg?type=w966" data-width="886" src="http://postfiles3.naver.net/MjAxOTA0MjJfMjkx/MDAxNTU1OTQwNTAxNjc3.Dy-h-Q8hEXBmmDoe7wK0x5ViogntlxAY6mR_OwrlFvog._DRKOCFOgG6qyfTGb6oOjQQSDbwXin1pp4iscp8rVfIg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(20)_초코브라우니.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-0b7a2a5a-31af-4abd-be9d-8b732b8afaf7">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-0b7a2a5a-31af-4abd-be9d-8b732b8afaf7", "src" : "http://postfiles16.naver.net/MjAxOTA0MjJfOTYg/MDAxNTU1OTQwNTAyNDg3.iKn66_I0tmV12AiOqY0HZ-RsSQ8wjstSzuPyTlh89mgg.p22Nmum3wH2Gz8gP8v7JmifGXamdnfsL7k-LvmflTCwg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(21)_레몬파운드.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles16.naver.net/MjAxOTA0MjJfOTYg/MDAxNTU1OTQwNTAyNDg3.iKn66_I0tmV12AiOqY0HZ-RsSQ8wjstSzuPyTlh89mgg.p22Nmum3wH2Gz8gP8v7JmifGXamdnfsL7k-LvmflTCwg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(21)_레몬파운드.jpg?type=w966" data-width="886" src="http://postfiles16.naver.net/MjAxOTA0MjJfOTYg/MDAxNTU1OTQwNTAyNDg3.iKn66_I0tmV12AiOqY0HZ-RsSQ8wjstSzuPyTlh89mgg.p22Nmum3wH2Gz8gP8v7JmifGXamdnfsL7k-LvmflTCwg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(21)_레몬파운드.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-a4a4c15d-d267-4456-853e-afd2245b842e">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-9a7b7158-de9e-4947-982c-45e00a3ac846" style=""><span class="se-fs-fs13 se-ff-" id="SE-5622147e-945f-4799-ba42-3819636ee53b" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-9c1cb83d-03c9-48c6-8cb6-5007b2ec05a1" style=""><span class="se-fs-fs13 se-ff-" id="SE-9f0fc77f-5394-4e65-85fb-5699cba096da" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-c4d7299f-b364-43f3-a3df-166530692143" style=""><span class="se-fs-fs13 se-ff-" id="SE-d6a72a83-45a6-40bf-9391-b3ef94d058a2" style="">그리고 요건, 부평 평리단길쪽 이호점 생긴다며</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-9a418be4-babc-4870-8629-a15c26bb2d45" style=""><span class="se-fs-fs13 se-ff-" id="SE-4cc15b1c-0437-4634-ad91-e534ab71af33" style="">아직 메뉴 테스트 기간이라고 하나 주셨는데요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-0403bdb6-c612-4bda-a79a-8ef0e647a867" style=""><span class="se-fs-fs13 se-ff-" id="SE-1b191502-2c6d-4d82-97a2-965e9f2e7f41" style="">메뉴 이름은 아직 안 정해진 듯 했어요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-e18e0bbb-1467-41e1-b0d3-85f0545d8f42" style=""><span class="se-fs-fs13 se-ff-" id="SE-c67e2f8a-1ed6-4bc1-9bbb-4cda65903275" style="">파운드케이크 위에 잘게 썬</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-6be6d675-6459-4af2-9bd3-f597f9364320" style=""><span class="se-fs-fs13 se-ff-" id="SE-5954d2ec-dac9-45db-9085-d00cb9fb1759" style="">복숭아 조림같은 것이 올라간 것이었답니다.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-362ab4e7-52c0-48f6-bea4-176d7122b2b8" style=""><span class="se-fs-fs13 se-ff-" id="SE-ac014e99-a724-49d7-98c7-a8071609e690" style="">파운드케잌이라 식감은 파삭한데</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-502ebe9b-f64f-44c1-8013-e02f082e8116" style=""><span class="se-fs-fs13 se-ff-" id="SE-9bce13f8-afaf-4c04-a1de-082d68d49cf1" style="">단맛은 굉장히 깊고 진하더라고요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-8ceabb6e-2782-4409-b4bd-c776f6f881e9" style=""><span class="se-fs-fs13 se-ff-" id="SE-8eb320e0-9243-46e5-99b5-bab852d60357" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-87163ece-d208-4da7-ba2c-839708ab288b" style=""><span class="se-fs-fs13 se-ff-" id="SE-54e818c5-e528-4a1c-ac6c-4f02bb590170" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-36fd6ef1-502d-4ab3-9450-901e81ea1f64">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-36fd6ef1-502d-4ab3-9450-901e81ea1f64", "src" : "http://postfiles3.naver.net/MjAxOTA0MjJfMTA3/MDAxNTU1OTQwNTAxODU4.15AMl3gwvb4C8sxA-uQleku48ASbgTHb_sy_h7BQp9og.OePy_m9vindA3NNOFHne2Q52D7tKffpK-7LPoxTgU4cg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(22)_파운드케이크.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles3.naver.net/MjAxOTA0MjJfMTA3/MDAxNTU1OTQwNTAxODU4.15AMl3gwvb4C8sxA-uQleku48ASbgTHb_sy_h7BQp9og.OePy_m9vindA3NNOFHne2Q52D7tKffpK-7LPoxTgU4cg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(22)_파운드케이크.jpg?type=w966" data-width="886" src="http://postfiles3.naver.net/MjAxOTA0MjJfMTA3/MDAxNTU1OTQwNTAxODU4.15AMl3gwvb4C8sxA-uQleku48ASbgTHb_sy_h7BQp9og.OePy_m9vindA3NNOFHne2Q52D7tKffpK-7LPoxTgU4cg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(22)_파운드케이크.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-1bfb3082-61f4-4c50-82de-ea42ab2f887b">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-1bfb3082-61f4-4c50-82de-ea42ab2f887b", "src" : "http://postfiles8.naver.net/MjAxOTA0MjJfMjE1/MDAxNTU1OTQwNTAyNjg5.ZgqQn3KnsxHMHPOXjY0hvUNv1m8QeNcyEhB8aJBVwIgg.Jd3sSE1D2kB_2mmBzi1rrrFrcYdh697yEWY0y8Nvp-Mg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(23)_파운드케이크.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles8.naver.net/MjAxOTA0MjJfMjE1/MDAxNTU1OTQwNTAyNjg5.ZgqQn3KnsxHMHPOXjY0hvUNv1m8QeNcyEhB8aJBVwIgg.Jd3sSE1D2kB_2mmBzi1rrrFrcYdh697yEWY0y8Nvp-Mg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(23)_파운드케이크.jpg?type=w966" data-width="886" src="http://postfiles8.naver.net/MjAxOTA0MjJfMjE1/MDAxNTU1OTQwNTAyNjg5.ZgqQn3KnsxHMHPOXjY0hvUNv1m8QeNcyEhB8aJBVwIgg.Jd3sSE1D2kB_2mmBzi1rrrFrcYdh697yEWY0y8Nvp-Mg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(23)_파운드케이크.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-ad764d76-410b-477f-be6a-bd40f3d75ba4">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-839eb12b-c66f-4794-a7b7-871f497875f5" style=""><span class="se-fs-fs13 se-ff-" id="SE-626bbd00-40f9-45ea-99b6-bff21343bc47" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-1efa4104-03f8-42f6-93c9-e83ee7448ea9" style=""><span class="se-fs-fs13 se-ff-" id="SE-a83efa43-dab2-4257-8091-5ba99da4c21f" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-d53b0480-8694-4d96-9195-ffeaf7034d1d" style=""><span class="se-fs-fs13 se-ff-" id="SE-d837a158-bf45-409b-a326-3acde2ba56ee" style="">노랑노랑한데 크림 슥 부어져 있어서</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-9f463cae-ec41-47d0-946f-864f511c8ece" style=""><span class="se-fs-fs13 se-ff-" id="SE-ab854d26-09a3-47cc-ae12-5dfee4ca46bc" style="">봄 느낌 나고 예쁘더라구요 *_* 헷</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-017c6a85-9593-4e81-9aba-be3aa287b1f6" style=""><span class="se-fs-fs13 se-ff-" id="SE-953495e0-8bcd-4e13-993a-fd7c0668209f" style="">개인적으로는 여기 위대한 특유의 꽃이나</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-955d4816-1529-440c-b229-77eadbd189e6" style=""><span class="se-fs-fs13 se-ff-" id="SE-0a3f0a35-41eb-475f-bb9e-0ef4cf702a4c" style="">식물 데코 살짝 더해지면 좋을 것 같지만</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-9221806a-f1b9-4fc9-8f21-74bf23d4dc78" style=""><span class="se-fs-fs13 se-ff-" id="SE-74dad510-1cc7-4ff5-ad55-f1f7ca9de506" style="">저는 매우 - 수줍기 때문에, 그냥 냠 먹었어요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-43e94bf7-698c-4a2b-be9b-32ecb1785c7a" style=""><span class="se-fs-fs13 se-ff-" id="SE-2205f86c-369a-4456-a3ac-5e59b94ddaf4" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-53efd944-08b7-433b-8ed5-97d1f8f56290" style=""><span class="se-fs-fs13 se-ff-" id="SE-07e9650d-053c-4ff2-b3ba-03313e1c7fdf" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-f81b9166-e181-49d7-abc9-feddcfc3fbae">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-f81b9166-e181-49d7-abc9-feddcfc3fbae", "src" : "http://postfiles9.naver.net/MjAxOTA0MjJfMjIx/MDAxNTU1OTQwNTAyMjQ5.WNnOkkT4g0lC0xCxt-Bars72QoCtavXSaE0PK3Ggticg.OIksNivuvcQuB3NF0CzfMeY6HPJ6CklfhuZBHrNbuFYg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(24)_파운드케이크.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles9.naver.net/MjAxOTA0MjJfMjIx/MDAxNTU1OTQwNTAyMjQ5.WNnOkkT4g0lC0xCxt-Bars72QoCtavXSaE0PK3Ggticg.OIksNivuvcQuB3NF0CzfMeY6HPJ6CklfhuZBHrNbuFYg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(24)_파운드케이크.jpg?type=w966" data-width="886" src="http://postfiles9.naver.net/MjAxOTA0MjJfMjIx/MDAxNTU1OTQwNTAyMjQ5.WNnOkkT4g0lC0xCxt-Bars72QoCtavXSaE0PK3Ggticg.OIksNivuvcQuB3NF0CzfMeY6HPJ6CklfhuZBHrNbuFYg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(24)_파운드케이크.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-ab85c3bc-7f17-4565-a5cc-ce2312ff98d9">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-ab85c3bc-7f17-4565-a5cc-ce2312ff98d9", "src" : "http://postfiles13.naver.net/MjAxOTA0MjJfOTEg/MDAxNTU1OTQwNTAyMzIw.ZAGvrUV55rS6fmJLmxHFuTDDDHu7wgn0QgIqKVVTC6wg._jqG_ACwdi4smdELOKjXEEbqImLi7jk2KbCfu6YwlZAg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(25)_파운드케이크.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles13.naver.net/MjAxOTA0MjJfOTEg/MDAxNTU1OTQwNTAyMzIw.ZAGvrUV55rS6fmJLmxHFuTDDDHu7wgn0QgIqKVVTC6wg._jqG_ACwdi4smdELOKjXEEbqImLi7jk2KbCfu6YwlZAg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(25)_파운드케이크.jpg?type=w966" data-width="886" src="http://postfiles13.naver.net/MjAxOTA0MjJfOTEg/MDAxNTU1OTQwNTAyMzIw.ZAGvrUV55rS6fmJLmxHFuTDDDHu7wgn0QgIqKVVTC6wg._jqG_ACwdi4smdELOKjXEEbqImLi7jk2KbCfu6YwlZAg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(25)_파운드케이크.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-781f4b3b-c954-49c6-a73b-d767a1055de5">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-f9220fb8-fc91-44b0-a935-f0ad602b42f0" style=""><span class="se-fs-fs13 se-ff-" id="SE-5a40a83a-e876-4f62-9582-8ea7e7f3997e" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-d9eb71b8-e915-4f13-93bd-307117b16bde" style=""><span class="se-fs-fs13 se-ff-" id="SE-dea94483-8801-4a31-9c50-c8edff98124e" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-59ff8aa3-93d4-45a4-8b2c-3f4b7673306a" style=""><span class="se-fs-fs13 se-ff-" id="SE-9f691444-29a3-48f8-896b-a662484ee5e2" style="">새삼 사진 배경에서 포크를 들고 저를 보는</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-cc908fc3-b759-4d19-af69-24ad28417da6" style=""><span class="se-fs-fs13 se-ff-" id="SE-5a6a6ec4-1956-41b2-95f5-9b7e0a533bcc" style="">친구이 시선이 느껴지는 것 같네요 ㅋㅋㅋ</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-50da59af-3c0a-4420-8200-09acecf3eac0" style=""><span class="se-fs-fs13 se-ff-" id="SE-37405093-3057-4ab8-99d0-94d8baa93099" style="">그치만, 사진 잘 안찍고 먹기 바쁜 제가</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-d6d69c4e-30e2-4d1e-9e23-f51c1be54ec0" style=""><span class="se-fs-fs13 se-ff-" id="SE-24e3df17-85e5-4248-8a3d-3c1383c6154c" style="">사진 실컷 찍는 얼마 안 되는 카페인걸요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-bd2bc20f-69a3-4d67-add2-e291c92b37ad" style=""><span class="se-fs-fs13 se-ff-" id="SE-24425060-eb40-4e7d-ad5f-86167b7a7755" style="">너그럽게 양해해 주신 친구님께 감사드립니다.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-577baa72-144d-4e08-8b25-a7008374d0a3" style=""><span class="se-fs-fs13 se-ff-" id="SE-82dd882c-822b-4e42-a8b1-937a1819d7a9" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-705f7e59-8946-48b0-890b-1cc3f2b9d070" style=""><span class="se-fs-fs13 se-ff-" id="SE-16373259-92fd-460a-9edd-13e5b62d31fb" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-image se-l-default" id="SE-420f7051-4bf5-4d0c-aaf0-417455273cbb">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-image se-l-default se-section-align-center">
+<a class="se-module se-module-image __se_image_link __se_link" data-linkdata='{"id" : "SE-420f7051-4bf5-4d0c-aaf0-417455273cbb", "src" : "http://postfiles11.naver.net/MjAxOTA0MjJfNTMg/MDAxNTU1OTQwNTAyNjIz.AabuaFAbpLQIARTlG-jTxHUe59hJj4ab91kjsUcaVhwg.0qcCV1QviZztBg5Hq9pYxHV0zNMqdQ-7dCR7n2zmggYg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(26)_디저트.jpg", "linkUse" : "false", "link" : ""}' data-linktype="img" href="#" onclick="return false;" style=" ">
+<img alt="" class="se-image-resource" data-height="709" data-lazy-src="http://postfiles11.naver.net/MjAxOTA0MjJfNTMg/MDAxNTU1OTQwNTAyNjIz.AabuaFAbpLQIARTlG-jTxHUe59hJj4ab91kjsUcaVhwg.0qcCV1QviZztBg5Hq9pYxHV0zNMqdQ-7dCR7n2zmggYg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(26)_디저트.jpg?type=w966" data-width="886" src="http://postfiles11.naver.net/MjAxOTA0MjJfNTMg/MDAxNTU1OTQwNTAyNjIz.AabuaFAbpLQIARTlG-jTxHUe59hJj4ab91kjsUcaVhwg.0qcCV1QviZztBg5Hq9pYxHV0zNMqdQ-7dCR7n2zmggYg.JPEG.polar2795/부평_예쁜_카페_위대한카페_(26)_디저트.jpg?type=w80_blur"/>
+</a> </div>
+</div>
+</div> <div class="se-component se-text se-l-default" id="SE-8f4edc24-1c71-44dd-a417-a3d4e0ac6cd6">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-90ae615d-0e8b-4e2e-8081-881bc19438bc" style=""><span class="se-fs-fs13 se-ff-" id="SE-5912be50-cc7a-4cda-88e6-7e70fd7de2de" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-006d72a3-d455-45a5-a0df-679a8a983be5" style=""><span class="se-fs-fs13 se-ff-" id="SE-6441d130-5500-40b0-bc9f-296798cf9441" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-8d1c60dc-e086-4d4e-9e27-cd95b48c3835" style=""><span class="se-fs-fs13 se-ff-" id="SE-dcf234bb-9753-4043-a329-d0573ed4785b" style="">이제 이호점 생긴다니까 - 요기는 일호점? 이겠죠.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-2b505162-2c9a-4b9b-a160-22c0dde3e226" style=""><span class="se-fs-fs13 se-ff-" id="SE-328ef57a-1f6d-49b8-8129-b9d62c1099c4" style="">주말에도 좀 여유가 생기지 않을까 -</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-b0c3a178-051e-4d95-8334-29f81a1fccd8" style=""><span class="se-fs-fs13 se-ff-" id="SE-1d68a2ba-dda3-4271-95ad-1c0906953b35" style="">하고 조금은 죄송한 바램을 품어봅니다 ;-)</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-bd7a2bc2-19ae-48ff-ba62-3b531e61e124" style=""><span class="se-fs-fs13 se-ff-" id="SE-eefa580d-1a2d-4034-9a2e-25c10bc60e53" style="">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-4b27d21d-bd3e-4e7c-87e8-3432bf7c5caa" style=""><span class="se-fs-fs13 se-ff-" id="SE-35636384-9591-445c-9ad2-04fd45954d65" style="">​</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> <div class="se-component se-placesMap se-l-default" id="SE-44fa7ca3-0e26-431e-b9e5-81eb4992e5b1">
+<div class="se-component-content">
+<div class="se-section se-section-placesMap se-section-align-center se-l-default">
+<div class="se-module se-module-map-image">
+<img alt="" class="se-map-image" src="https://simg.pstatic.net/static.map/image?caller=smarteditor&amp;markers=color%3A0x11cc73%7Csize%3Amid%7Cpos%3A126.7226909%2037.4929955%7CviewSizeRatio%3A0.6%7Ctype%3Ad&amp;w=886&amp;h=415&amp;scale=1&amp;version=1.2"/>
+</div>
+<div class="se-module se-module-map-text">
+<a class="se-map-info __se_link" data-linkdata='{"eventTarget" : "placeDesc", "placeId" : "38233833", "searchEngine" : "naver", "searchType" : "s", "name" : "위대한카페", "address" : "인천광역시 부평구 부평대로 17-1 지하층", "latitude" : "37.4929955", "longitude" : "126.7226909", "tel" : "070-8805-0619", "bookingUrl" : null }' data-linktype="map" href="#" onclick="return false;" target="_blank">
+<strong class="se-map-title">위대한카페</strong>
+<p class="se-map-address">인천광역시 부평구 부평대로 17-1 지하층</p>
+</a>
+</div> </div>
+</div>
+<script class="__se_module_data" data-module='{"type":"v2_map", "id" :"SE-44fa7ca3-0e26-431e-b9e5-81eb4992e5b1", "data" : { "layout": "default", "searchEngine" : "naver", "places" : [{"placeId":"38233833","name":"위대한카페","address":"인천광역시 부평구 부평대로 17-1 지하층","latlng":{"@ctype":"position","latitude":37.4929955,"longitude":126.7226909},"searchType":"s","tel":"070-8805-0619","bookingUrl":null}] }}' type="text/data"></script>
+</div> <div class="se-component se-video se-l-default">
+<div class="se-component-content se-component-content-fit">
+<div class="se-section se-section-video se-section-align-center se-l-default">
+<div class="se-module se-module-video" id="SE-f97e5e24-87c5-4053-b3f7-9e6683725156">
+</div>
+</div>
+</div>
+<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-f97e5e24-87c5-4053-b3f7-9e6683725156", "data" : { "videoType" : "player", "vid" : "366CABA340836E2EDC2AFC07FC18104AB52B", "inkey" : "V1265282f20c14ff5554140d7597d1c4c7d4c9fbeb36a2e4999a2b7fa62023c427e5d40d7597d1c4c7d4c", "originalWidth": "1280", "originalHeight": "720", "width": "886", "height": "498", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"부평 예쁜카페, 위대한카페에서 디저트 냠","tags":["부평카페","커피","디저트","케이크","카페"],"description":"위대한카페에서 딸기샹그리아, 딸기라떼, 모카라떼, 아메리카노 그리고 치즈케이크와 브라우니까지!"} }}' type="text/data"></script>
+</div> <div class="se-component se-text se-l-default" id="SE-eed90651-fa1b-4bb1-b9ec-313741c63967">
+<div class="se-component-content">
+<div class="se-section se-section-text se-l-default">
+<div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center" id="SE-67be08ce-3fbc-4964-b047-20646da8dcfb" style=""><span class="se-fs-fs13 se-ff-" id="SE-8f083d4b-079e-4473-bed8-0358fc936bf1" style="">내돈내산, 아니 친구들과 1/N산 리뷰입니다 :-)</span></p><!-- } SE-TEXT --></div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+<div class="widget_sig">
+<span class="mtype5"><a href="http://section.blog.naver.com/WidgetChallenge.nhn" target="_blank"><strong>나만의 테마 마스터</strong> 위젯 미션에 연재중인 글입니다.</a></span>
+</div>
+<div class="post_footer_contents">
+<div class="wrap_tag">
+<div class="_param(false|false|4)" id="tagList_221520206241" style="display:none;cursor:default;">
+<strong class="blind">태그</strong>
+</div>
+<div style="display:none">
+<span class="wrap_input_text">
+<input class="input_text pcol2 _tagInputArea" title="태그를 입력하세요." type="text" value=""/>
+<i class="aline"></i><i class="pcol2b"></i>
+</span>
+<span class="wrap_btn"><a class="btn pcol2 _cancelTag _returnFalse _param(221520206241)" href="#">취소<i class="aline"></i></a>
+<a class="btn pcol2 _saveTag _rosRestrict _returnFalse _param(221520206241)" href="#">확인<i class="aline"></i></a></span>
+</div>
+</div>
+</div>
+<div class="post-btn post_btn2">
+<div class="wrap_postcomment">
+<div class="area_sympathy pcol2" id="area_sympathy221520206241">
+`									<div class="u_likeit_list_module _reactionModule" data-catgid="post" data-cid="polar2795_221520206241" data-did="BLOG" data-sid="BLOG">
+<a class="u_likeit_list_btn _button pcol2 _param(221520206241)" data-ishiddencount="true" data-log="lik.llike|lik.lunlike" data-type="like" href="#" role="button">
+<span class="u_ico _icon pcol3"></span>
+<span class="u_cnt _count"></span>
+</a>
+</div>
+<a class="btn_arr pcol2 _symList _param(3|1|221520206241|0) _returnFalse" href="#" id="Sympathy221520206241" role="button">
+<div class="u_likeit_list_module _reactionModule" data-catgid="post" data-cid="polar2795_221520206241" data-did="BLOG" data-sid="BLOG">
+<span class="u_likeit_list_btn _button btn_sympathy" data-type="like">
+<em class="u_txt _label">공감</em> <em class="u_cnt _count"></em>
+</span>
+</div>
+<i class="aline bar"></i>
+<i class="bu_arr"></i>
+<span class="blind">이 글에 공감한 블로거 열고 닫기</span>
+</a>
+<i class="aline"></i>
+</div>
+<div class="area_comment pcol2">
+<a class="btn_comment pcol2 _cmtList _param(1|1|221520206241|0|true) _returnFalse" href="#" id="Comi221520206241" role="button">
+<i class="ico"></i> 댓글<em> 15</em>
+<i class="aline bar"></i>
+<span class="btn_arr"><i class="bu_arr"></i><span class="blind">이 글에 댓글 단 블로거 열고 닫기</span></span>
+</a>
+<i class="aline"></i><i class="aline3"></i>
+</div>
+</div>
+<div class="wrap_postedit">
+<!-- 소셜플러그인 -->
+<div class="naver-splugin" data-canonical-url="http://blog.naver.com/polar2795/221520206241" data-likecontentsid="polar2795_221520206241" data-likeserviceid="BLOG" data-me-display="off" data-oninitialize="splugin_oninitialize(1);" data-style="standard-v1-basic" data-url="http://blog.naver.com/polar2795/221520206241" id="spiLayer1"></div>
+<!-- //소셜플러그인 -->
+<div class="area_btn_postedit pcol2">
+<i class="aline"></i>
+<a class="pcol2 _printPost _returnFalse _param(221520206241)" href="#" target="_blank">인쇄
+											
+										</a>
+</div>
+</div>
+</div>
+<div id="naverComment_201_221520206241_ct" style="display:none">
+<div class="commentbox_header _naverCommentHeader">
+<a class="btn_write_comment _naverCommentWriteBtn _param(naverComment_201_221520206241|naverComment_201_221520206241_ct) _returnFalse" href="#" title="새 창">댓글쓰기</a>
+<div class="commentbox_pagination">
+<div class="num"><strong class="_currentPageNo">1</strong>/<span class="_lastPageNo">1</span></div>
+<div class="btn_pagination">
+<a class="prev dimmed _naverCommentPrev _param(naverComment_201_221520206241_ct) _returnFalse" href="#">
+<span class="blind">이전</span>
+<span class="icon icon_ic_arrow_8x12_left"></span>
+</a>
+<a class="next _naverCommentNext _param(naverComment_201_221520206241_ct) _returnFalse" href="#">
+<span class="blind">다음</span>
+<span class="icon icon_ic_arrow_8x12_right"></span>
+</a>
+</div>
+</div>
+</div>
+<div id="naverComment_201_221520206241"></div>
+</div>
+<iframe allowtransparency="true" frameborder="0" height="1" id="sympathyFrm221520206241" scrolling="no" src="" style="display:none" title="엮인글" width="100%"></iframe>
+<script src="https://ssl.pstatic.net/tveta/libs/ssp/ssp.web.sdk.js"></script>
+<script>var gAdPostUnitIdForPC = "pc_blog_bottom";</script>
+<script src="http://t.static.blog.naver.net/mylog/versioning//js/post/ssp/SspAdPostCallerForPC-9c05a23.js" type="text/javascript"></script>
+<script>var gAdContentUnitIdForPC = "pc_blog_body";</script>
+<script src="http://t.static.blog.naver.net/mylog/versioning//js/post/ssp/SspAdContentCallerForPC-d4fb600.js" type="text/javascript"></script>
+<div id="ssp-adpost"></div>
+<div class="_adpost_skin_property" style="position:absolute;z-index:-100;visibility:hidden">
+<span class="pcol1"></span>
+<span class="pcol2"></span>
+<span class="pcol3"></span>
+</div>
+</td>
+<td class="bcr" nowrap="nowrap"></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" class="post-footer"><tr><td class="ftl" nowrap="nowrap"></td><td class="ftc"></td><td class="ftr" nowrap="nowrap"></td></tr></table>
+</div>
+</div>
+<div class="division-line-x plile"></div>
+<script type="text/javascript">
+
+function ImageLazyLoader(selectors) {
+   this.selectors = selectors;
+}
+
+ImageLazyLoader.prototype.loadImages = function () {
+    var containers = this.selectors instanceof HTMLElement ? [this.selectors] : jindo.$$(this.selectors);
+    $A(containers).forEach($Fn(function (element) {
+        this.loadImagesForEachContainer($Element(element));
+    }, this).bind())
+}
+
+ImageLazyLoader.prototype.loadImagesForEachContainer = function (postContentArea) {
+    $A(postContentArea.queryAll("img")).forEach($Fn(function (img) {
+        img = $Element(img);
+        var realSrc = img.attr("data-lazy-src");
+        if (!realSrc) {
+            return;
+        }
+
+        img.attr("src", realSrc);
+        img.attr("data-lazy-src", "");
+    }, this).bind())
+}
+
+$Fn(function() {
+    var imageLazyLoader = new ImageLazyLoader("#postListBody .post");
+    imageLazyLoader.loadImages();
+}).attach(window, "domready");
+
+</script>
+</div>
+<div class="other_category_and_popular_expose other_category_and_popular_click" id="postListBottom" style="display: block;">
+<div class="post">
+<div class="post-back">
+<table cellpadding="0" cellspacing="0" class="post-head" role="presentation">
+<tbody>
+<tr>
+<td class="htl"></td>
+<td class="htc"></td>
+<td class="htr"></td>
+</tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" class="post-body" role="presentation">
+<tbody>
+<tr>
+<td class="bcl"></td>
+<td class="bcc">
+<div class="wrap_blog2_list wrap_blog2_thumblist other_category_album_list_expose other_category_album_list_click">
+<div class="wrap_title">
+<h4 class="title pcol2">
+										이 블로그
+										
+											
+											
+												
+													
+													
+													<a class="pcol2 aggregate_click_delegate" href="/PostList.nhn?blogId=polar2795&amp;categoryNo=34&amp;from=thumbnailList&amp;parentCategoryNo=0"> <strong class="pcol3">외식</strong> </a>
+													
+												
+											
+										
+										카테고리 글
+									</h4>
+<a class="btn_openlist pcol2 aggregate_click_delegate" href="/PostList.nhn?blogId=polar2795&amp;categoryNo=34&amp;from=thumbnailList&amp;parentCategoryNo=0" onclick="clickcr(this,'rec_others.all','','',event);">전체글 보기</a>
+</div>
+<div class="wrap_list">
+<div class="blog2_thumblist">
+<ul class="thumblist" id="postBottomThumbnailTitleListBody">
+</ul>
+</div>
+<div class="wrap_blog2_paginate">
+<div class="blog2_paginate" id="postBottomThumbnailTitleListNavigation">
+</div>
+</div>
+</div>
+</div>
+<div class="wrap_popularlist">
+<div class="wrap_blog2_list wrap_blog2_popularlist" id="popularTextList" style="display: none;">
+<div class="wrap_title">
+<h4 class="title pcol2">이 블로그 인기글</h4>
+<i class="cline"></i>
+</div>
+<div class="wrap_list">
+<table cellpadding="0" cellspacing="0" class="blog2_list" summary="이 블로그 인기글">
+<caption><span class="blind">이 블로그 인기글</span></caption>
+<colgroup>
+<col class="title"/>
+<col class="date"/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col"><span class="blind">글 제목</span></th>
+<th scope="col"><span class="blind">작성일</span></th>
+</tr>
+</thead>
+<tbody id="popularTextList_popularPostListBoddy"></tbody>
+</table>
+<div class="wrap_blog2_paginate">
+<div class="blog2_paginate" id="popularTextList_popularPostListPaginate"></div>
+</div>
+</div>
+<div class="area_btn_top">
+<a class="btn_top pcol2" href="#" onclick="clickcr(this, 'rec.top', '', '', event)" role="button"><i class="icon"></i><span class="blind">화면 최상단으로 이동</span></a>
+</div>
+</div>
+<div class="wrap_blog2_list wrap_blog2_thumblist2" id="popularThumbList" style="display: none;">
+<div class="wrap_title">
+<h4 class="title pcol2">이 블로그 인기글</h4>
+</div>
+<div class="wrap_list">
+<div class="blog2_thumblist2">
+<ul class="thumblist" id="popularThumbList_popularPostListBoddy"></ul>
+</div>
+<div class="wrap_blog2_paginate">
+<div class="blog2_paginate" id="popularThumbList_popularPostListPaginate"></div>
+</div>
+</div>
+<div class="area_btn_top">
+<a class="btn_top pcol2" href="#" onclick="clickcr(this, 'rec.top', '', '', event)" role="button"><i class="icon"></i><span class="blind">화면 최상단으로 이동</span></a>
+</div>
+</div>
+</div>
+</td>
+<td class="bcr"></td>
+</tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" class="post-footer" role="presentation">
+<tbody>
+<tr>
+<td class="ftl"></td>
+<td class="ftc"></td>
+<td class="ftr"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<script charset="UTF-8" src="http://t.static.blog.naver.net/mylog/versioning/PostViewBottom-515210704.js" type="text/javascript"></script>
+<script type="text/javascript">
+	
+	postViewBottomTitleListController.start(blogId, nFirstLogNo, 'true' == 'true', parentCategoryNo, currentCategoryNo, categoryName, viewDate, '1555966800000', from, 'true', '6');
+</script>
+<script type="text/javascript">
+	var nilOptions = {
+    devMode: "true"=="false",
+		topReferer : (function() {
+			var ref = "";
+			var isMobile = function() {
+				return window.location.host.indexOf('m.blog.naver.com') >= 0;
+			}
+
+			if (isMobile()){
+				return document.referrer;
+			} else {
+				if (ref == '') {
+					if (parent != window && parent.location.href == document.referrer) {
+						return '';
+					} else {
+						return document.referrer;
+					}
+				} else {
+					return ref;
+				}
+			}
+		})()
+	}
+</script>
+<div class="layer_style display_none" id="multime2Layer"></div>
+<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:07:46 KST 2020"></script>
+<script>
+	window.onload = function() {
+        window.__splugin = SocialPlugIn_Core({
+            //소셜 플러그인 기본 설정
+            // nEvent Key
+            "evKey"       : "blog",
+            // 서비스명
+            "serviceName" : "블로그",
+            // 출처
+            "sourceName"  : "\uBC31\uACF0\uC758 \uBE7C..",
+            "sendNClick"  : 'on',
+            "nClickCode" : {
+                'blog': { 'in': 'shr_lyr.blog', 'out': 'shr.blog' },
+                'cafe': { 'in': 'shr_lyr.cafe', 'out': 'shr.cafe' },
+                'bookmark': { 'in': 'shr_lyr.bookmark', 'out': 'shr.bookmark' },
+                'memo':     { 'in': 'shr_lyr.memo',     'out': 'shr.memo' },
+                'mail':     { 'in': 'shr_lyr.mail',     'out': 'shr.mail' },
+                'band':     { 'in': 'shr_lyr.band',     'out': 'shr.band' },
+                'line':     { 'in': 'shr_lyr.line',     'out': 'shr.line' },
+                'twitter':  { 'in': 'shr_lyr.twitter',  'out': 'shr.twitter' },
+                'facebook': { 'in': 'shr_lyr.facebook', 'out': 'shr.facebook' },
+                'weibo':    { 'in': 'shr_lyr.weibo',    'out': 'shr.weibo' },
+                'reddit':   { 'in': 'shr_lyr.reddit',   'out': 'shr.reddit' },
+                'copyurl':  { 'in': 'shr_lyr.copyurl' },
+                'release':  { 'out': 'shr.sharebtn' }
+        	}
+        });
+	}
+	</script>
+<script defer="" src="https://editor-static.pstatic.net/v/blog/se.viewer.js?v=1.4.5-20200623140312" type="text/javascript"></script>
+<script charset="utf-8" src="http://t.static.blog.naver.net/mylog/versioning/PostBottomCommon-1187985222.js" type="text/javascript"></script>
+<script type="text/javascript">
+new InstallBlogAppPush();
+</script>
+<script src="http://openapi.map.naver.com/openapi/openapi_v23.js" type="text/javascript"></script>
+<script charset="UTF-8" src="http://t.static.blog.naver.net/mylog/versioning/PostBottomLocalMapView-1350688947.js" type="text/javascript"></script>
+<script src="http://t.static.blog.naver.net/mylog/versioning/PostBottomForeignMapView_utf8-354031567.js" type="text/javascript"></script>
+<script charset="UTF-8" src="http://t.static.blog.naver.net/mylog/versioning/PostBottomForeignMapView-1431841123.js" type="text/javascript"></script>
+<script type="text/javascript">
+        var gdid = '90000003_000000000000003393A219A1';
+        var uri = 'http://blog.naver.com/polar2795/221520206241';
+        var relationType = 4;
+        var referrer = nilOptions.topReferer;
+        var dimension_1 = "%EB%A7%9B%EC%A7%91";
+        var optional_1 = false;
+        var event_category = "post_view";
+        var isNilAnalystLeaveEvent = "true";
+        var isPostList = !!isPostList;
+        $Fn(function () {
+            try {
+                new nilForBlogCVAnalyst(blogId, uri, relationType, gdid, dimension_1, referrer, optional_1, event_category, isPostList, isNilAnalystLeaveEvent);
+            } catch (e) {}
+        }).attach(window, "load");
+
+    </script>
+<!-- 	<script Type="text/javascript" Src="http://openapi.map.naver.com/openapi/openapi_v23.js"></script> -->
+<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:07:46 KST 2020" type="text/javascript"></script>
+<script type="text/javascript">
+
+
+$Fn(function() {
+	try {
+        reaction.init({
+            type: "basic",
+            domain : "https://blog.like.naver.com",
+            cssId : "blog",
+            isMobile : false,
+            maxCount : 9999,
+            isHiddenCount : false,
+            highlightCount : 50,
+            highlightClassname : "double_heart",
+            callback : {
+                click : function(param){
+                    oSympathyLayer.setLogno(param);
+                },
+                clicked : function(){
+                    oSympathyLayer.reloadSympathyLayer();
+                }
+            }
+        });
+	} catch(e){}
+
+    $ElementList(".u_likeit_list_btn").addClass("pcol2");
+
+}).attach(window, "load");
+</script>
+</div>
+</div><hr/>
+</div>
+<div class="side-width" id="bottom-tight-area"><div class="side-border"><div class="side-head"></div>
+<div class="side-body onestyle">
+<div class="widget" id="blog-search">
+<div class="blog_search">
+<form action="http://blog.naver.com/PostSearchList.nhn" id="searchfrm" method="GET" name="searchfrm">
+<h3 class="blind">검색</h3>
+<label class="blind" for="searchText">글 검색</label><input class="inp" id="searchText" name="SearchText" onclick="clickcr(this,'sew.window','','',event);" style="ime-mode:active;" type="text" value=""/><input name="blogId" type="hidden" value="polar2795"/><input alt="검색" class="sp_blog btn" height="1" id="searchBtn" onclick="clickcr(this,'sew.search','','',event);" src="http://blogimgs.naver.net/nblog/spc.gif" type="image" width="1"/>
+</form>
+</div>
+</div>
+<div class="division-line-x"></div>
+<div class="widget" id="blog-category">
+<input id="categoryNo" name="categoryNo" type="hidden" value=""/>
+</div>
+<div class="division-line-x"></div>
+<div class="widget" id="widget-visitorgp"></div>
+<div class="division-line-x"></div>
+<div class="widget" id="blog-rss">
+<a class="rss1" href="http://blog.rss.naver.com/polar2795.xml" onclick="clickcr(this,'rsw.rss20','','',event);" target="_blank"><span class="no">RSS 2.0</span></a>
+<a class="rss2" href="http://blog.rss.naver.com/polar2795.xml?rss=1.0" onclick="clickcr(this,'rsw.rss10','','',event);" target="_blank"><span class="no">RSS 1.0</span></a>
+<a class="rss3" href="http://blog.rss.naver.com/polar2795.xml?atom=0.3" onclick="clickcr(this,'rsw.atom03','','',event);" target="_blank"><span class="no">ATOM 0.3</span></a>
+</div>
+<div class="division-line-x"></div>
+<div class="widget" id="blog-profile">
+<p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p>
+</div>
+<div class="division-line-x"></div><div class="clear"></div></div><!-- side-body -->
+<div class="side-body onestyle">
+<div class="widget" id="cwg_master_challengeMasterTrack_7">
+</div>
+<div class="division-line-x"></div>
+<div class="clear"></div></div><!-- side-body -->
+<div class="side-footer"></div></div></div><hr/>
+<div id="bottom-area">
+</div>
+</div><hr/>
+</div><div id="whole-footer"></div></div>
+<div id="blog-sign"></div>
+</div>
+<div id="bottom-skin"></div>
+</div>
+<div id="avoid_facebook_crawling_layer" style="display:none;">
+<p>안녕하세요.<br/>이 포스트는 네이버 블로그에서 작성된 게시글입니다.<br/>자세한 내용을 보려면 링크를 클릭해주세요.<br/>감사합니다.</p>
+</div>
+<div class="travel_closing_popup" id="travel_closing_popup" style="width:350px; display:none; cursor: default; position:absolute;">
+<div class="border_type">
+<div class="content3">
+<h5 class="gr" style="margin:10;">글 보내기 서비스 안내</h5>
+<p class="ulayer" style="margin:10;">2009년 6월 30일 네이버 여행 서비스가 종료되었습니다.<br/> 네이버 여행 서비스를 이용해 주신 여러분께 감사드리며, <br/>더 좋은 서비스로 보답할 수 있도록 노력하겠습니다.<br/></p>
+<div align="center"><a class="btn_confirm _returnFalse _closeLayer _param(travel_closing_popup)" href="#"><img alt="확인" border="0" src="http://static.naver.com/common/btn/btn_confirm2.gif"/></a></div>
+<br/>
+<a class="closelayer _returnFalse _closeLayer _param(travel_closing_popup)" href="#"><img alt="닫기" class="btn_close" height="10" src="http://blogimgs.naver.net/nblog/mylog/post/btn_thin_close.gif" width="13"/></a>
+</div>
+</div>
+</div>
+<div class="addfile_layer" id="fileLayer" style="display:none;">
+<div class="layer_contents"><ul><li></li></ul>
+<a class="clse _closeLayer _param(fileLayer) _returnFalse" href="#"><img alt="닫기" class="btn_close" height="9" src="http://blogimgs.naver.net/imgs/btn_close8.gif" width="9"/></a>
+</div>
+<span class="shadow shadow1"></span><span class="shadow shadow2"></span><span class="shadow shadow3"></span>
+</div>
+<div id="layer_msg">
+<div class="layer_hashfilter" id="malwareAlertLayer" style="width:390px;display:none;z-index:99999">
+<h2>악성코드가 포함되어 있는 파일입니다.</h2>
+<p class="file"><img alt="파일" height="10" src="http://blogimgs.naver.net/nblog/mylog/post/ico_file.gif" width="11"/>{FILENAME}</p>
+<p>백신 프로그램으로 치료하신 후 다시 첨부하시거나, 치료가 어려우시면<br/>파일을 삭제하시기 바랍니다.</p> <!-- 100513 -->
+<a class="vaccine_link" href="http://security.naver.com/index.nhn" target="_blank">네이버 백신으로 치료하기</a>
+<p class="info_text">고객님의 PC가 악성코드에 감염될 경우 시스템성능 저하,<br/>개인정보 유출등의 피해를 입을 수 있으니 주의하시기 바랍니다.</p>
+<div class="btns">
+<a class="downloadBtn" href="FILEPATH"><img alt="다운로드" height="26" src="http://blogimgs.naver.net/nblog/mylog/post/btn_download2.gif" width="73"/></a>
+<a class="_closeMalwareAlertLayer _returnFalse" href="#"><img alt="취소" height="26" src="http://blogimgs.naver.net/nblog/mylog/post/btn_cancel3.gif" width="45"/></a>
+</div>
+<a class="close _closeMalwareAlertLayer _returnFalse" href="#"><img alt="닫기" border="0" height="19" src="http://blogimgs.naver.net/imgs/btn_close3.gif" width="19"/></a>
+</div>
+<div class="layer_hashfilter layer_filter2" id="blockAlertLayer" style="display:none;z-index:99999">
+<h2>작성자 이외의 방문자에게는 이용이 제한되었습니다.</h2>
+<p>{ALERTMESSAGE}</p>
+<p class="rst">이용제한 파일 : {FILENAME}</p>
+<div class="btns">
+<a class="downloadBtn" href="FILEPATH" id="blockAlertDownloadBtn"><img alt="다운로드" height="26" src="http://blogimgs.naver.net/nblog/mylog/post/btn_download2.gif" width="73"/></a>
+<a class="_closeBlockAlertLayer _returnFalse" href="#"><img alt="취소" height="26" src="http://blogimgs.naver.net/nblog/mylog/post/btn_cancel3.gif" width="45"/></a>
+</div>
+<a class="close _closeBlockAlertLayer _returnFalse" href="#"><img alt="닫기" border="0" height="19" src="http://blogimgs.naver.net/imgs/btn_close3.gif" width="19"/></a>
+</div>
+</div>
+<div class="send_post_layer" id="sendInfoLayer" style="display:none;">
+<div class="layer_contents" id="sendInfoLayerDiv"></div>
+<a href="#"><img alt="닫기" class="btn_close" height="12" src="http://blogimgs.naver.net/nblog/mylog/post/btn_close5.gif" width="13"/></a>
+<span class="shadow shadow"></span><span class="shadow shadow2"></span><span class="shadow shadow3"></span>
+</div>
+<div class="post_layer" id="sendPostLayer" style="position:absolute; top:0; left: -10000px; width: 320px;">
+<div class="shadow01">
+<div class="shadow01_side">
+<div class="shadow02">
+<div class="shadow02_side">
+<div class="border_type">
+<div class="content" id="layerContent"></div>
+<div class="btn">
+<a class="_deletePostConfirm _returnFalse _closeLayer _param(sendPostLayer)" href="#" id="sendPostLayerBtn" target="_blank"><img alt="확인" height="21" src="http://blogimgs.naver.net/nblog/mylog/post/btn_confirm.gif" width="38"/></a>
+<a class="_closeLayer _param(sendPostLayer) _returnFalse" href="#"><img alt="취소" height="21" src="http://blogimgs.naver.net/nblog/mylog/post/btn_cancel.gif" width="38"/></a>
+</div>
+<a class="close _closeLayer _param(sendPostLayer) _returnFalse" href="#"><img alt="닫기" height="14" src="http://blogimgs.naver.net/nblog/btn_close_1.gif" width="15"/></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<input id="logtype" name="logtype" type="hidden" value="mylog"/>
+<form action="/BlogTagNameRegist.nhn" id="saveTagName" method="post" name="saveTagName" target="saveTagNameFrame">
+<input name="blogId" type="hidden" value="polar2795"/>
+<input name="logNo" type="hidden"/>
+<input name="chtagname" type="hidden"/>
+<input name="logType" type="hidden" value="mylog"/>
+<input name="directEdit" type="hidden" value="Y"/>
+</form>
+<iframe height="0" id="saveTagNameFrame" name="saveTagNameFrame" src="" style="display:none" title="포스트별 태그정보 저장용 프레임" width="0"></iframe>
+<form action="" method="post" name="deletePostFrm" style="display:none;">
+<input name="blogId" type="hidden" value=""/>
+<input name="cpage" type="hidden" value=""/>
+<input name="categoryNo" type="hidden" value=""/>
+<input name="parentCategoryNo" type="hidden" value=""/>
+<input name="viewDate" type="hidden" value=""/>
+<input name="sourceCode" type="hidden" value=""/>
+<input name="logNo" type="hidden" value=""/>
+<input name="currentPage" type="hidden" value=""/>
+</form>
+<div class="btn_exif" id="ExifInfoBtn" style="display: none; position: absolute;">
+<a class="_showExifInfoLayer _returnFalse" href="#">
+<img alt="사진정보 보기" height="20" src="http://blogimgs.naver.net/nblog/mylog/post/btn_viewexif.gif" width="80"/>
+</a>
+</div>
+<div class="btn_exif" id="ExifInfoBtnWithDirectSave" style="display: none; position: absolute;">
+<a class="_saveSourceImage _returnFalse" href="#">
+<img alt="원본 저장하기" height="20" src="http://blogimgs.naver.net/nblog/mylog/post/btn_originaldn.gif" width="80"/>
+</a>
+<a class="_showExifInfoLayer _returnFalse" href="#">
+<img alt="사진정보 보기" height="20" src="http://blogimgs.naver.net/nblog/mylog/post/btn_viewexif.gif" width="80"/>
+</a>
+<ul class="save_opt _saveOptionLayer" id="SaveOption">
+<li><a class="toPC _returnFalse" href="#">내PC 저장</a></li>
+<li><a class="toNDrive _returnFalse" href="#">N드라이브 저장</a></li>
+</ul>
+</div>
+<div class="detail_exif" id="ExifInfoLayer" style="display: none;">
+<a class="_ellipsisHelper _ellipsis _param(120)" href="#" style="display: none; font-size: 11px; font-family: '돋움', Dotum;"></a>
+<div>
+<a class="_closeLayer _param(ExifInfoLayer) _returnFalse" href="#">
+<img class="close _ExifCloseBtn" height="21" src="http://blogimgs.naver.net/imgs/nblog/spc.gif" width="21"/>
+</a>
+<img alt="사진정보보기" class="tit" height="14" src="http://blogimgs.naver.net/nblog/mylog/post/tit_viewexif.gif" width="69"/><br/>
+<dl>
+<dt>카메라 모델</dt>
+<dd class="_model"></dd>
+<dt>해상도</dt>
+<dd class="_resolution"></dd>
+<dt>노출시간</dt>
+<dd class="_exposure"></dd>
+<dt>노출보정</dt>
+<dd class="_correct"></dd>
+<dt>프로그램모드</dt>
+<dd class="_program"></dd>
+<dt>ISO감도</dt>
+<dd class="_iso"></dd>
+<dt>조리개값</dt>
+<dd class="_iris"></dd>
+<dt>초점길이</dt>
+<dd class="_focus"></dd>
+<dt>측광모드</dt>
+<dd class="_ttl"></dd>
+<dt>촬영일시</dt>
+<dd class="_date"></dd>
+</dl>
+</div>
+</div>
+<div class="cp_layer_popup" id="sendPostBlockLayerById" style="width:370px; display:none">
+<div class="shadow1"><div class="shadow1_side"><div class="shadow2"><div class="shadow2_side">
+<div class="border_type">
+<h4 class="header"><span class="blind">글보내기 제한 공지</span></h4>
+<div class="content">
+<dl class="cp_noti">
+<dt><img alt="" height="26" src="http://blogimgs.naver.net/nblog/ico_notice2.gif" width="29"/></dt>
+<dd>저작권 침해가 우려되는 컨텐츠가 포함되어 있어<br/> 글보내기 기능을 제한합니다. </dd>
+</dl>
+<div class="cp_noti_desc">
+<p>네이버는 블로그를 통해 저작물이 무단으로 공유되는 것을 막기 위해,
+						저작권을 침해하는 컨텐츠가 포함되어 있는 게시물의 경우 글보내기 기능을 제한하고 있습니다.</p>
+<p>상세한 안내를 받고 싶으신 경우 네이버 고객센터로 문의주시면 도움드리도록 하겠습니다.
+						건강한 인터넷 환경을 만들어 나갈 수 있도록 고객님의 많은 관심과 협조를 부탁드립니다.</p>
+</div>
+</div>
+<a class="closelayer" href="#BtnCLose" onclick="$Element($('sendPostBlockLayerById')).hide();"><img alt="닫기" height="14" src="http://blogimgs.naver.net/nblog/book/publishingcompany/btn_close.gif" width="15"/></a>
+</div>
+</div></div></div></div>
+</div>
+<div class="cp_layer_popup" id="sendPostBlockModifyLayerById" style="width:370px; display:none">
+<div class="shadow1"><div class="shadow1_side"><div class="shadow2"><div class="shadow2_side">
+<div class="border_type">
+<h4 class="header"><span class="blind">주제 분류 제한 공지</span></h4>
+<div class="content">
+<dl class="cp_noti">
+<dt><img alt="" height="26" src="http://blogimgs.naver.net/nblog/ico_notice2.gif" width="29"/></dt>
+<dd>저작권 침해가 우려되는 컨텐츠가 포함되어 있어<br/> 주제 분류 기능을 제한합니다.</dd>
+</dl>
+<div class="cp_noti_desc">
+<p>네이버는 블로그를 통해 저작물이 무단으로 공유되는 것을 막기 위해,
+						저작권을 침해하는 컨텐츠가 포함되어 있는 게시물의 경우 주제 분류 기능을 제한하고 있습니다.</p>
+<p>상세한 안내를 받고 싶으신 경우 네이버 고객센터로 문의주시면 도움드리도록 하겠습니다.
+						건강한 인터넷 환경을 만들어 나갈 수 있도록 고객님의 많은 관심과 협조를 부탁드립니다.</p>
+</div>
+</div>
+<a class="closelayer" href="#BtnCLose" onclick="$Element($('sendPostBlockModifyLayerById')).hide();"><img alt="닫기" height="14" src="http://blogimgs.naver.net/nblog/book/publishingcompany/btn_close.gif" width="15"/></a>
+</div>
+</div></div></div></div>
+</div>
+<form action="http://blog.naverblogwidget.com/ExternalWidgetRender.nhn?blogId=polar2795" method="post" name="ExternalWidgetForm">
+<input name="reversedWidgetCode" type="hidden"/>
+<input name="blogId" type="hidden"/>
+</form>
+<form action="https://nid.naver.com/nidlogin.login?mode=form" method="post" name="loginForm">
+<input name="url" type="hidden" value=""/>
+</form>
+<div id="c_layer_popup" style="position:absolute;display:none;">
+<!--[if lt IE 7]>
+	<iframe width="1000px" height="1000px" style="overflow:hidden;position:absolute;top:0;left:0;" frameborder="0" title="빈프레임"></iframe>
+	<![endif]-->
+<p class="c_desc00">작성하신 <strong><span>게시글</span>에 사용이 제한된 문구가 포함</strong>되어 일시적으로 <br/> 등록이 제한됩니다.</p>
+<div class="c_contents">
+<p class="c_desc01">이용자 분들이 홍보성 도배, 스팸 게시물로 불편을 겪지 않도록<br/> 다음과 같은 경우 해당 게시물 등록이 일시적으로 제한됩니다.</p>
+<ul class="c_desc02">
+<li>특정 게시물 대량으로 등록되거나 해당 게시물에서 자주 사용하는<br/>
+			  문구가 포함된 경우</li>
+<li>특정 게시물이 과도하게 반복 작성되거나 해당 게시물에서 자주 사용하는<br/>문구가 포함된 경우</li>
+</ul>
+<p class="c_desc03">스팸 게시물이 확대 생성되는 것을 방지하기 위하여 문구 및 사용 제한기간을<br/>상세하게 안내해 드리지 못하는 점 양해 부탁 드립니다. 모두가 행복한 인터넷<br/>문화를 만들기 위한 네이버의 노력이오니 회원님의 양해와 협조 부탁드립니다.</p>
+<p class="c_desc04">더 궁금하신 사항은 <a href="https://help.naver.com/support/alias/blog/stats/stats1.naver" target="_blank">고객센터</a>로 문의하시면 자세히 알려드리겠습니다.</p><!-- //090708 -->
+<p class="c_desc05">수정하신 후 다시 등록해 주세요.</p>
+</div>
+<div class="c_footer"><button onclick="if(wordCheck) wordCheck.hideDialog();" type="button">확인</button><button class="c_close" onclick="if(wordCheck) wordCheck.hideDialog();" type="button"><img alt="닫기" height="14" src="http://blogimgs.naver.net/static/common/popup/btn_close3.gif" width="15"/></button></div>
+</div>
+<div class="layerpopup" id="loginstart_layer" style="z-index:199;width:380px; top:100px; left:414px; display:none;">
+<div class="shadow1"><div class="shadow1_side">
+<div class="shadow2"><div class="shadow2_side">
+<div class="shadow3"><div class="shadow3_side">
+<div class="border_type">
+<div class="logbox_wrap">
+<p class="notice">회원님의 안전한 서비스 이용을 위해 <strong>비밀번호를 확인해 주세요.</strong></p>
+<p class="notice02">다시 한번 <strong>비밀번호 확인</strong> 하시면 이용중인 화면으로 돌아가며, 작성 중이던<br/>내용을 정상적으로 전송 또는 등록하실 수 있습니다.</p>
+<a class="closelayer" href="#" onclick="loginObj.closeLayeredLogin(); return false;"><img alt="닫기" height="14" src="http://blogimgs.naver.net/nblog/widget/btn_close.gif" width="15"/></a>
+<div class="frame_wrap"><iframe frameborder="0" height="163" id="layeredframe" marginheight="0" marginwidth="0" scrolling="no" src="about:blank" title="레이어용 프레임" width="350"></iframe></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div>
+</div>
+<div class="layerpopup" id="captcha_layer" style="z-index:-1;width:504px; top:0px; left:0px; display:none;">
+<input id="target" type="hidden" value=""/> <div class="frame_wrap"><iframe frameborder="0" height="252" id="captchalayeredframe" marginheight="0" marginwidth="0" scrolling="no" src="about:blank" title="안부게시판 캡차" width="504"></iframe></div>
+</div>
+<div class="layerpopup" id="day_write_limit_layer" style="position:absolute;top:350px;left:50px;z-index:999;font-family:'돋움',dotum;font-size:12px;color:#666;line-height:16px; display:none;">
+<div style="width:306px;height:161px;padding:0 20px;border:2px solid #666;background:#fff">
+<div style="margin:24px 0 10px -1px;padding:0;color:#333">
+<strong>1일 안부글 작성횟수를 초과하셨습니다.</strong>
+</div>
+<div style="width:100%;margin-left:-1px">
+			네이버 블로그에서는 프로그램을 이용한<br/>
+			안부글 자동등록 방지를 위해 1일 안부글 작성횟수에<br/>
+			제한을 두고 있습니다.
+		</div>
+<div style="margin-top:16px;padding-top:9px;border-top:1px solid #e5e5e5;letter-spacing:-1px;text-align:center">
+<a href="#" onclick="writeLimitObj.closeLayeredWriteLimit('day'); return false;"><img alt="확인" border="0" height="27" src="http://blogimgs.naver.net/nblog/guestbook/btn_ok.gif" width="47"/></a>
+</div>
+<a class="closelayer" href="#" onclick="writeLimitObj.closeLayeredWriteLimit('day'); return false;"><img alt="닫기" border="0" height="14" src="http://blogimgs.naver.net/nblog/guestbook/btn_close2.gif" width="14"/></a>
+</div>
+</div>
+<div class="layerpopup" id="reported_write_limit_layer" style="position:absolute;top:560px;left:50px;z-index:999;font-family:'돋움',dotum;font-size:12px;color:#666;line-height:16px; display:none;">
+<div style="width:341px;height:231px;padding:0 20px;border:2px solid #666;background:#fff">
+<div style="margin:24px 0 10px -1px;padding:0;color:#333">
+<strong>1일 안부글 작성횟수를 초과하셨습니다.</strong>
+</div>
+<div style="width:100%;margin-left:-1px">
+			고객님이 남기신 안부글에 대한 다수의 신고가 접수되어<br/>
+			1일 안부글 작성 횟수가 <span style="color:#2cae0c"><strong>5회</strong>로 제한</span>되었습니다.
+			<p id="blockedDate" style="margin:0;padding:7px 0 15px 1px"></p>
+			네이버 블로그는 여러 사람이 함께 모여 즐거움을 나누는<br/>
+			공간으로 모든 분들이 기분좋게 블로그를 이용할 수 있도록<br/>
+			고객님의 이해와 협조 부탁 드립니다.
+		</div>
+<div style="margin-top:16px;padding-top:9px;border-top:1px solid #e5e5e5;letter-spacing:-1px;text-align:center">
+<a class="closeLayer" href="#" onclick="writeLimitObj.closeLayeredWriteLimit('reported'); return false;"><img alt="확인" height="27" src="http://blogimgs.naver.net/nblog/guestbook/btn_ok.gif" width="47"/></a>
+</div>
+<a class="closeLayer" href="#" onclick="writeLimitObj.closeLayeredWriteLimit('reported'); return false;" style="position:absolute;top:10px;right:10px"><img alt="닫기" height="19" src="http://blogimgs.naver.net/nblog/guestbook/btn_close2.gif" width="19"/></a>
+</div>
+</div>
+<div id="floatingda_content" style="z-index:101; position:absolute; top:100px; right:10px;"></div>
+<script id="tpl_video" type="text/template">
+	<span class="ico_video">동영상</span>
+</script>
+<script id="tpl_recommend_buddy" type="text/template">
+<strong class="tit">{=recommendTitle}</strong>
+<div class="lyr_cont">
+	<a href="/{=blogId}" target="_blank" onclick="clickcr(this,'bap.blog','','',event);">
+		<div class="bloger">
+			<span class="thumb"><img src="{=profileImageUrl}" width="35" height="35" alt="섬네일"></span>
+			<span class="txt">
+				<strong class="nick">{=nickname}</strong>
+				<span class="dsc">{=blogName}</span>
+			</span>
+		</div>
+	<a>
+	<a href="#" class="btn_add_buddy _addBuddy _param({=blogId})"><span class="ico"></span>이웃추가</a>
+</div>
+<a href="#" class="btn_close _closeLayer">이웃추가 레이어 닫기</a>
+</script>
+<style type="text/css">
+	.layerpop2{position:absolute; z-index:999; font:normal 12px 돋움,Dotum; color:#333; overflow:hidden; display:none;}
+	.layerpop2 .border_type{position:relative; border:solid 2px #777; background-color:#fff;}
+	.layerpop2 .close{position:absolute; top:8px; right:8px;}
+	.layerpop2 .content1{padding:30px 30px 21px; border-bottom:solid 1px #f0f0f0;}
+	.layerpop2 .content1 h6{font-weight:bold; font-size:14px; padding-bottom:10px; margin:0; color:#333;}
+	.layerpop2 .subtext{font-size:11px; color:#999; margin:0; padding:7px 0 0; line-height:16px; letter-spacing:-1px; text-align:left;}
+	.layerpop2 .check{width:13px; height:13px; vertical-align:middle; padding:0 3px 2px 0; margin-left:2px;}
+	.layerpop2 .btn1{background-color:#fbfbfb; border-top:solid 1px #f7f7f7; text-align:center; margin:0; padding:11px 0 20px;}
+	.layerpop2 .btn1 img{margin:0 1px; vertical-align:top;}
+	</style>
+<div class="layerpop2" id="sympathyDeleteLayer" style="background:#FFF; display:none; width:326px; top:200px; left:50px;">
+<div class="border_type">
+<div class="content1">
+<h6>공감을 삭제하시겠습니까?</h6>
+<p class="subtext">이 글의 공감수도 함께 차감됩니다.</p>
+</div>
+<p class="btn1" id="sympathyLayer_deleteBtn" style="padding:10px;">
+<a href="#"><img alt="확인" height="27" src="http://blogimgs.naver.net/imgs/btn_confirm_pop2.gif" width="55"/></a><a class="_deleteFormClose _returnFalse" href="#"><img alt="취소" height="27" src="http://blogimgs.naver.net/imgs/btn_cancel_pop2.gif" width="55"/></a>
+</p>
+<a class="close _deleteFormClose _returnFalse" href="#"><img alt="닫기" height="14" src="http://blogimgs.naver.net/static/ws/btn_close.gif" width="15"/></a>
+</div>
+</div>
+<div class="pop_buddy_add_lyr" id="buddyRecommendLayer" style="display:none;">
+<strong class="tit">이웃으로 추가하시겠어요?</strong>
+<div class="lyr_cont">
+<div class="bloger">
+<span class="thumb">
+<img alt="섬네일" height="35" onerror="this.onerror=null; this.src='http://blogimgs.naver.net/nblog/comment/login_basic.gif'" src="http://blogpfthumb.phinf.naver.net/MjAxNzExMTNfMTg0/MDAxNTEwNTgwNzc1NDM0.5WX_jSQ74DzAlp56IXmoT-v7DkHrRya6eR5ir4Rnr_Ig.OkxzoOr6o_0qX6pbl9R8YpG_Z0CEv31dTG-XE9dhq_4g.JPEG.polar2795/IMG_20140415_210117.jpg?type=s40" width="35"/>
+</span>
+<span class="txt">
+<strong class="nick">백곰</strong>
+<span class="dsc">백곰의 빼꼼 내다보기</span>
+</span>
+</div>
+<a class="btn_add_buddy _addBuddy _param(polar2795)" href="#"><span class="ico"></span>이웃추가</a>
+</div>
+<a class="btn_close _buddyRecommendCloseLayer" href="#">이웃추가 레이어 닫기</a>
+</div>
+<script src="http://t.static.blog.naver.net/mylog/versioning//common/js/flash/allowSwfForChrome-d0f381e.js" type="text/javascript"></script>
+<script type="text/javascript">
+  allowSwfForChrome.allow('/versioning//common/swf/chromeFlashRestrictionEscape-1d933a9.swf', 1, 1);
+</script>
+<style type="text/css">
+/* Default Type Selector */
+#banword_wrap *, #banword_wrap1 *{ margin:0; padding:0; font-size:12px; font-family:돋움, Dotum, 굴림, Gulim, Helvetica, Sans-serif; text-align:left;}
+#banword_wrap a, #banword_wrap1 a{ color:#004790;}
+#banword_wrap img, #banword_wrap1 img,
+#banword_wrap fieldset, #banword_wrap1 fieldset{ border:none;}
+#banword_wrap legend, #banword_wrap1 legend{ display:none;}
+#banword_wrap em, #banword_wrap1 em{ font-style:normal; color:#258102;}
+#banword_wrap strong, #banword_wrap1 strong{ color:#258102;}
+#banword_wrap li, #banword_wrap1 li{ list-style:none;}
+#banword_wrap h1, #banword_wrap1 h1{ font:bold 13px 굴림, Gulim, 돋움, Dotum, Helvetica, Sans-serif; color:#333; padding:11px 0 0 19px; *padding:12px 0 0 19px; }
+/* Layout */
+#banword_wrap{ position:absolute; width:410px; _width /**/:418px; overflow:hidden; border:4px solid #777; background:#fff; display: none; z-index: 200;}
+#banword_wrap1{ position:relative; width:410px; _width /**/:418px;height:446px; overflow:hidden; border:4px solid #777; background:#fff;}
+#bw_content{ padding:14px 0 28px 0; margin:0 19px 0 18px;}
+#bw_footer{ height:8px; _height:8px; text-align:center;}
+body:first-of-type #bw_footer{ height:7px;}
+#bw_footer, x:-moz-any-link, x:default { height:7px;}
+*:first-child+html #bw_footer{ height:8px;}
+#bw_btn_footer{ height:46px; _height /**/:45px; text-align:center; background:url(http://static.naver.com/common/popup/bg_not_available_common.gif) no-repeat left 1px; padding:16px 0 0 0 ; _padding /**/:16px 0 20px 0 ;}
+
+/* Common */
+#bw_content .bw_bx1{border:1px solid #f1f1f1; margin:0 1px 9px 2px; height:100px; background:#f8f8f8; }
+#bw_content .bw_bx1_shadow{position:relative;  padding:13px 13px 12px 0; }
+#bw_content .bw_bx1_shadow strong { color:#282828; vertical-align:top; margin-left:13px; margin-bottom:10px; display:block; }
+#bw_content .bw_bx1_shadow a img {vertical-align:middle; margin:-1px 0 0 0; *margin:-2px 0 0 0;}
+@media all and (-webkit-min-device-pixel-ratio:10000), not all and (-webkit-min-device-pixel-ratio:0)
+{
+	#bw_content .bw_bx1_shadow a img {margin:-1px !important;}
+}
+body:first-of-type #bw_content .bw_bx1_shadow a img {vertical-align:middle; margin:-5px 0 0 0;}
+#bw_content .bw_bx1_shadow_in {height:35px; _height /**/:53px; margin:7px 0 0 13px; _margin:5px 0 0 13px; padding:8px 13px 7px 12px; _padding:9px 13px 8px 12px; border:#e3e3e3 1px solid; color:#666; line-height:20px; background:#fff; overflow:auto;}
+body:first-of-type #bw_content .bw_bx1_shadow_in {height:35px; _height /**/:53px; margin:5px 0 0 13px; padding:8px 13px 9px 12px; border:#e3e3e3 1px solid; color:#666; line-height:20px; background:#fff; overflow:auto;}
+#bw_content .bw_bx1_shadow_in, x:-moz-any-link, x:default {height:35px; _height /**/:53px; margin:5px 0 0 13px; padding:8px 13px 9px 12px; border:#e3e3e3 1px solid; color:#666; line-height:20px; background:#fff; overflow:auto;}
+*:first-child+html #bw_content .bw_bx1_shadow_in {height:33px; _height /**/:53px; margin:7px 0 0 13px; padding:8px 13px 9px 12px; border:#e3e3e3 1px solid; color:#666; line-height:20px; background:#fff; overflow:auto;}
+
+#bw_content .bw_bx2{ border:1px solid #eeeeee; margin:0 0 6px 3px; background:#fbfbfb; line-height:18px;}
+#bw_content .bw_bx2 *{ color:#444444;}
+/* Content */
+#bw_content .bw_desc1{ color:#444444; font-weight:bold; margin:0 0 4px 0;  letter-spacing:-1px;}
+#bw_content .bw_desc2{ color:#444444; margin:0 0 13px 0;}
+
+#bw_content .bw_desc3{ position:relative; color:#696968; padding:9px 2px 9px 34px; font-size:11px; letter-spacing:-1px; background:url(http://static.naver.com/common/popup/bu_attention.gif) no-repeat 13px 12px;}
+body:first-of-type #bw_content .bw_desc3{ padding:10px 2px 8px 34px;}
+#bw_content .bw_desc3, x:-moz-any-link, x:default { padding:10px 2px 8px 34px;}
+*:first-child+html #bw_content .bw_desc3{ padding:9px 2px 9px 34px;}
+
+#bw_content .bw_desc4 { color:#6c6c6c; margin:10px 0 0 33px; font-size:11px; letter-spacing:-1px;}
+body:first-of-type #bw_content .bw_desc4 { margin:9px 0 0 33px;}
+#bw_content .bw_desc4, x:-moz-any-link, x:default { margin:9px 0 0 33px;}
+*:first-child+html #bw_content .bw_desc4 { margin:10px 0 0 33px;}
+#bw_content .bw_desc4 a {color:#258102; font-size:11px;}
+
+#bw_content .bw_desc5 { color:#333333; margin:16px 0 10px 0; _margin:16px 0 10px 0; padding:0 0 0 1px; letter-spacing:-1px;}
+body:first-of-type #bw_content .bw_desc5 { color:#333333; margin:14px 0 12px 0; padding:0 0 0 1px; letter-spacing:-1px;}
+#bw_content .bw_desc5, x:-moz-any-link, x:default { color:#333333; margin:14px 0 12px 0; padding:0 0 0 1px; letter-spacing:-1px;}
+*:first-child+html #bw_content .bw_desc5 { color:#333333; margin:16px 0 12px 0; _margin:16px 0 10px 0; padding:0 0 0 1px; letter-spacing:-1px;}
+#bw_content .bw_desc5 strong{ color:#333333;}
+
+#bw_content .bw_desc6{color:#333333; margin:21px 0 0 0; padding:0 0 5px 1px; _padding:0 0 3px 1px; letter-spacing:-1px; border-bottom:1px solid #ececec; line-height:20px;}
+/*html:first-child #bw_content .bw_desc6 {margin:46px 0 0 0; padding:0 0 8px 1px;}
+body:first-of-type #bw_content .bw_desc6 {margin:26px 0 0 0; padding:0 0 8px 1px;}
+#bw_content .bw_desc6, x:-moz-any-link, x:default {margin:26px 0 0 0; padding:0 0 8px 1px;}
+*:first-child+html #bw_content .bw_desc6 { margin:27px 0 0 0; padding:0 0 9px 1px;}*/
+#bw_content .bw_desc6 strong{ color:#333333;}
+
+#bw_content .layer_content p {font-size:11px; line-height:14px; color:#717171; letter-spacing:-1px;}
+#bw_content .layer_content p.bw_orange {margin-top:5px; color:#fd630a;}
+/* function button box */
+#bw_content .function_btn {overflow:hidden; height:53px; *height:57px; _height:60px; width:362px; margin:14px 0 21px 6px; padding-top:4px;}
+body:first-of-type #bw_content .function_btn { margin:14px 0 20px 6px;}
+#bw_content .function_btn, x:-moz-any-link, x:default  { margin:14px 0 20px 6px;}
+*:first-child+html #bw_content .function_btn { margin:14px 0 21px 6px;}
+
+#bw_content .function_btn .btn_wrap {float:left; width:174px; _width /**/:181px; padding:0 0 0 7px;}
+#bw_content .function_btn .btn_wrap p {margin-top:5px; font-size:11px; letter-spacing:-1px; color:#696968; background:url(http://static.naver.com/common/popup/bu_line.gif) no-repeat right top;}
+body:first-of-type #bw_content .function_btn .btn_wrap p {margin-top:6px;}
+#bw_content .function_btn .btn_wrap p, x:-moz-any-link, x:default  {margin-top:6px;}
+*:first-child+html #bw_content .function_btn .btn_wrap p {margin-top:5px;}
+
+#bw_content .function_btn .btn_wrap1 {float:left; width:179px; _width /**/:181px; text-align:center; padding-left:2px}
+#bw_content .function_btn .btn_wrap1 p {margin-top:5px; font-size:11px; letter-spacing:-1px; color:#696968; text-align:left; padding:0 0 0 4px;}
+body:first-of-type #bw_content .function_btn .btn_wrap1 p {margin-top:6px;}
+#bw_content .function_btn .btn_wrap1 p, x:-moz-any-link, x:default  {margin-top:6px;}
+*:first-child+html #bw_content .function_btn .btn_wrap1 p {margin-top:5px;}
+
+#bw_footer button.c_close{position:absolute; top:7px; right:6px; width:18px; height:17px; background:none; border:none;}
+#bw_footer button.c_close, x:-moz-any-link, x:default {top:5px; right:8px;}
+*:first-child+html #bw_footer button.c_close {top:7px; right:6px;}
+
+#bw_btn_footer button {width:55px; height:27px; text-align:center; font-size:12px;}
+@media all and (-webkit-min-device-pixel-ratio:10000), not all and (-webkit-min-device-pixel-ratio:0)
+{
+	#bw_btn_footer button {padding-top:6px;}
+}
+#bw_btn_footer button.c_close{position:absolute; top:7px; right:6px; width:18px; height:17px; background:none; border:none;}
+#bw_btn_footer button.c_close, x:-moz-any-link, x:default {top:5px; right:8px;}
+*:first-child+html #bw_btn_footer button.c_close {top:7px; right:6px;}
+
+</style>
+<script type="text/javascript">
+	var wordCheck;
+	function setWordCheckObject(obj) {
+		wordCheck = obj;
+	}
+</script>
+<!-- 레이어팝업2 Document Size : 410*372 -->
+<div id="banword_wrap">
+<div id="bw_content">
+<p class="bw_desc5">작성하신 <strong><span id="bw_ugc_type"></span>에 이용자들의 신고가 많은 표현이 포함</strong>되어 있습니다.</p>
+<div class="bw_bx1">
+<div class="bw_bx1_shadow">
+<strong>신고가 많은 표현</strong>
+<div class="bw_bx1_shadow_in" id="bw_ban_words">
+</div>
+</div>
+</div>
+<div class="bw_bx2">
+<p class="bw_desc3">다른 표현을 사용해주시기 바랍니다.<br/>
+			건전한 인터넷 문화 조성을 위해 회원님의 적극적인 협조를 부탁드립니다.</p>
+</div>
+<p class="bw_desc4">더 궁금하신 사항은 <a href="https://help.naver.com/support/alias/blog/stats/stats1.naver" target="_blank">고객센터</a>로 문의하시면 자세히 알려드리겠습니다.</p>
+</div>
+<div id="bw_btn_footer">
+<button onclick="if(wordCheck) wordCheck.hideDialog();" type="button">확인</button>
+<button class="c_close" onclick="if(wordCheck) wordCheck.hideDialog();" type="button"><img alt="닫기" height="14" src="http://blogimgs.naver.net/static/common/popup/btn_close3.gif" width="15"/></button>
+</div>
+</div>
+<div id="dimmed_layer" style="z-index:198; position:absolute;left:0px; top:0px;  background: #000; opacity:0.1;filter:alpha(opacity=10); display:none;"></div>
+<div id="dimmed_iframe_layer" style="z-index:197; position:absolute;left:0px; top:0px;  background: #000; opacity:0.1;filter:alpha(opacity=10); display:none;"><iframe style="z-index:198; width: 100%; height: 100%; position:absolute;left:0px; top:0px;  background: #000; opacity:0;filter:alpha(opacity=0);" title="ie6에서 사용되는 팝업시 비활성화 프레임"></iframe></div>
+<script type="text/javascript">
+if (!window.nhn) window.nhn = {};
+if (!window.nhn.Blog) window.nhn.Blog = {};
+if (!window.nhn.Blog.SocialApp) window.nhn.Blog.SocialApp = {};
+
+var gsNDriveUrl = "http://cloud.naver.com";
+var gsStaticNetUrl = "http://static.naver.net";
+</script>
+<script charset="UTF-8" src="http://t.static.blog.naver.net/mylog/versioning/LayoutBottomCommon-23364320.js" type="text/javascript"></script>
+<script src="http://t.static.blog.naver.net/mylog/versioning//common/js/mylog/floating/FloatingBarAreaHandler-c2cd2c9.js" type="text/javascript"></script>
+<script type="text/javascript">
+function openLoginPopup() {
+	var closeUrl = blogURL + "/post/common/reloadOpenerParentAndClose.jsp";
+	window.open(idURLSecret + "/nidlogin.login?mode=form&template=plogin&url="+closeUrl,"loginPopup","width=400,height=267");
+	return;
+}
+
+var blogId = 'polar2795';
+</script>
+<script type="text/javascript">
+if ( typeof nsc == 'undefined') {
+	nsc = "blog.post";
+}
+
+var ccsrv="cc.naver.com";
+var nclk_evt = 3;
+nclk_do();
+
+
+</script>
+</body>
+</html>

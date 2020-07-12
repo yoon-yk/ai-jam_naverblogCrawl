@@ -1,4 +1,3 @@
-  
 # 네이버 블로그 크롤링
 import parser
 import csv
@@ -14,6 +13,9 @@ import download_naver_blog
 
 
 """ 키워드 설정하기 """ 
+# download_naver_blog.py 에서 
+# isad 값을 설정해주세요 !
+
 driver = webdriver.Chrome("./chromedriver/chromedriver")
 
 #네이버 블로그 접속
@@ -34,28 +36,24 @@ exceptf = [" -광고", " -빼고"]
 
 searchfor = keyword+"+"+mustin[0]+exceptf[0]
 
-driver.get("https://search.naver.com/search.naver?where=post&sm=tab_jum&query="+searchfor)
-
-
-
-'''
-媛� 寃뚯떆臾� 而⑦뀒�대꼫 : li.sh_blog_top
-寃뚯떆臾� �쒕ぉ �댁쓽 留곹겕 : li.sh_blog_top dt a �대��� href �띿꽦
-寃뚯떆臾� �띿뒪�� : div.se-module.se-module-text p span <- 臾몄옣�⑥쐞濡� �쒓렇媛� �щ젮�덉쓬
-�댁떆�쒓렇 : span.ell
-怨듦컧 �� : em.u_cnt._count
-'''
-with open("summary.csv",  "w", encoding='utf-8', newline='') as csv_fp:
+# 저장할 csv 파일 설정하기 
+with open(searchfor+".csv",  "w", encoding='utf-8', newline='') as csv_fp:
     writer = csv.DictWriter(csv_fp, fieldnames = ["num", "content", "img", "sticker", "video", "tags", "widget", "isad"])
     writer.writeheader()
 
-bloglinklist = driver.find_elements_by_css_selector("li.sh_blog_top dt a")
-k=1
-for i in bloglinklist:
-    link=i.get_attribute('href')
-    filename=str(k)+'.txt'
-    k+=1
-    download_naver_blog.run(link, filename) #download_naver_blog �덉쓽 run �⑥닔 �ъ슜!
+# set the max number of pages 
+page_num = 100
+
+for i in range(1, page_num, 10) : 
+    driver.get("https://search.naver.com/search.naver?where=post&sm=tab_jum&query="+searchfor+"&start="+str(i))
+
+    bloglinklist = driver.find_elements_by_css_selector("li.sh_blog_top dt a")
+    k=1
+    for i in bloglinklist:
+        link=i.get_attribute('href')
+        filename=str(k)+'.txt'
+        k+=1
+        download_naver_blog.run(link, filename, searchfor) #download_naver_blog �덉쓽 run �⑥닔 �ъ슜!
 
 
 driver.close()

@@ -1,3 +1,5 @@
+""" 댓글 및 조회수를 selenium 으로 불러와서 crawl.py와 합치려고 했으나 실패 """
+
 from selenium import webdriver
 from bs4 import BeautifulSoup as bs
 import pandas as pd

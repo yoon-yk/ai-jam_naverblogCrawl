@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*- 
 
-"""
+""" 
+Reference code
 https://github.com/chandong83/download-naver-blog
 """
 
@@ -11,7 +12,6 @@ import requests
 from bs4 import BeautifulSoup
 
 
-#import parsing_blog 
 from parsing_blog import Parser
 import utils
 
@@ -19,16 +19,20 @@ out_path = 'out'
 folder_path = ''
 
 # determine if dataset is ad or not
+# ( 검색어 설정에 따라 값을 바꿔주세요 )
 isad = 0
 
-def crawler(blog_url, path, file_name):
+# Crawling
+def crawler(blog_url, path, file_name, csvname):
     parser = Parser(path, True)
     try:   
         soup = BeautifulSoup(requests.get(blog_url).text, 'lxml') 
        
+        # full code 
         with open(path + '/' + 'full_' + file_name,  "w", encoding='utf-8') as fp_full:
             fp_full.write(str(soup))
 
+        # extract text
         with open(path + '/' + file_name,  "w", encoding='utf-8') as fp:
             txt = ''
             if 'se_component' in str(soup):
@@ -39,39 +43,39 @@ def crawler(blog_url, path, file_name):
                     txt += parser.parsing(sub_content)
             fp.write(txt)    
 
-        with open(path + '/' + file_name, 'r') as txtfile, open('summary.csv','a', encoding='utf-8') as csvfileout:
+        # add data to csv 
+        with open(path + '/' + file_name, 'r') as txtfile, open(csvname+'.csv','a', encoding='utf-8') as csvfileout:
             line = txtfile.read().replace("\n", " ")
             imgCnt = parser.imgCount()
             stiCnt = parser.stickerCnt()
             taglist = parser.hashtags(soup)
             widgets = parser.widget(soup)
             videoCnt = parser.videoCnt(soup)
-            print(f"********{taglist}********")
+            # print(f"********{taglist}********")
 
+            ### 공감 수가 크롤링 되지 않음 
             # fp_full = open(path + '/' + 'full_' + file_name,  "r", encoding='utf-8')
             # # 공감수를 fp_full에서 찾으려고 했는데 제거됐다 ...????
             # # likeCnt = ''
             # # result = re.findall('<em class="u_cnt _count">(.*)</em>', fp_full)
             # # likeCnt += result[0]
             # likeCnt = "hh"
-
-            # 전체 글 수
-            allPost = "zz"
-            # postUrl = html.select_one("li.allview a").attrs["href"]
-
-
             # fp_full.close()
 
-            writer = csv.DictWriter(csvfileout,fieldnames = ["num", "content", "img", "sticker", "video", "tags", "widget", "isad"])
-            writer.writerow({'num' : file_name.rstrip('.txt') , 'content' : line, 'img' : imgCnt, 'sticker' : stiCnt, 'video' : videoCnt, 'tags' : taglist, 'widget' : widgets, 'isad' : isad })
+            # add data as long as content is not empty
+            if len(line) != 0 : 
+                writer = csv.DictWriter(csvfileout,fieldnames = ["num", "content", "img", "sticker", "video", "tags", "widget", "isad"])
+                writer.writerow({'num' : path[4:] , 'content' : line, 'img' : imgCnt, 'sticker' : stiCnt, 'video' : videoCnt, 'tags' : taglist, 'widget' : widgets, 'isad' : isad })
                 
         return True
+
     except Exception as e:
          print(e)
          return False
 
 
-def run(url, output):
+# download_naver_blog. run
+def run(url, output, csvname):
     global out_path
     if not utils.check_out_folder():
         print('폴더 생성에 실패했습니다.')
@@ -92,7 +96,7 @@ def run(url, output):
                 if utils.check_folder(save_folder_path+'/img'):
                     print(value[1] + '와 ' + value[1] + 'img 폴더를 생성했습니다. ')
 
-    if crawler(redirect_url, save_folder_path, output):        
+    if crawler(redirect_url, save_folder_path, output, csvname):        
         #print('완료하였습니다. out 폴더를 확인하세요.')
         pass
     else:

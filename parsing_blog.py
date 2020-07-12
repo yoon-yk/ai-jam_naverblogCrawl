@@ -10,7 +10,6 @@ from bs4 import BeautifulSoup
 
 import utils
 
-
 class Parser(object):
     def __init__(self, _path='out', _markdown_mdoe=True, skip_sticker=True):
         self.counter = 0
@@ -177,7 +176,6 @@ class Parser(object):
             return txt
         return None
         
-
     # 이미지
     def img(self,content):  
         txt = ''        
@@ -258,16 +256,15 @@ class Parser(object):
     # 비디오 영역
     def video(self, content): 
         txt = ''
-        
-        if 'se_video' in str(content) or 'se-video' in str(content):
-            for sub_content in content.select('iframe'): 
-                #fp.write(sub_content['src'])
-                txt += sub_content['src']
-                txt += self.endline
-            return txt
+        # if 'se_video' in str(content) or 'se-video' in str(content):
+        #     for sub_content in content.select('iframe'): 
+        #         #fp.write(sub_content['src'])
+        #         txt += sub_content['src']
+        #         txt += self.endline
+        #     return txt
         return None
 
-    # 비디오 영역
+    # 비디오 개수세기
     def videoCnt(self, content): 
         videoCnt = 0 
         if 'se_video' in str(content) or 'se-video' in str(content):
