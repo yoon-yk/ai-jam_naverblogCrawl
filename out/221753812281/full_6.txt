@@ -654,7 +654,7 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 		}
 	}
 </script>
-<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 09:38:10 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 10:20:08 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
     var doc = document.documentElement;
     doc.setAttribute('data-useragent',navigator.userAgent);
@@ -1063,7 +1063,7 @@ function splugin_oninitialize(nCount) {
 <div class="division-line-x" id="quickPostTopLine" style="display:none"></div>
 <div class="qk_wrap" id="quickPostBanner" onclick="clickcr(this,'qed.open','','',event);" style="display:none">
 <div class="qk_post">
-<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">오늘 있었던 일을 퀵에디터로 기록해보세요.</p>
+<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">이 달의 결심, 실천일기를 퀵에디터로 기록해보세요.</p>
 <button class="qkb_post _postSize _rosRestrictAll" type="button"><span>글쓰기</span></button>
 </div>
 </div>
@@ -1407,7 +1407,7 @@ function splugin_oninitialize(nCount) {
 </div>
 </div>
 </div>
-<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-08E63CAE-647D-4E18-A866-944984A983BF", "data" : { "videoType" : "player", "vid" : "C40A0632866D628A0CC16B9438F8028AAF5E", "inkey" : "V12140112c3d0d2a7d4595792d0d6f8ef733a4641220248462d4587addcf487807ed95792d0d6f8ef733a", "originalWidth": "1920", "originalHeight": "1080", "width": "1920", "height": "1080", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"소화잘되는분유 코알라분유","tags":["소화잘되는분유","코알라분유","토잘하는아기분유"],"description":"소화잘되는분유 코알라분유"} }}' type="text/data"></script>
+<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-08E63CAE-647D-4E18-A866-944984A983BF", "data" : { "videoType" : "player", "vid" : "C40A0632866D628A0CC16B9438F8028AAF5E", "inkey" : "V12428950f3380f2a46dc5792d0d6f8ef733a4641220248462d4587addcf487807ed95792d0d6f8ef733a", "originalWidth": "1920", "originalHeight": "1080", "width": "1920", "height": "1080", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"소화잘되는분유 코알라분유","tags":["소화잘되는분유","코알라분유","토잘하는아기분유"],"description":"소화잘되는분유 코알라분유"} }}' type="text/data"></script>
 </div> <div class="se-component se-text se-l-default" id="SE-2CBF210D-51AB-427A-A106-D531A537908C">
 <div class="se-component-content">
 <div class="se-section se-section-text se-l-default">
@@ -1468,7 +1468,7 @@ function splugin_oninitialize(nCount) {
 </div>
 </div>
 </div>
-<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-F5BDD99C-FAD1-4E95-923E-550DBFF2EB20", "data" : { "videoType" : "player", "vid" : "60913FE987378C88EFCB20D7D30B15428276", "inkey" : "V124690a0d509a3d91fd98979b9affaf82628804ff8e24daa475ff4551da96a8cdb478979b9affaf82628", "originalWidth": "1920", "originalHeight": "1080", "width": "1920", "height": "1080", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"소화잘되는분유 코알라분유","tags":["코알라분유","소화잘되는분유","토잘하는아기분유","뉴질랜드분유","분유추천"],"description":"소화잘되는분유 코알라분유 수유하기"} }}' type="text/data"></script>
+<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-F5BDD99C-FAD1-4E95-923E-550DBFF2EB20", "data" : { "videoType" : "player", "vid" : "60913FE987378C88EFCB20D7D30B15428276", "inkey" : "V121109b5315831393e9f8979b9affaf82628804ff8e24daa475ff4551da96a8cdb478979b9affaf82628", "originalWidth": "1920", "originalHeight": "1080", "width": "1920", "height": "1080", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"소화잘되는분유 코알라분유","tags":["코알라분유","소화잘되는분유","토잘하는아기분유","뉴질랜드분유","분유추천"],"description":"소화잘되는분유 코알라분유 수유하기"} }}' type="text/data"></script>
 </div> <div class="se-component se-image se-l-default" id="SE-702FD9E9-4223-46C0-817A-5088498610E0">
 <div class="se-component-content se-component-content-normal">
 <div class="se-section se-section-image se-l-default se-section-align-left" style="max-width:898px;">
@@ -1841,7 +1841,7 @@ $Fn(function() {
 	}
 </script>
 <div class="layer_style display_none" id="multime2Layer"></div>
-<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 09:38:10 KST 2020"></script>
+<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 10:20:08 KST 2020"></script>
 <script>
 	window.onload = function() {
         window.__splugin = SocialPlugIn_Core({
@@ -1894,7 +1894,7 @@ new InstallBlogAppPush();
 
     </script>
 <!-- 	<script Type="text/javascript" Src="http://openapi.map.naver.com/openapi/openapi_v23.js"></script> -->
-<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 09:38:10 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 10:20:08 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
 
 

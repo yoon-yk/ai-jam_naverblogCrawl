@@ -19,8 +19,14 @@ driver.switch_to.frame('mainFrame') # cafe_main 프레임으로 전환
 html = driver.page_source # 현재 페이지의 주소를 반환 
 soup = bs(html, 'html.parser')
 
-# 댓글수와 조회수를 찾는다     
-reply_sort = soup.find_all('span', class_='ell')
-for re in reply_sort :
-    re = re.text
-print(reply_sort)
+# 태그 
+tags = soup.find_all('span', class_='ell')
+for tag in tags :
+    tag = tag.text
+
+
+# 공감
+heart = soup.find_all('em', class_='u_cnt _count')
+for hrt in heart :
+    hrt = hrt.text
+
