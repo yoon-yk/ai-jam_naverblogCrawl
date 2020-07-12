@@ -14,6 +14,10 @@
   - 비디오 수(video), 블로그 내 위젯 개수(widget) 
 - 검색어 별 수집한 데이터 csv 파일로 저장 
 
+- csv 파일 예시
+![image](./image/image.png)
+
+
 
 You can also:
   - 사진 파일 크롤링 및 저장
