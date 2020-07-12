@@ -608,7 +608,7 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 		}
 	}
 </script>
-<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:07:46 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:39:36 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
     var doc = document.documentElement;
     doc.setAttribute('data-useragent',navigator.userAgent);
@@ -993,7 +993,7 @@ function splugin_oninitialize(nCount) {
 <div class="division-line-x" id="quickPostTopLine" style="display:none"></div>
 <div class="qk_wrap" id="quickPostBanner" onclick="clickcr(this,'qed.open','','',event);" style="display:none">
 <div class="qk_post">
-<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">오늘 있었던 일을 퀵에디터로 기록해보세요.</p>
+<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">이 달의 결심, 실천일기를 퀵에디터로 기록해보세요.</p>
 <button class="qkb_post _postSize _rosRestrictAll" type="button"><span>글쓰기</span></button>
 </div>
 </div>
@@ -1401,7 +1401,7 @@ function splugin_oninitialize(nCount) {
 </div>
 </div>
 </div>
-<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-f97e5e24-87c5-4053-b3f7-9e6683725156", "data" : { "videoType" : "player", "vid" : "366CABA340836E2EDC2AFC07FC18104AB52B", "inkey" : "V1265282f20c14ff5554140d7597d1c4c7d4c9fbeb36a2e4999a2b7fa62023c427e5d40d7597d1c4c7d4c", "originalWidth": "1280", "originalHeight": "720", "width": "886", "height": "498", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"부평 예쁜카페, 위대한카페에서 디저트 냠","tags":["부평카페","커피","디저트","케이크","카페"],"description":"위대한카페에서 딸기샹그리아, 딸기라떼, 모카라떼, 아메리카노 그리고 치즈케이크와 브라우니까지!"} }}' type="text/data"></script>
+<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-f97e5e24-87c5-4053-b3f7-9e6683725156", "data" : { "videoType" : "player", "vid" : "366CABA340836E2EDC2AFC07FC18104AB52B", "inkey" : "V1250c64d0c67d2e6b96a40d7597d1c4c7d4c9fbeb36a2e4999a2b7fa62023c427e5d40d7597d1c4c7d4c", "originalWidth": "1280", "originalHeight": "720", "width": "886", "height": "498", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"부평 예쁜카페, 위대한카페에서 디저트 냠","tags":["부평카페","커피","디저트","케이크","카페"],"description":"위대한카페에서 딸기샹그리아, 딸기라떼, 모카라떼, 아메리카노 그리고 치즈케이크와 브라우니까지!"} }}' type="text/data"></script>
 </div> <div class="se-component se-text se-l-default" id="SE-eed90651-fa1b-4bb1-b9ec-313741c63967">
 <div class="se-component-content">
 <div class="se-section se-section-text se-l-default">
@@ -1684,7 +1684,7 @@ $Fn(function() {
 	}
 </script>
 <div class="layer_style display_none" id="multime2Layer"></div>
-<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:07:46 KST 2020"></script>
+<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:39:36 KST 2020"></script>
 <script>
 	window.onload = function() {
         window.__splugin = SocialPlugIn_Core({
@@ -1741,7 +1741,7 @@ new InstallBlogAppPush();
 
     </script>
 <!-- 	<script Type="text/javascript" Src="http://openapi.map.naver.com/openapi/openapi_v23.js"></script> -->
-<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:07:46 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:39:36 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
 
 

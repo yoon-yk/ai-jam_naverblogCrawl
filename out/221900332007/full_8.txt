@@ -626,7 +626,7 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 		}
 	}
 </script>
-<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:11:01 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:39:25 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
     var doc = document.documentElement;
     doc.setAttribute('data-useragent',navigator.userAgent);
@@ -1028,7 +1028,7 @@ function splugin_oninitialize(nCount) {
 <div class="division-line-x" id="quickPostTopLine" style="display:none"></div>
 <div class="qk_wrap" id="quickPostBanner" onclick="clickcr(this,'qed.open','','',event);" style="display:none">
 <div class="qk_post">
-<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">오늘 찍은 사진을 퀵에디터로 남겨보세요.</p>
+<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">다시 읽고 싶은 링크를 퀵에디터로 남겨보세요.</p>
 <button class="qkb_post _postSize _rosRestrictAll" type="button"><span>글쓰기</span></button>
 </div>
 </div>
@@ -1571,7 +1571,7 @@ function splugin_oninitialize(nCount) {
 </div>
 </div>
 </div>
-<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-fa257071-666c-11ea-8371-b3b98247d357", "data" : { "videoType" : "player", "vid" : "7678C33B43DA93940A7C20B7933A170CBA14", "inkey" : "V129e6eecd4800b777f0bc34245d74f162af51c2b96b9c97cc41701340b990fc73ed6c34245d74f162af5", "originalWidth": "960", "originalHeight": "544", "width": "960", "height": "544", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"도미노 치즈케이크 블랙타이거 피자 제법 괜찮네요","tags":["치즈케이크블랙타이거피자","도미노치즈케이크블랙타이거피자","도미노피자"],"description":"도미노 치즈케이크 블랙타이거 피자 제법 괜찮네요"} }}' type="text/data"></script>
+<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-fa257071-666c-11ea-8371-b3b98247d357", "data" : { "videoType" : "player", "vid" : "7678C33B43DA93940A7C20B7933A170CBA14", "inkey" : "V12486c90530c3949735fc34245d74f162af51c2b96b9c97cc41701340b990fc73ed6c34245d74f162af5", "originalWidth": "960", "originalHeight": "544", "width": "960", "height": "544", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"도미노 치즈케이크 블랙타이거 피자 제법 괜찮네요","tags":["치즈케이크블랙타이거피자","도미노치즈케이크블랙타이거피자","도미노피자"],"description":"도미노 치즈케이크 블랙타이거 피자 제법 괜찮네요"} }}' type="text/data"></script>
 </div> <div class="se-component se-placesMap se-l-default" id="SE-64a64955-6669-11ea-8371-9db2bf78c726">
 <div class="se-component-content">
 <div class="se-section se-section-placesMap se-section-align-center se-l-default">
@@ -1892,7 +1892,7 @@ $Fn(function() {
 	}
 </script>
 <div class="layer_style display_none" id="multime2Layer"></div>
-<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:11:01 KST 2020"></script>
+<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:39:25 KST 2020"></script>
 <script>
 	window.onload = function() {
         window.__splugin = SocialPlugIn_Core({
@@ -1949,7 +1949,7 @@ new InstallBlogAppPush();
 
     </script>
 <!-- 	<script Type="text/javascript" Src="http://openapi.map.naver.com/openapi/openapi_v23.js"></script> -->
-<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:11:01 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:39:25 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
 
 

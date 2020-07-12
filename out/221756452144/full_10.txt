@@ -669,7 +669,7 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 		}
 	}
 </script>
-<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:07:44 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:39:34 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
     var doc = document.documentElement;
     doc.setAttribute('data-useragent',navigator.userAgent);
@@ -1050,7 +1050,7 @@ function splugin_oninitialize(nCount) {
 <div class="division-line-x" id="quickPostTopLine" style="display:none"></div>
 <div class="qk_wrap" id="quickPostBanner" onclick="clickcr(this,'qed.open','','',event);" style="display:none">
 <div class="qk_post">
-<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">오늘 있었던 일을 퀵에디터로 기록해보세요.</p>
+<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">오늘 찍은 사진을 퀵에디터로 남겨보세요.</p>
 <button class="qkb_post _postSize _rosRestrictAll" type="button"><span>글쓰기</span></button>
 </div>
 </div>
@@ -1471,7 +1471,7 @@ function splugin_oninitialize(nCount) {
 </div>
 </div>
 </div>
-<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-7b09df49-eb7e-4093-ad1f-36d7971c767f", "data" : { "videoType" : "player", "vid" : "A800A7110190DBE2C76EDEE11D67F75BD088", "inkey" : "V1281aba2f1a0dec89333d535a2a09bf606db21fa615f19166354a1ef153bc33e7548d535a2a09bf606db", "originalWidth": "1920", "originalHeight": "1080", "width": "500", "height": "281", "contentMode": "extend", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"상계동 강강술래 ","tags":["상계동 강강술래","가족외식","새해외식"],"description":"고기맛집 상계동 강강술래 가족외식"} }}' type="text/data"></script>
+<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-7b09df49-eb7e-4093-ad1f-36d7971c767f", "data" : { "videoType" : "player", "vid" : "A800A7110190DBE2C76EDEE11D67F75BD088", "inkey" : "V1271782a61034d6858abd535a2a09bf606db21fa615f19166354a1ef153bc33e7548d535a2a09bf606db", "originalWidth": "1920", "originalHeight": "1080", "width": "500", "height": "281", "contentMode": "extend", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"상계동 강강술래 ","tags":["상계동 강강술래","가족외식","새해외식"],"description":"고기맛집 상계동 강강술래 가족외식"} }}' type="text/data"></script>
 </div> <div class="se-component se-image se-l-default" id="SE-67964ccc-2e21-4582-bca3-1d51a1974981">
 <div class="se-component-content se-component-content-extend">
 <div class="se-section se-section-image se-l-default se-section-align-center">
@@ -1898,7 +1898,7 @@ $Fn(function() {
 	}
 </script>
 <div class="layer_style display_none" id="multime2Layer"></div>
-<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:07:44 KST 2020"></script>
+<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:39:34 KST 2020"></script>
 <script>
 	window.onload = function() {
         window.__splugin = SocialPlugIn_Core({
@@ -1955,7 +1955,7 @@ new InstallBlogAppPush();
 
     </script>
 <!-- 	<script Type="text/javascript" Src="http://openapi.map.naver.com/openapi/openapi_v23.js"></script> -->
-<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:07:44 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:39:34 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
 
 

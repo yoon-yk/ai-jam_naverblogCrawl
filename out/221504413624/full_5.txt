@@ -637,7 +637,7 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 		}
 	}
 </script>
-<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:10:53 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:39:18 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
     var doc = document.documentElement;
     doc.setAttribute('data-useragent',navigator.userAgent);
@@ -1389,7 +1389,7 @@ function splugin_oninitialize(nCount) {
 </div>
 </div>
 </div>
-<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-673b7103-6ea4-4e50-8c8e-692319417597", "data" : { "videoType" : "player", "vid" : "AACF70B8F8D27D19FFF8693FC12A4E395EB3", "inkey" : "V129446b75d450098ae0620b7933a170cba145a4ada20e440f4eaa91a39f965275bc620b7933a170cba14", "originalWidth": "1920", "originalHeight": "1080", "width": "886", "height": "498", "contentMode": "extend", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"4 대구역카페 카페리버 반월당디저트 제리치즈케이크 졸귀! (1)","tags":[],"description":null} }}' type="text/data"></script>
+<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-673b7103-6ea4-4e50-8c8e-692319417597", "data" : { "videoType" : "player", "vid" : "AACF70B8F8D27D19FFF8693FC12A4E395EB3", "inkey" : "V12987c7e4c8d0887aa0820b7933a170cba145a4ada20e440f4eaa91a39f965275bc620b7933a170cba14", "originalWidth": "1920", "originalHeight": "1080", "width": "886", "height": "498", "contentMode": "extend", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"4 대구역카페 카페리버 반월당디저트 제리치즈케이크 졸귀! (1)","tags":[],"description":null} }}' type="text/data"></script>
 </div> <div class="se-component se-text se-l-default" id="SE-56e2475a-c5ee-478c-87e9-1d4f5fab0ad7">
 <div class="se-component-content">
 <div class="se-section se-section-text se-l-default">
@@ -1538,7 +1538,7 @@ function splugin_oninitialize(nCount) {
 </div>
 </div>
 </div>
-<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-87f1f4f5-bd8f-4b57-b3c6-a62de29e0518", "data" : { "videoType" : "player", "vid" : "9BC36073DE7BF036CF55824EBBE544930BA0", "inkey" : "V12358f08c053695ec3e65ab7884978d2039ab6cfc54a568b82a1e1224c74d78240aa5ab7884978d2039a", "originalWidth": "1920", "originalHeight": "1080", "width": "886", "height": "498", "contentMode": "extend", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"4 대구역카페 카페리버 반월당디저트 제리치즈케이크 졸귀! (2)","tags":[],"description":null} }}' type="text/data"></script>
+<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-87f1f4f5-bd8f-4b57-b3c6-a62de29e0518", "data" : { "videoType" : "player", "vid" : "9BC36073DE7BF036CF55824EBBE544930BA0", "inkey" : "V129fd3f2c7eb0239d06c5ab7884978d2039ab6cfc54a568b82a1e1224c74d78240aa5ab7884978d2039a", "originalWidth": "1920", "originalHeight": "1080", "width": "886", "height": "498", "contentMode": "extend", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"4 대구역카페 카페리버 반월당디저트 제리치즈케이크 졸귀! (2)","tags":[],"description":null} }}' type="text/data"></script>
 </div> <div class="se-component se-text se-l-default" id="SE-7f1e7a28-0ac6-494b-a7b4-f27626baa698">
 <div class="se-component-content">
 <div class="se-section se-section-text se-l-default">
@@ -1871,7 +1871,7 @@ $Fn(function() {
 	}
 </script>
 <div class="layer_style display_none" id="multime2Layer"></div>
-<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:10:53 KST 2020"></script>
+<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:39:18 KST 2020"></script>
 <script>
 	window.onload = function() {
         window.__splugin = SocialPlugIn_Core({
@@ -1924,7 +1924,7 @@ new InstallBlogAppPush();
 
     </script>
 <!-- 	<script Type="text/javascript" Src="http://openapi.map.naver.com/openapi/openapi_v23.js"></script> -->
-<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:10:53 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:39:18 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
 
 

@@ -673,7 +673,7 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 		}
 	}
 </script>
-<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:10:51 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:39:17 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
     var doc = document.documentElement;
     doc.setAttribute('data-useragent',navigator.userAgent);
@@ -1052,7 +1052,7 @@ function splugin_oninitialize(nCount) {
 <div class="division-line-x" id="quickPostTopLine" style="display:none"></div>
 <div class="qk_wrap" id="quickPostBanner" onclick="clickcr(this,'qed.open','','',event);" style="display:none">
 <div class="qk_post">
-<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">오늘 있었던 일을 퀵에디터로 기록해보세요.</p>
+<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">이 달의 결심, 실천일기를 퀵에디터로 기록해보세요.</p>
 <button class="qkb_post _postSize _rosRestrictAll" type="button"><span>글쓰기</span></button>
 </div>
 </div>
@@ -1277,7 +1277,7 @@ function splugin_oninitialize(nCount) {
 <div class="se-module se-module-text se-caption"> <p class="se-text-paragraph se-text-paragraph-align-" id="SE-3ef6ca69-5680-44f1-b4e3-64e93cddf892" style=""><span class="se-fs- se-ff-" id="SE-0dc17d45-501b-45c3-b763-3efb99e7f9ed" style="">설탕 넣고 부드러우지는 중이지만 아직도 쫀쫀하다</span></p></div>
 </div>
 </div>
-<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-e43a7edc-8b87-4c88-a5bf-4188ddfa86fe", "data" : { "videoType" : "player", "vid" : "64909E197E7F3ACF3CD7961B4EBD0E18F26E", "inkey" : "V1268e90b106c1fda8a11b173b4feea28d835f9a9ad84c701b77fe6e2a66bb3775c2db173b4feea28d835", "originalWidth": "720", "originalHeight": "960", "width": "886", "height": "1181", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"베이킹_간단한 과정, 훌륭한 맛! 바스크치즈케이크 (1)","tags":[],"description":null} }}' type="text/data"></script>
+<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-e43a7edc-8b87-4c88-a5bf-4188ddfa86fe", "data" : { "videoType" : "player", "vid" : "64909E197E7F3ACF3CD7961B4EBD0E18F26E", "inkey" : "V12881ccb2730de621c31b173b4feea28d835f9a9ad84c701b77fe6e2a66bb3775c2db173b4feea28d835", "originalWidth": "720", "originalHeight": "960", "width": "886", "height": "1181", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"베이킹_간단한 과정, 훌륭한 맛! 바스크치즈케이크 (1)","tags":[],"description":null} }}' type="text/data"></script>
 </div> <div class="se-component se-text se-l-default" id="SE-1c1b99f4-715d-45c4-921f-67a424710820">
 <div class="se-component-content">
 <div class="se-section se-section-text se-l-default">
@@ -1607,7 +1607,7 @@ function splugin_oninitialize(nCount) {
 <div class="se-module se-module-text se-caption"> <p class="se-text-paragraph se-text-paragraph-align-" id="SE-bc28430b-88f5-401b-93db-1cbe7d59f725" style=""><span class="se-fs- se-ff-" id="SE-a6842e7b-cdb3-459e-9e5e-38fa1d02b41c" style="">바스크치즈케이크 한입!</span></p></div>
 </div>
 </div>
-<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-b40b4211-7bf3-442b-9afc-5549bbc3630f", "data" : { "videoType" : "player", "vid" : "1C2F90A75ADBBA0CF3F87E48F7778B839E76", "inkey" : "V128050c6c300ffd0ba829fbac37c07f8cbb8eb4143a6d03421930823354c6392ee299fbac37c07f8cbb8", "originalWidth": "1920", "originalHeight": "1080", "width": "886", "height": "498", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"베이킹_간단한 과정, 훌륭한 맛! 바스크치즈케이크","tags":[],"description":null} }}' type="text/data"></script>
+<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-b40b4211-7bf3-442b-9afc-5549bbc3630f", "data" : { "videoType" : "player", "vid" : "1C2F90A75ADBBA0CF3F87E48F7778B839E76", "inkey" : "V129a7959c33f04d5e80c9fbac37c07f8cbb8eb4143a6d03421930823354c6392ee299fbac37c07f8cbb8", "originalWidth": "1920", "originalHeight": "1080", "width": "886", "height": "498", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"베이킹_간단한 과정, 훌륭한 맛! 바스크치즈케이크","tags":[],"description":null} }}' type="text/data"></script>
 </div> <div class="se-component se-text se-l-default" id="SE-b949d7ff-070c-45e3-a94e-29a6a1bca44e">
 <div class="se-component-content">
 <div class="se-section se-section-text se-l-default">
@@ -1936,7 +1936,7 @@ $Fn(function() {
 	}
 </script>
 <div class="layer_style display_none" id="multime2Layer"></div>
-<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:10:51 KST 2020"></script>
+<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:39:17 KST 2020"></script>
 <script>
 	window.onload = function() {
         window.__splugin = SocialPlugIn_Core({
@@ -1989,7 +1989,7 @@ new InstallBlogAppPush();
 
     </script>
 <!-- 	<script Type="text/javascript" Src="http://openapi.map.naver.com/openapi/openapi_v23.js"></script> -->
-<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:10:51 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:39:17 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
 
 

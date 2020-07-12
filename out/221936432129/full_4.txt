@@ -649,7 +649,7 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 		}
 	}
 </script>
-<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:10:59 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:39:23 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
     var doc = document.documentElement;
     doc.setAttribute('data-useragent',navigator.userAgent);
@@ -680,10 +680,12 @@ setTimeout(function() {
 <li>
 <img alt="" class="bar" height="11" src="http://blogimgs.naver.net/nblog/spc.gif" width="1"/>
 <a class="on itemfont _doNclick _param(false|blog|)" href="http://blog.naver.com/PostList.nhn?blogId=danbiyeye&amp;parentCategoryNo=41&amp;skinType=&amp;skinId=&amp;from=menu">blog</a>
+<img alt="new" src="http://blogimgs.naver.net/imgs/ico_n.gif"/>
 </li>
 <li>
 <img alt="" class="bar" height="11" src="http://blogimgs.naver.net/nblog/spc.gif" width="1"/>
 <a class="off itemfont _doNclick _param(false|category|41|1)" href="http://blog.naver.com/PostList.nhn?blogId=danbiyeye&amp;categoryNo=41&amp;parentCategoryNo=41&amp;skinType=&amp;skinId=&amp;from=menu">냠냠맛있오</a>
+<img alt="new" src="http://blogimgs.naver.net/imgs/ico_n.gif"/>
 </li>
 <li>
 <img alt="" class="bar" height="11" src="http://blogimgs.naver.net/nblog/spc.gif" width="1"/>
@@ -1052,7 +1054,7 @@ function splugin_oninitialize(nCount) {
 <div class="division-line-x" id="quickPostTopLine" style="display:none"></div>
 <div class="qk_wrap" id="quickPostBanner" onclick="clickcr(this,'qed.open','','',event);" style="display:none">
 <div class="qk_post">
-<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">지금 떠오른 생각을 퀵에디터로 메모해보세요.</p>
+<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">다시 읽고 싶은 링크를 퀵에디터로 남겨보세요.</p>
 <button class="qkb_post _postSize _rosRestrictAll" type="button"><span>글쓰기</span></button>
 </div>
 </div>
@@ -1078,7 +1080,7 @@ function splugin_oninitialize(nCount) {
 <td class="bcc">
 <div class="wrap_blog2_list wrap_blog2_categorylist">
 <h4 class="category_title pcol2">
-<a class="pcol2 _toggleTopList _returnFalse" href="#" id="categoryTitle" role="button" title="냠냠디저트 목록 닫고 열기"><strong>냠냠디저트</strong></a> 172개의 글
+<a class="pcol2 _toggleTopList _returnFalse" href="#" id="categoryTitle" role="button" title="냠냠디저트 목록 닫고 열기"><strong>냠냠디저트</strong></a> 173개의 글
 						</h4>
 <a class="btn_openlist pcol2 _toggleTopList _returnFalse" href="#" role="button"><span class="blind">냠냠디저트</span><span class="txt" id="toplistSpanBlind">목록열기</span></a>
 <div area-hidden="false" class="wrap_list" id="toplistWrapper" style="display:none;"></div>
@@ -1929,7 +1931,7 @@ $Fn(function() {
 	}
 </script>
 <div class="layer_style display_none" id="multime2Layer"></div>
-<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:10:59 KST 2020"></script>
+<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:39:23 KST 2020"></script>
 <script>
 	window.onload = function() {
         window.__splugin = SocialPlugIn_Core({
@@ -1982,7 +1984,7 @@ new InstallBlogAppPush();
 
     </script>
 <!-- 	<script Type="text/javascript" Src="http://openapi.map.naver.com/openapi/openapi_v23.js"></script> -->
-<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:10:59 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:39:23 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
 
 

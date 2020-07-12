@@ -649,7 +649,7 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 		}
 	}
 </script>
-<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:11:02 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:39:26 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
     var doc = document.documentElement;
     doc.setAttribute('data-useragent',navigator.userAgent);
@@ -1691,7 +1691,7 @@ function splugin_oninitialize(nCount) {
 </div>
 </div>
 </div>
-<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-ea8928fc-42fb-423f-9f14-a9077565650d", "data" : { "videoType" : "player", "vid" : "47DFC61DC9294399D3CA9B5051667AA86F18", "inkey" : "V126da425a0318e7309f90fc3b833223888e9d08b66e3a4d231f2527e54d17967ab190fc3b833223888e9", "originalWidth": "1280", "originalHeight": "720", "width": "664", "height": "373", "contentMode": "normal", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"C27 코코바나나치즈케이크","tags":["c27","코코바나나케이크","치즈케이크","성안길","케이크맛집","청주맛집","청주시내"],"description":null} }}' type="text/data"></script>
+<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-ea8928fc-42fb-423f-9f14-a9077565650d", "data" : { "videoType" : "player", "vid" : "47DFC61DC9294399D3CA9B5051667AA86F18", "inkey" : "V127ff1194306c3227a340fc3b833223888e9d08b66e3a4d231f2527e54d17967ab190fc3b833223888e9", "originalWidth": "1280", "originalHeight": "720", "width": "664", "height": "373", "contentMode": "normal", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"C27 코코바나나치즈케이크","tags":["c27","코코바나나케이크","치즈케이크","성안길","케이크맛집","청주맛집","청주시내"],"description":null} }}' type="text/data"></script>
 </div> <div class="se-component se-text se-l-default" id="SE-a16ab158-e1a8-41e9-9154-a6a2f96bd3d1">
 <div class="se-component-content">
 <div class="se-section se-section-text se-l-default">
@@ -2140,7 +2140,7 @@ $Fn(function() {
 	}
 </script>
 <div class="layer_style display_none" id="multime2Layer"></div>
-<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:11:02 KST 2020"></script>
+<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:39:26 KST 2020"></script>
 <script>
 	window.onload = function() {
         window.__splugin = SocialPlugIn_Core({
@@ -2193,7 +2193,7 @@ new InstallBlogAppPush();
 
     </script>
 <!-- 	<script Type="text/javascript" Src="http://openapi.map.naver.com/openapi/openapi_v23.js"></script> -->
-<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:11:02 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:39:26 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
 
 

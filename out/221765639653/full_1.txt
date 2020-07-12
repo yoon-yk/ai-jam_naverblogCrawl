@@ -629,7 +629,7 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 		}
 	}
 </script>
-<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:10:57 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:39:21 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
     var doc = document.documentElement;
     doc.setAttribute('data-useragent',navigator.userAgent);
@@ -1002,7 +1002,7 @@ function splugin_oninitialize(nCount) {
 <div class="division-line-x" id="quickPostTopLine" style="display:none"></div>
 <div class="qk_wrap" id="quickPostBanner" onclick="clickcr(this,'qed.open','','',event);" style="display:none">
 <div class="qk_post">
-<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">지금 떠오른 생각을 퀵에디터로 메모해보세요.</p>
+<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">오늘 있었던 일을 퀵에디터로 기록해보세요.</p>
 <button class="qkb_post _postSize _rosRestrictAll" type="button"><span>글쓰기</span></button>
 </div>
 </div>
@@ -1559,7 +1559,7 @@ function splugin_oninitialize(nCount) {
 </div>
 </div>
 </div>
-<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-65d42943-64de-4f85-ada2-6ff8f7fd52e3", "data" : { "videoType" : "player", "vid" : "F55603E5F5D3B7FB2C5BB4E475D815A602DF", "inkey" : "V1287302e36d02cedcbf15c97f8b0680a5c6a822a0bf46a14982a68b13b7d5abdf3f75c97f8b0680a5c6a", "originalWidth": "1280", "originalHeight": "720", "width": "693", "height": "389", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"2020 스타벅스 신년 MD 가격과, 신메뉴 해피 치즈 화이트모카 번트치","tags":[],"description":null} }}' type="text/data"></script>
+<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-65d42943-64de-4f85-ada2-6ff8f7fd52e3", "data" : { "videoType" : "player", "vid" : "F55603E5F5D3B7FB2C5BB4E475D815A602DF", "inkey" : "V1221c0cf9dd8d9ab8a0e5c97f8b0680a5c6a822a0bf46a14982a68b13b7d5abdf3f75c97f8b0680a5c6a", "originalWidth": "1280", "originalHeight": "720", "width": "693", "height": "389", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"2020 스타벅스 신년 MD 가격과, 신메뉴 해피 치즈 화이트모카 번트치","tags":[],"description":null} }}' type="text/data"></script>
 </div> <div class="se-component se-text se-l-default" id="SE-4ed67bf7-5931-429f-b6a7-220460cb7f00">
 <div class="se-component-content">
 <div class="se-section se-section-text se-l-default">
@@ -1857,7 +1857,7 @@ $Fn(function() {
 	}
 </script>
 <div class="layer_style display_none" id="multime2Layer"></div>
-<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:10:57 KST 2020"></script>
+<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:39:21 KST 2020"></script>
 <script>
 	window.onload = function() {
         window.__splugin = SocialPlugIn_Core({
@@ -1910,7 +1910,7 @@ new InstallBlogAppPush();
 
     </script>
 <!-- 	<script Type="text/javascript" Src="http://openapi.map.naver.com/openapi/openapi_v23.js"></script> -->
-<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:10:57 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:39:21 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
 
 

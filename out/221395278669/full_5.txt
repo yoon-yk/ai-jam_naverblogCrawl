@@ -625,7 +625,7 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 		}
 	}
 </script>
-<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:07:41 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 21:39:32 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
     var doc = document.documentElement;
     doc.setAttribute('data-useragent',navigator.userAgent);
@@ -980,7 +980,7 @@ function splugin_oninitialize(nCount) {
 <div class="division-line-x" id="quickPostTopLine" style="display:none"></div>
 <div class="qk_wrap" id="quickPostBanner" onclick="clickcr(this,'qed.open','','',event);" style="display:none">
 <div class="qk_post">
-<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">다시 읽고 싶은 링크를 퀵에디터로 남겨보세요.</p>
+<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">오늘 있었던 일을 퀵에디터로 기록해보세요.</p>
 <button class="qkb_post _postSize _rosRestrictAll" type="button"><span>글쓰기</span></button>
 </div>
 </div>
@@ -1371,7 +1371,7 @@ function splugin_oninitialize(nCount) {
 </div>
 </div>
 </div>
-<script class="__se_module_data" data-module='{"type":"v1_video", "docVersion" : "1.0", "id" :"SEDOC-1541761799062-1992042219_video_0" , "data" : { "baseElId" : "SEDOC-1541761799062-1992042219_video_0", "videoType" : "player", "vid" : "75A32B5E323E5D000FCC84E49B65315D787C", "inkey" : "V1268d359b01051f73be76b30af4c2c385cf2dd55bb0eb3fc7bce0a8f1950229a08486b30af4c2c385cf2", "width": "1920", "height": "1080", "displayWidth": "", "displayHeight": ""}}' type="text/data"></script>
+<script class="__se_module_data" data-module='{"type":"v1_video", "docVersion" : "1.0", "id" :"SEDOC-1541761799062-1992042219_video_0" , "data" : { "baseElId" : "SEDOC-1541761799062-1992042219_video_0", "videoType" : "player", "vid" : "75A32B5E323E5D000FCC84E49B65315D787C", "inkey" : "V123c8f0ae0905ca642ba6b30af4c2c385cf2dd55bb0eb3fc7bce0a8f1950229a08486b30af4c2c385cf2", "width": "1920", "height": "1080", "displayWidth": "", "displayHeight": ""}}' type="text/data"></script>
 <div class="se_component se_paragraph default">
 <div class="se_sectionArea">
 <div class="se_editArea">
@@ -1774,7 +1774,7 @@ $Fn(function() {
 	}
 </script>
 <div class="layer_style display_none" id="multime2Layer"></div>
-<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:07:41 KST 2020"></script>
+<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 21:39:32 KST 2020"></script>
 <script>
 	window.onload = function() {
         window.__splugin = SocialPlugIn_Core({
@@ -1827,7 +1827,7 @@ new InstallBlogAppPush();
 
     </script>
 <!-- 	<script Type="text/javascript" Src="http://openapi.map.naver.com/openapi/openapi_v23.js"></script> -->
-<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:07:41 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 21:39:32 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
 
 
