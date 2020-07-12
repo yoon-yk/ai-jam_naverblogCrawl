@@ -12,9 +12,13 @@
 - 수집 가능한 데이터 
   - 게시글 주소(num), 텍스트(content), 사진 수(img)
   - 비디오 수(video), 블로그 내 위젯 개수(widget) 
+  - 텍스트 내 태그 존재 여부 (tags) 
+  - 광고글 판단 여부 (isad)
+  
 - 검색어 별 수집한 데이터 csv 파일로 저장 
 
 - csv 파일 예시
+
 ![image](./image/image.png)
 
 
