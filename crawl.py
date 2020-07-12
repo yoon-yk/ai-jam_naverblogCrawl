@@ -46,7 +46,7 @@ driver.get("https://search.naver.com/search.naver?where=post&sm=tab_jum&query="+
 怨듦컧 �� : em.u_cnt._count
 '''
 with open("summary.csv",  "w", encoding='utf-8', newline='') as csv_fp:
-    writer = csv.DictWriter(csv_fp, fieldnames = ["num", "content", "img", "sticker", "video", "allPosts", "tags", "widget", "isad"])
+    writer = csv.DictWriter(csv_fp, fieldnames = ["num", "content", "img", "sticker", "video", "tags", "widget", "isad"])
     writer.writeheader()
 
 bloglinklist = driver.find_elements_by_css_selector("li.sh_blog_top dt a")

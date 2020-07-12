@@ -62,8 +62,8 @@ def crawler(blog_url, path, file_name):
 
             # fp_full.close()
 
-            writer = csv.DictWriter(csvfileout,fieldnames = ["num", "content", "img", "sticker", "video", "allPosts", "tags", "widget", "isad"])
-            writer.writerow({'num' : file_name.rstrip('.txt') , 'content' : line, 'img' : imgCnt, 'sticker' : stiCnt, 'video' : videoCnt, 'allPosts' : allPost, 'tags' : taglist, 'widget' : widgets, 'isad' : isad })
+            writer = csv.DictWriter(csvfileout,fieldnames = ["num", "content", "img", "sticker", "video", "tags", "widget", "isad"])
+            writer.writerow({'num' : file_name.rstrip('.txt') , 'content' : line, 'img' : imgCnt, 'sticker' : stiCnt, 'video' : videoCnt, 'tags' : taglist, 'widget' : widgets, 'isad' : isad })
                 
         return True
     except Exception as e:
