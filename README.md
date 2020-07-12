@@ -22,10 +22,7 @@ You can also:
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
-
 * [Python] - 
-* [Ace Editor] - awesome web-based text editor
 
 
 
