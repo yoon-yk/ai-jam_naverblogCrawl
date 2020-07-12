@@ -21,7 +21,9 @@ folder_path = ''
 def crawler(blog_url, path, file_name):
     parser = Parser(path, True)
     try:   
-        soup = BeautifulSoup(requests.get(blog_url).text, 'lxml')        
+        soup = BeautifulSoup(requests.get(blog_url).text, 'lxml') 
+        html = BeautifulSoup(requests.get(blog_url).text,'html.parser')
+       
         with open(path + '/' + 'full_' + file_name,  "w", encoding='utf-8') as fp_full:
             fp_full.write(str(soup))
 
@@ -47,12 +49,15 @@ def crawler(blog_url, path, file_name):
             # # likeCnt += result[0]
             likeCnt = "hh"
 
+            # 전체 글 수
+            allPost = "zz"
+            # postUrl = html.select_one("li.allview a").attrs["href"]
+
 
             # fp_full.close()
 
-
-            writer = csv.DictWriter(csvfileout,fieldnames = ["num", "content", "img", "sticker", "like"])
-            writer.writerow({'num' : file_name.rstrip('.txt') , 'content' : line, 'img' : imgCnt, 'sticker' : stiCnt, 'like' : likeCnt})
+            writer = csv.DictWriter(csvfileout,fieldnames = ["num", "content", "img", "sticker", "like", "allPosts"])
+            writer.writerow({'num' : file_name.rstrip('.txt') , 'content' : line, 'img' : imgCnt, 'sticker' : stiCnt, 'like' : likeCnt, 'allPosts' : allPost})
                 
         return True
     except Exception as e:
