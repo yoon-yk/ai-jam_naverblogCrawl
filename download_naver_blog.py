@@ -6,6 +6,7 @@ https://github.com/chandong83/download-naver-blog
 
 import sys
 import csv
+import re
 import requests
 from bs4 import BeautifulSoup
 
@@ -38,8 +39,20 @@ def crawler(blog_url, path, file_name):
             line = txtfile.read().replace("\n", " ")
             imgCnt = parser.imgCount()
             stiCnt = parser.stickerCnt()
-            writer = csv.DictWriter(csvfileout,fieldnames = ["num", "content", "img", "sticker"])
-            writer.writerow({'num' : file_name.rstrip('.txt') , 'content' : line, 'img' : imgCnt, 'sticker' : stiCnt})
+
+            # fp_full = open(path + '/' + 'full_' + file_name,  "r", encoding='utf-8')
+            # # 공감수를 fp_full에서 찾으려고 했는데 제거됐다 ...????
+            # # likeCnt = ''
+            # # result = re.findall('<em class="u_cnt _count">(.*)</em>', fp_full)
+            # # likeCnt += result[0]
+            likeCnt = "hh"
+
+
+            # fp_full.close()
+
+
+            writer = csv.DictWriter(csvfileout,fieldnames = ["num", "content", "img", "sticker", "like"])
+            writer.writerow({'num' : file_name.rstrip('.txt') , 'content' : line, 'img' : imgCnt, 'sticker' : stiCnt, 'like' : likeCnt})
                 
         return True
     except Exception as e:

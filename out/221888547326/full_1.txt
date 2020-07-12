@@ -659,7 +659,7 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 		}
 	}
 </script>
-<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 05:38:16 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" id="gnb-script" src="http://static.gn.naver.net/templates/gnb_utf8.nhn?Sun Jul 12 09:11:26 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
     var doc = document.documentElement;
     doc.setAttribute('data-useragent',navigator.userAgent);
@@ -1065,7 +1065,7 @@ function splugin_oninitialize(nCount) {
 <div class="division-line-x" id="quickPostTopLine" style="display:none"></div>
 <div class="qk_wrap" id="quickPostBanner" onclick="clickcr(this,'qed.open','','',event);" style="display:none">
 <div class="qk_post">
-<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">이 달의 결심, 실천일기를 퀵에디터로 기록해보세요.</p>
+<p class="msg _qpMessage _postSize _rosRestrictAll" style="font-size:12px">다시 읽고 싶은 링크를 퀵에디터로 남겨보세요.</p>
 <button class="qkb_post _postSize _rosRestrictAll" type="button"><span>글쓰기</span></button>
 </div>
 </div>
@@ -1341,7 +1341,7 @@ function splugin_oninitialize(nCount) {
 </div>
 </div>
 </div>
-<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-0c3bb118-b533-47be-8f7a-bd99b30eef73", "data" : { "videoType" : "player", "vid" : "EE5054E3997A24F0E03F598C4598E6E49A22", "inkey" : "V121700cdaa1d63dedabe56e9be4b1ee33e3d39ebd99e3fff7bba0584be381cbff68d56e9be4b1ee33e3d", "originalWidth": "1920", "originalHeight": "1080", "width": "693", "height": "389", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"페더데일 동물원 ㅡ 캥거루(왈라비)","tags":[],"description":null} }}' type="text/data"></script>
+<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-0c3bb118-b533-47be-8f7a-bd99b30eef73", "data" : { "videoType" : "player", "vid" : "EE5054E3997A24F0E03F598C4598E6E49A22", "inkey" : "V1234440588b31cabfefc56e9be4b1ee33e3d39ebd99e3fff7bba0584be381cbff68d56e9be4b1ee33e3d", "originalWidth": "1920", "originalHeight": "1080", "width": "693", "height": "389", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"페더데일 동물원 ㅡ 캥거루(왈라비)","tags":[],"description":null} }}' type="text/data"></script>
 </div> <div class="se-component se-text se-l-default" id="SE-33fe9129-8f29-4681-9a42-fa2aaf12602a">
 <div class="se-component-content">
 <div class="se-section se-section-text se-l-default">
@@ -1449,7 +1449,7 @@ function splugin_oninitialize(nCount) {
 </div>
 </div>
 </div>
-<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-4e38684a-3b97-4d52-8199-094dfb85ecdf", "data" : { "videoType" : "player", "vid" : "7879630DDCD30DF1773C0911B1A8BFA391D4", "inkey" : "V1246b490f2d3b538f0eba29e2362e546937eb937f5fa2d89b3af4cb354cd09c66e71a29e2362e546937e", "originalWidth": "1920", "originalHeight": "1080", "width": "693", "height": "389", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"페더데일 동물원 ㅡ 코알라","tags":[],"description":null} }}' type="text/data"></script>
+<script class="__se_module_data" data-module='{"type":"v2_video", "id" :"SE-4e38684a-3b97-4d52-8199-094dfb85ecdf", "data" : { "videoType" : "player", "vid" : "7879630DDCD30DF1773C0911B1A8BFA391D4", "inkey" : "V121104d9494db5473d92a29e2362e546937eb937f5fa2d89b3af4cb354cd09c66e71a29e2362e546937e", "originalWidth": "1920", "originalHeight": "1080", "width": "693", "height": "389", "contentMode": "fit", "format": "normal", "mediaMeta": {"@ctype":"mediaMeta","title":"페더데일 동물원 ㅡ 코알라","tags":[],"description":null} }}' type="text/data"></script>
 </div> <div class="se-component se-text se-l-default" id="SE-af72b3a8-9e4e-48d0-a4f1-0bc1dfdc9450">
 <div class="se-component-content">
 <div class="se-section se-section-text se-l-default">
@@ -2466,7 +2466,7 @@ $Fn(function() {
 	}
 </script>
 <div class="layer_style display_none" id="multime2Layer"></div>
-<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 05:38:16 KST 2020"></script>
+<script charset="euc-kr" id="socialPluginCustomTag" src="http://spi.naver.net/js/release/ko_EUC-KR/splugin.js?Sun Jul 12 09:11:26 KST 2020"></script>
 <script>
 	window.onload = function() {
         window.__splugin = SocialPlugIn_Core({
@@ -2523,7 +2523,7 @@ new InstallBlogAppPush();
 
     </script>
 <!-- 	<script Type="text/javascript" Src="http://openapi.map.naver.com/openapi/openapi_v23.js"></script> -->
-<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 05:38:16 KST 2020" type="text/javascript"></script>
+<script charset="utf-8" src="https://blog.like.naver.com/js/reaction/dist/reaction.min.js?Sun Jul 12 09:11:26 KST 2020" type="text/javascript"></script>
 <script type="text/javascript">
 
 

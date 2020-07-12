@@ -171,19 +171,19 @@ class Parser(object):
         if 'se-image' in str(content) or 'se_image' in str(content):
             for sub_content in content.select('img'):                                             
                 url = sub_content['data-lazy-src']
-                if self.markdown_mdoe:
-                    txt += '![' + './img/' + str(self.counter)+'.png' + ']('                    
-                    txt += './img/' + str(self.counter)+'.png' + ')'   
-                    txt += '\n'
-                else:
-                    txt += '['+ str(self.counter) +']'
-                    txt += url
-                    txt += '\n'
+                # if self.markdown_mdoe:
+                #     txt += '![' + './img/' + str(self.counter)+'.png' + ']('                    
+                #     txt += './img/' + str(self.counter)+'.png' + ')'   
+                #     txt += '\n'
+                # else:
+                #     txt += '['+ str(self.counter) +']'
+                #     txt += url
+                #     txt += '\n'
 
-                if not utils.saveImage(url, self.folder_path + '/img/' + str(self.counter)+'.png'):
-                    print('\t' + str(content) + ' 를 저장합니다.')
-                else:
-                    self.counter += 1
+                # if not utils.saveImage(url, self.folder_path + '/img/' + str(self.counter)+'.png'):
+                #     print('\t' + str(content) + ' 를 저장합니다.')
+                # else:
+                self.counter += 1
             txt += self.endline
             return txt       
         return None
@@ -198,12 +198,12 @@ class Parser(object):
         if 'se-sticker' in str(cont_text):
             if self.skip_sticker:                
                 self.stkcounter += 1
-                return '[sticker]' + self.endline
-            for sub_content in content.select('img'):
-                #fp.write(sub_content['src'])
-                txt += sub_content['src']
-                txt += self.endline
-            return txt   
+                # return '[sticker]' + self.endline
+            # for sub_content in content.select('img'):
+                # #fp.write(sub_content['src'])
+                # txt += sub_content['src']
+                # txt += self.endline
+            # return txt   
         return None
 
     def stickerCnt(self):
