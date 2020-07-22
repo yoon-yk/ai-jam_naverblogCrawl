@@ -20,7 +20,7 @@ folder_path = ''
 
 # determine if dataset is ad or not
 # ( 검색어 설정에 따라 값을 바꿔주세요 )
-isad = 0
+isad = 1
 
 # Crawling
 def crawler(blog_url, path, file_name, csvname):
@@ -35,21 +35,32 @@ def crawler(blog_url, path, file_name, csvname):
         # extract text
         with open(path + '/' + file_name,  "w", encoding='utf-8') as fp:
             txt = ''
+
+            # 일반 네이버 블로그(아마 스마트에디터) :se_component, se-component 관련 태그가 존재
             if 'se_component' in str(soup):
                 for sub_content in soup.select('div.se_component'):
                     txt += parser.parsing(sub_content)
             else:
                 for sub_content in soup.select('div.se-component'):
                     txt += parser.parsing(sub_content)
+
+            # 외부 블로그, 과거 네이버 블로그에는 둘 다 없음
+            # 외부 블로그는 포기하더라도 과거 네이버 블로그까지는 규칙이 있지 않을까
+            ###
+            # if not txt: #여전히 txt가 비어있으면
+            #     for sub_content in soup.select('div#postViewArea p'):
+            #         txt += parser.parsing(sub_content)
+            ###
             fp.write(txt)    
 
-        # add data to csv 
-        with open(path + '/' + file_name, 'r') as txtfile, open(csvname+'.csv','a', encoding='utf-8') as csvfileout:
+        # add data to csv # open~~as txtfile 부분에 encoding 옵션 추가함 (정진)
+        with open(path + '/' + file_name, 'r', encoding='utf-8') as txtfile, open(csvname+'.csv', 'a', encoding='utf-8') as csvfileout:
+            print("csv 쓸거다")
             line = txtfile.read().replace("\n", " ")
             imgCnt = parser.imgCount()
             stiCnt = parser.stickerCnt()
             taglist = parser.hashtags(soup)
-            widgets = parser.widget(soup)
+            #widgets = parser.widget(soup) #여기서 문제 발생, 일단 0으로 채워지게 함
             videoCnt = parser.videoCnt(soup)
             # print(f"********{taglist}********")
 
@@ -63,9 +74,9 @@ def crawler(blog_url, path, file_name, csvname):
             # fp_full.close()
 
             # add data as long as content is not empty
-            if len(line) != 0 : 
+            if len(line) != 0 :
                 writer = csv.DictWriter(csvfileout,fieldnames = ["num", "content", "img", "sticker", "video", "tags", "widget", "isad"])
-                writer.writerow({'num' : path[4:] , 'content' : line, 'img' : imgCnt, 'sticker' : stiCnt, 'video' : videoCnt, 'tags' : taglist, 'widget' : widgets, 'isad' : isad })
+                writer.writerow({'num' : path[4:] , 'content' : line, 'img' : imgCnt, 'sticker' : stiCnt, 'video' : videoCnt, 'tags' : taglist, 'widget' : 0, 'isad' : isad })
                 
         return True
 
@@ -75,7 +86,7 @@ def crawler(blog_url, path, file_name, csvname):
 
 
 # download_naver_blog. run
-def run(url, output, csvname):
+def run(url, output, csvname, foldername): #foldername 인수 추가함
     global out_path
     if not utils.check_out_folder():
         print('폴더 생성에 실패했습니다.')
@@ -85,16 +96,24 @@ def run(url, output, csvname):
     redirect_url=''
     redirect_url = Parser.redirect_url(url)
     #print('redirect url :' + redirect_url)
-    for item in redirect_url.split('&'):
-        if item.find('logNo=') >= 0:
-            #item[redirect_url.find('logNo='), len('logNo='):]
-            value = item.split('=')
-            #print('content name: ' + value[1])            
-            save_folder_path = out_path + '/' + value[1]
-            if utils.check_folder(save_folder_path):
-                #print(value[1] + ' 폴더를 생성했습니다. ')
-                if utils.check_folder(save_folder_path+'/img'):
-                    print(value[1] + '와 ' + value[1] + 'img 폴더를 생성했습니다. ')
+    # for item in redirect_url.split('&'):
+    #     if item.find('logNo=') >= 0:
+    #         #item[redirect_url.find('logNo='), len('logNo='):]
+    #         value = item.split('=')
+    #         #print('content name: ' + value[1])
+    #         save_folder_path = out_path + '/' + value[1]
+    #         if utils.check_folder(save_folder_path):
+    #             #print(value[1] + ' 폴더를 생성했습니다. ')
+    #             if utils.check_folder(save_folder_path+'/img'):
+    #                 print(value[1] + '와 ' + value[1] + 'img 폴더를 생성했습니다. ')
+
+    ###
+    # foldername 인수로 받아 폴더명으로 사용
+    save_folder_path = out_path + '/' + foldername
+    if utils.check_folder(save_folder_path):
+        if utils.check_folder(save_folder_path+'/img'):
+            print(foldername + '와 ' + foldername + 'img 폴더를 생성했습니다. ')
+    ###
 
     if crawler(redirect_url, save_folder_path, output, csvname):        
         #print('완료하였습니다. out 폴더를 확인하세요.')

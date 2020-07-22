@@ -16,44 +16,38 @@ import download_naver_blog
 # download_naver_blog.py 에서 
 # isad 값을 설정해주세요 !
 
-driver = webdriver.Chrome("./chromedriver/chromedriver")
-
-#네이버 블로그 접속
-keyword = "치즈케이크"
-
-# 키워드 설정하기 ( 각 단어를 띄워쓰기 !! )
-#정확하게 일치하는 단어
-## " "
-accurate = ["\"정확\"", "\"자주\""]
-
-#반드시 포함 
-## %2B
-mustin = ["%2B냠냠", "%2B포함"]
-
-#제외 
-## -
-exceptf = [" -광고", " -빼고"]
-
-searchfor = keyword+"+"+mustin[0]+exceptf[0]
+""" 키워드 설정하기 """
+driver = webdriver.Chrome("./chromedriver") #크롬드라이버 경로 지정
+keyword = ""
+accurate = ["\"ㅎㅎ\"", "\"자주\""]
+mustin = ["%2B미니빔", " %2B지원받아"] #첫번째 원소만 건드리기
+exceptf = [" -원고료", " -체험단"] #첫번째 원소만 건드리기
+searchfor = keyword+"+"+mustin[0]+mustin[1]
+# +mustin[1]
+driver.get("https://search.naver.com/search.naver?where=post&sm=tab_jum&query="+searchfor)
 
 # 저장할 csv 파일 설정하기 
 with open(searchfor+".csv",  "w", encoding='utf-8', newline='') as csv_fp:
     writer = csv.DictWriter(csv_fp, fieldnames = ["num", "content", "img", "sticker", "video", "tags", "widget", "isad"])
     writer.writeheader()
 
-# set the max number of pages 
-page_num = 100
+# set the max number of pages
+page_num = 30
 
-for i in range(1, page_num, 10) : 
-    driver.get("https://search.naver.com/search.naver?where=post&sm=tab_jum&query="+searchfor+"&start="+str(i))
-
+i=3
+while i <= page_num:
+    print("=======",i,"페이지","=======")
     bloglinklist = driver.find_elements_by_css_selector("li.sh_blog_top dt a")
     k=1
-    for i in bloglinklist:
-        link=i.get_attribute('href')
+    for j in bloglinklist:
+        print("--------",k,"--------")
+        link=j.get_attribute('href')
+        print("href :",link)
+        foldername = str(i) + "_" +str(k)  # 각 폴더의 이름
         filename=str(k)+'.txt'
         k+=1
-        download_naver_blog.run(link, filename, searchfor) #download_naver_blog �덉쓽 run �⑥닔 �ъ슜!
-
+        download_naver_blog.run(link, filename, searchfor, foldername)
+    i+=1
+    driver.get("https://search.naver.com/search.naver?where=post&sm=tab_jum&query="+searchfor+"&start="+str(10*i-9))
 
 driver.close()

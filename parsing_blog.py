@@ -33,33 +33,51 @@ class Parser(object):
         pass
 
     @staticmethod
-    def redirect_url(blog_url):
+    def redirect_url(blog_url): #href 자체를 받음
         redirect_link = ''
-                
-        no_need_redirect_url = ['PostView.nhn', 'PostList.nhn']
 
-        for no_need in no_need_redirect_url:            
+        #티스토리 등 외부 블로그(www 붙어있음): iframe 관련 태그 없음. url 그 자체를 사용하면 됨
+        no_need_redirect_url = ['PostView.nhn', 'PostList.nhn','www']
+
+        for no_need in no_need_redirect_url:
             if no_need in blog_url:
-                #print('no need redirect url: ' + blog_url)
+                print('no need redirect url: ' + blog_url)
                 return blog_url
 
-        try:        
-            # print('리다이렉트 주소를 가져옵니다 : ', end = '')
+        try:
+            #print('리다이렉트 주소를 가져옵니다 : ', end = '')
             blog_soup = BeautifulSoup(requests.get(blog_url).text, 'lxml')
             #print(blog_soup)
-            for link in blog_soup.select('iframe#mainFrame'):
-                redirect_link = "http://blog.naver.com" + link.get('src')
-            print(redirect_link) 
-            return redirect_link
+
+            # iframe 관련 태그를 선택한 리스트를 만든다
+            mainframelist=blog_soup.select('iframe#mainFrame')
+            screenframelist=blog_soup.select('iframe#screenFrame')
+
+            # 네이버 블로그: iframe#mainFrame 태그가 존재
+            if not screenframelist:
+                for link in blog_soup.select('iframe#mainFrame'):
+                    #print("link.get('src') :", link.get('src')) #link.get으로 src를 갖고와서 조합해 쓸 수 있음
+                    redirect_link = "http://blog.naver.com" + link.get('src')
+                print("redirect_link :",redirect_link)
+                return redirect_link
+
+            # 네이버 블로그로 리디렉션: iframe#screenFrame 태그가 존재
+            if not mainframelist:
+                for link in blog_soup.select('iframe#screenFrame'):
+                    #print("link.get('src') :", link.get('src'))
+                    redirect_link =link.get('src') #src 가져와서 그대로 쓰면 됨
+                print("redirect_link :",redirect_link)
+                return redirect_link
+
         except Exception as e:
             print(e)
             return ''
 
     # 링크
-    def link(self, content):  
+    def link(self, content):
         txt = ''
-        if 'se_og_box' in str(content):        
-            for sub_content in content.select('.se_og_box'):  
+        if 'se_og_box' in str(content):
+            for sub_content in content.select('.se_og_box'):
                 if self.markdown_mdoe:
                     txt += '[' + str(sub_content['href']) + ']('
                     txt += str(sub_content['href'])
@@ -82,18 +100,18 @@ class Parser(object):
             return txt
         return None
 
-    
+
     def wrapping_text(self, header, txt, tail=''):
         return header + ' ' + txt.strip() + '' + tail
 
     # 텍스트
-    def text(self, content): 
-        txt = '' 
-        if 'se-title-text' in str(content):  
+    def text(self, content):
+        txt = ''
+        if 'se-title-text' in str(content):
             for sub_content in content.select('.se-title-text'):
                 txt += self.wrapping_text(self.title, sub_content.text, self.endline)
             return txt
-        elif 'se-section-sectionTitle' in str(content):                       
+        elif 'se-section-sectionTitle' in str(content):
             #for sub_content in content.select('.se-section-sectionTitle'):
             for i, sub_content in enumerate( content.select('.se-section-sectionTitle') ):
                 #print(str(i) + ' ' + sub_content.text.strip())
@@ -103,37 +121,37 @@ class Parser(object):
                     txt += self.wrapping_text(self.subtitle1, sub_content.text)
                 elif 'se-2-default' in str(content):  # sectiontitle 2
                     txt += self.wrapping_text(self.subtitle2, sub_content.text)
-                elif 'se-3-default' in str(content):  # sectiontitle 3                    
+                elif 'se-3-default' in str(content):  # sectiontitle 3
                     txt += self.wrapping_text(self.subtitle3, sub_content.text)
-                else:                
+                else:
                     txt += sub_content.text
 
-                txt += self.endline       
-            return txt    
+                txt += self.endline
+            return txt
         elif 'se-module-text' in str(content):
             for sub_content in content.select('.se-module-text'):
-                for p_tag in sub_content.select('p'):                    
-                    txt += p_tag.text                    
+                for p_tag in sub_content.select('p'):
+                    txt += p_tag.text
                     txt += self.endline
                 if txt == '':
-                    txt += sub_content.text                
+                    txt += sub_content.text
                     txt += self.endline
             return txt
         return None
 
     # 텍스트
-    def unreliable_text(self, content): 
+    def unreliable_text(self, content):
         '''
         txt = ''
         if 'se-module-text' in str(content):
-            for sub_content in content.select('.se-module-text'):            
+            for sub_content in content.select('.se-module-text'):
                 txt += sub_content.text
                 txt += self.endline
             return txt
         '''
         return None
 
-    # 태그 존재 여부 
+    # 태그 존재 여부
     def hashtags(self, content):
         tags ='0'
         if 'se-hash-tag' in str(content):
@@ -141,33 +159,33 @@ class Parser(object):
             tags = '1'
             # for tag in content.select('se-hash-tag'):
             #     print("*"*50,tag)
-            #     # tags = tag.text    
+            #     # tags = tag.text
             #     # tags += self.endline
             # return tags
         return tags
 
     # 코드
-    def code(self, content): 
+    def code(self, content):
         txt = ''
         if 'se-code-source' in str(content):
             txt += '```'
             txt += self.endline
-            for sub_content in content.select('.se-code-source'):                
-                for line in sub_content.text.split('\n'):                    
+            for sub_content in content.select('.se-code-source'):
+                for line in sub_content.text.split('\n'):
                     txt += line + '\n'
                 txt += self.endline
-                #print(str(sub_content))                
+                #print(str(sub_content))
             txt += '```'
             txt += self.endline
             return txt
         return None
 
     # 이미지 그룹
-    def img_group(self,content):  
-        txt = ''        
+    def img_group(self,content):
+        txt = ''
         str_content = str(content)
         if 'se-imageGroup' in str_content or 'se-imageStrip' in str_content:
-            img_txt = self.img(content)            
+            img_txt = self.img(content)
             if not (img_txt == '' or img_txt is None):
                 txt += img_txt
             text_txt = self.text(content)
@@ -175,16 +193,16 @@ class Parser(object):
                 txt += text_txt
             return txt
         return None
-        
+
     # 이미지
-    def img(self,content):  
-        txt = ''        
+    def img(self,content):
+        txt = ''
         if 'se-image' in str(content) or 'se_image' in str(content):
-            for sub_content in content.select('img'):                                             
+            for sub_content in content.select('img'):
                 url = sub_content['data-lazy-src']
                 # if self.markdown_mdoe:
-                #     txt += '![' + './img/' + str(self.counter)+'.png' + ']('                    
-                #     txt += './img/' + str(self.counter)+'.png' + ')'   
+                #     txt += '![' + './img/' + str(self.counter)+'.png' + ']('
+                #     txt += './img/' + str(self.counter)+'.png' + ')'
                 #     txt += '\n'
                 # else:
                 #     txt += '['+ str(self.counter) +']'
@@ -196,25 +214,25 @@ class Parser(object):
                 # else:
                 self.counter += 1
             txt += self.endline
-            return txt       
+            return txt
         return None
 
     def imgCount(self):
         return self.counter
 
     # 스티커 이미지 링크
-    def sticker(self, content):     
+    def sticker(self, content):
         txt = ''
-        cont_text = str(content).replace('se_sticker', 'se-sticker')        
+        cont_text = str(content).replace('se_sticker', 'se-sticker')
         if 'se-sticker' in str(cont_text):
-            if self.skip_sticker:                
+            if self.skip_sticker:
                 self.stkcounter += 1
                 # return '[sticker]' + self.endline
             # for sub_content in content.select('img'):
                 # #fp.write(sub_content['src'])
                 # txt += sub_content['src']
                 # txt += self.endline
-            # return txt   
+            # return txt
         return None
 
     def stickerCnt(self):
@@ -228,7 +246,7 @@ class Parser(object):
     #     return txt
 
     # 구분선
-    def hr(self, content): 
+    def hr(self, content):
         txt = ''
         if 'se-hr' in str(content):
             for sub_content in content.select('.se-hr'):
@@ -239,25 +257,25 @@ class Parser(object):
                 else:
                     txt += '<hr />'
                 txt += self.endline
-            return txt    
+            return txt
         return None
 
     # 텍스트 영역
-    def textarea(self, content): 
+    def textarea(self, content):
         txt = ''
         if 'se_textarea' in str(content):
-            for sub_content in content.select('.se_textarea'): 
+            for sub_content in content.select('.se_textarea'):
                 #fp.write(str(sub_content))
                 txt += str(sub_content)
                 txt += self.endline
-            return txt            
+            return txt
         return None
 
     # 비디오 영역
-    def video(self, content): 
+    def video(self, content):
         txt = ''
         # if 'se_video' in str(content) or 'se-video' in str(content):
-        #     for sub_content in content.select('iframe'): 
+        #     for sub_content in content.select('iframe'):
         #         #fp.write(sub_content['src'])
         #         txt += sub_content['src']
         #         txt += self.endline
@@ -265,28 +283,28 @@ class Parser(object):
         return None
 
     # 비디오 개수세기
-    def videoCnt(self, content): 
-        videoCnt = 0 
+    def videoCnt(self, content):
+        videoCnt = 0
         if 'se_video' in str(content) or 'se-video' in str(content):
-            for sub_content in content.select('iframe'): 
+            for sub_content in content.select('iframe'):
                 #fp.write(sub_content['src'])
                 videoCnt += 1
         return videoCnt
 
     # 스크립트 영역
-    def script(self, content): 
+    def script(self, content):
         txt = ''
         if 'se-section-material' in str(content):
-            for sub_content in content.select('.se-material-title'):                
+            for sub_content in content.select('.se-material-title'):
                 txt += '\t'+sub_content.text
-                txt += self.endline            
-            for sub_content in content.select('.se-section-material'):                
-                for sub_content in content.select('a'): 
+                txt += self.endline
+            for sub_content in content.select('.se-section-material'):
+                for sub_content in content.select('a'):
                     txt += '\t'+sub_content['href']
                     txt += self.endline
             return txt
         if 'se-oembed' in str(content):
-            for sub_content in content.select('script'): 
+            for sub_content in content.select('script'):
                 #fp.write(sub_content['data-module'])
                 script_txt = sub_content['data-module']
                 '''
@@ -296,29 +314,29 @@ class Parser(object):
                 txt += script_txt
                 txt += self.endline
             return txt
-        return None       
+        return None
 
     def anniversary(self, content):
         txt = ''
-        if 'se-anniversarySection' in str(content):    
-            for sub_content in content.select('.se-anniversary-date'): 
-                txt += '\t'+sub_content.text
-                txt += self.endline        
-            for sub_content in content.select('.se-anniversary-date-text'): 
-                txt += '\t'+sub_content.text
-                txt += self.endline        
-            for sub_content in content.select('.se-anniversary-title'): 
+        if 'se-anniversarySection' in str(content):
+            for sub_content in content.select('.se-anniversary-date'):
                 txt += '\t'+sub_content.text
                 txt += self.endline
-            for sub_content in content.select('.se-anniversary-summary'): 
+            for sub_content in content.select('.se-anniversary-date-text'):
                 txt += '\t'+sub_content.text
                 txt += self.endline
-            for sub_content in content.select('a'): 
+            for sub_content in content.select('.se-anniversary-title'):
+                txt += '\t'+sub_content.text
+                txt += self.endline
+            for sub_content in content.select('.se-anniversary-summary'):
+                txt += '\t'+sub_content.text
+                txt += self.endline
+            for sub_content in content.select('a'):
                 txt += '\t'+sub_content['href']
                 txt += self.endline
-               
+
             return txt
-        return None       
+        return None
         '''
         unkown tag: <div class="se-component se-anniversarySection se-l-anniversary_winter" id="SE-de85199c-41be-4717-9a3d-2a4b138b86fb">
         <div class="se-component-content">
@@ -340,7 +358,7 @@ class Parser(object):
         </div>
         '''
 
-    # 위젯 개수 
+    # 위젯 개수
     def widget(self, content):
         if 'aWidget.push' in str(content):
             widgets = str(content).count('aWidget.push')
@@ -349,7 +367,7 @@ class Parser(object):
 
 
     def parsing(self, content):
-        txt = ''        
+        txt = ''
         for func in self.parsing_func_list:
             item = func(content)
             if item is not None:
@@ -357,5 +375,5 @@ class Parser(object):
                 break
 
         if txt == '':
-            print('unkown tag: ' + str(content))        
+            print('unkown tag: ' + str(content))
         return txt
