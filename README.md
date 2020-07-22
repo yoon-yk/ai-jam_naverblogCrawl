@@ -5,6 +5,8 @@
   - 20.07.07 ~ 
   - flagly 대회 제출용 ( 프로젝트 설명 )
 https://www.flagly.org/course/courses/130/
+- 소개 동영상
+https://youtu.be/EdqCfbtKdcw
 
 # New Features! (20.07.22 수정)
 
