@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
   - 20.07.07 ~ 
+  - flagly 대회 제출용
+  https://www.flagly.org/c/pmzr/
 
 
 # New Features! (20.07.22 수정)
