@@ -49,7 +49,7 @@ $ python3 crawl.py
 
 ### Todos
 
- - 
+ - 검색 결과에서 페이지가 마지막인 경우 자동으로 프로그램 종료하기 
 
 License
 ----
