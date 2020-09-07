@@ -62,16 +62,6 @@ def crawler(blog_url, path, file_name, csvname):
             taglist = parser.hashtags(soup)
             #widgets = parser.widget(soup) #여기서 문제 발생, 일단 0으로 채워지게 함
             videoCnt = parser.videoCnt(soup)
-            # print(f"********{taglist}********")
-
-            ### 공감 수가 크롤링 되지 않음 
-            # fp_full = open(path + '/' + 'full_' + file_name,  "r", encoding='utf-8')
-            # # 공감수를 fp_full에서 찾으려고 했는데 제거됐다 ...????
-            # # likeCnt = ''
-            # # result = re.findall('<em class="u_cnt _count">(.*)</em>', fp_full)
-            # # likeCnt += result[0]
-            # likeCnt = "hh"
-            # fp_full.close()
 
             # add data as long as content is not empty
             if len(line) != 0 :
@@ -95,17 +85,7 @@ def run(url, output, csvname, foldername): #foldername 인수 추가함
     save_folder_path=''
     redirect_url=''
     redirect_url = Parser.redirect_url(url)
-    #print('redirect url :' + redirect_url)
-    # for item in redirect_url.split('&'):
-    #     if item.find('logNo=') >= 0:
-    #         #item[redirect_url.find('logNo='), len('logNo='):]
-    #         value = item.split('=')
-    #         #print('content name: ' + value[1])
-    #         save_folder_path = out_path + '/' + value[1]
-    #         if utils.check_folder(save_folder_path):
-    #             #print(value[1] + ' 폴더를 생성했습니다. ')
-    #             if utils.check_folder(save_folder_path+'/img'):
-    #                 print(value[1] + '와 ' + value[1] + 'img 폴더를 생성했습니다. ')
+    
 
     ###
     # foldername 인수로 받아 폴더명으로 사용
