@@ -19,12 +19,11 @@ import download_naver_blog
 """ 키워드 설정하기 """
 driver = webdriver.Chrome("./chromedriver") #크롬드라이버 경로 지정
 keyword = ""
-accurate = ["\"ㅎㅎ\"", "\"자주\""]
-mustin = ["%2B미니빔", " %2B지원받아"] #첫번째 원소만 건드리기
-exceptf = [" -원고료", " -체험단"] #첫번째 원소만 건드리기
-searchfor = keyword+"+"+mustin[0]+mustin[1]
-# +mustin[1]
-driver.get("https://search.naver.com/search.naver?where=post&sm=tab_jum&query="+searchfor)
+accurate = ["\"ㅎㅎ\"", "\"자주\""] # 정확히 일치하는 단어
+mustin = ["%2B미니빔", " %2B지원받아"] # 반드시 포함해야 하는 단어
+exceptf = [" -원고료", " -체험단"] # 검색 결과에서 제외하는 키워드
+searchfor = keyword+"+"+mustin[0]+mustin[1] # 설정 조건에 맞추어서 추가하기
+driver.get("https://search.naver.com/search.naver?where=post&sm=tab_jum&query="+searchfor) # 크롬드라이버 작동
 
 # 저장할 csv 파일 설정하기 
 with open(searchfor+".csv",  "w", encoding='utf-8', newline='') as csv_fp:
