@@ -1,7 +1,6 @@
-from selenium import webdriver
-from bs4 import BeautifulSoup as bs
 import pandas as pd
-
+from bs4 import BeautifulSoup as bs
+from selenium import webdriver
 
 # chromedriver는 다운로드 후 경로 지정을 해줘야 한다. (현재는 같은 폴더 )
 driver = webdriver.Chrome("./chromedriver/chromedriver")
