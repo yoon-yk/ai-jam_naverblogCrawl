@@ -4,16 +4,16 @@
 https://github.com/chandong83/download-naver-blog
 """
 
-import sys
 import csv
 import re
+import sys
+
 import requests
 from bs4 import BeautifulSoup
 
-
+import utils
 # import parsing_blog
 from parsing_blog import Parser
-import utils
 
 out_path = "out"
 folder_path = ""

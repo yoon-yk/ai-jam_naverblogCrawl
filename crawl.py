@@ -1,18 +1,15 @@
 # 네이버 블로그 크롤링
-import parser
 import csv
+import parser
+import time
 
 import requests  # HTTP �묒냽
 from bs4 import BeautifulSoup as bs  # �뱁럹�댁� �뚯떛
 from selenium import webdriver
-import requests
-import time
 
-
+import download_naver_blog
 import parsing_blog
 from parsing_blog import Parser
-import download_naver_blog
-
 
 """ 키워드 설정하기 """
 driver = webdriver.Chrome("./chromedriver/chromedriver")
