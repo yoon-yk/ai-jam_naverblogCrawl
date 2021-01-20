@@ -13,20 +13,19 @@ base_url = 'https://blog.naver.com/tinyme76/222018371289'
 driver.get(base_url)
 
 
-driver.switch_to_default_content # 상위 프레임으로 전환
-driver.switch_to.frame('mainFrame') # cafe_main 프레임으로 전환
+driver.switch_to_default_content  # 상위 프레임으로 전환
+driver.switch_to.frame('mainFrame')  # cafe_main 프레임으로 전환
 
-html = driver.page_source # 현재 페이지의 주소를 반환 
+html = driver.page_source  # 현재 페이지의 주소를 반환
 soup = bs(html, 'html.parser')
 
-# 태그 
+# 태그
 tags = soup.find_all('span', class_='ell')
-for tag in tags :
+for tag in tags:
     tag = tag.text
 
 
 # 공감
 heart = soup.find_all('em', class_='u_cnt _count')
-for hrt in heart :
+for hrt in heart:
     hrt = hrt.text
-
