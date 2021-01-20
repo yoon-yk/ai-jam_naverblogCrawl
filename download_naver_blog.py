@@ -23,7 +23,8 @@ def crawler(blog_url, path, file_name):
         soup = BeautifulSoup(requests.get(blog_url).text, "lxml")
         html = BeautifulSoup(requests.get(blog_url).text, "html.parser")
 
-        with open(path + "/" + "full_" + file_name, "w", encoding="utf-8") as fp_full:
+        with open(path + "/" + "full_" + file_name, "w",
+                  encoding="utf-8") as fp_full:
             fp_full.write(str(soup))
 
         with open(path + "/" + file_name, "w", encoding="utf-8") as fp:
@@ -96,7 +97,8 @@ if __name__ == "__main__":
     debug = False
     if debug is False:
         if len(sys.argv) != 3:
-            print("python .\download_naver_blog.py [url of naver blog] [output]")
+            print(
+                "python .\download_naver_blog.py [url of naver blog] [output]")
             print(
                 "ex> python .\download_naver_blog.py https://blog.naver.com/chandong83/221951781607 blog.html"
             )

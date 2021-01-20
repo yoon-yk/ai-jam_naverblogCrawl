@@ -10,7 +10,6 @@ from selenium import webdriver
 import download_naver_blog
 import parsing_blog
 from parsing_blog import Parser
-
 """ 키워드 설정하기 """
 driver = webdriver.Chrome("./chromedriver/chromedriver")
 
@@ -33,10 +32,8 @@ exceptf = [" -광고", " -빼고"]
 searchfor = keyword + "+" + mustin[0] + exceptf[0]
 
 driver.get(
-    "https://search.naver.com/search.naver?where=post&sm=tab_jum&query=" + searchfor
-)
-
-
+    "https://search.naver.com/search.naver?where=post&sm=tab_jum&query=" +
+    searchfor)
 """
 媛� 寃뚯떆臾� 而⑦뀒�대꼫 : li.sh_blog_top
 寃뚯떆臾� �쒕ぉ �댁쓽 留곹겕 : li.sh_blog_top dt a �대��� href �띿꽦
@@ -46,8 +43,8 @@ driver.get(
 """
 with open("summary.csv", "w", encoding="utf-8", newline="") as csv_fp:
     writer = csv.DictWriter(
-        csv_fp, fieldnames=["num", "content", "img", "sticker", "like", "tags"]
-    )
+        csv_fp,
+        fieldnames=["num", "content", "img", "sticker", "like", "tags"])
     writer.writeheader()
 
 bloglinklist = driver.find_elements_by_css_selector("li.sh_blog_top dt a")
@@ -74,9 +71,9 @@ for i in bloglinklist:
 
     # open csv file
 
-    with open("out/" + path + "/" + filename, "r") as txtfile, open(
-        "summary.csv", "a", encoding="utf-8"
-    ) as csvfileout:
+    with open("out/" + path + "/" + filename,
+              "r") as txtfile, open("summary.csv", "a",
+                                    encoding="utf-8") as csvfileout:
         parser = Parser(path, True)
         line = txtfile.read().replace("\n", " ")
         imgCnt = parser.imgCount()
@@ -110,15 +107,13 @@ for i in bloglinklist:
         # fp_full.close()
 
         writer = csv.DictWriter(
-            csvfileout, fieldnames=["num", "content", "img", "sticker", "like", "tags"]
-        )
-        writer.writerow(
-            {
-                "num": filename.rstrip(".txt"),
-                "content": line,
-                "img": imgCnt,
-                "sticker": stiCnt,
-                "like": strheart,
-                "tags": strtag,
-            }
-        )
+            csvfileout,
+            fieldnames=["num", "content", "img", "sticker", "like", "tags"])
+        writer.writerow({
+            "num": filename.rstrip(".txt"),
+            "content": line,
+            "img": imgCnt,
+            "sticker": stiCnt,
+            "like": strheart,
+            "tags": strtag,
+        })

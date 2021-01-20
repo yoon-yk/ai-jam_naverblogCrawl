@@ -11,7 +11,6 @@ base_url = "https://blog.naver.com/tinyme76/222018371289"
 # driver.get(base_url + '&search.menuid=***&search.page=***')
 driver.get(base_url)
 
-
 driver.switch_to_default_content  # 상위 프레임으로 전환
 driver.switch_to.frame("mainFrame")  # cafe_main 프레임으로 전환
 
@@ -22,7 +21,6 @@ soup = bs(html, "html.parser")
 tags = soup.find_all("span", class_="ell")
 for tag in tags:
     tag = tag.text
-
 
 # 공감
 heart = soup.find_all("em", class_="u_cnt _count")
